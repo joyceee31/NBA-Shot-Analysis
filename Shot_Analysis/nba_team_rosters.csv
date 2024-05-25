@@ -1,0 +1,1041 @@
+TeamName,Season,PLAYER,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP
+Atlanta Hawks,2022-23,Donovan Williams,G,6-6,190,"SEP 06, 2001",21.0,R
+Atlanta Hawks,2022-23,Bruno Fernando,F-C,6-10,240,"AUG 15, 1998",24.0,3
+Atlanta Hawks,2022-23,Jalen Johnson,F,6-8,219,"DEC 18, 2001",21.0,1
+Atlanta Hawks,2022-23,Trent Forrest,G,6-4,210,"JUN 12, 1998",25.0,2
+Atlanta Hawks,2022-23,Aaron Holiday,G,6-0,185,"SEP 30, 1996",26.0,4
+Atlanta Hawks,2022-23,Dejounte Murray,G,6-5,180,"SEP 19, 1996",26.0,5
+Atlanta Hawks,2022-23,Trae Young,G,6-1,164,"SEP 19, 1998",24.0,4
+Atlanta Hawks,2022-23,De'Andre Hunter,F-G,6-8,221,"DEC 02, 1997",25.0,3
+Atlanta Hawks,2022-23,Bogdan Bogdanovic,G,6-5,225,"AUG 18, 1992",30.0,5
+Atlanta Hawks,2022-23,AJ Griffin,F,6-6,220,"AUG 25, 2003",19.0,R
+Atlanta Hawks,2022-23,Clint Capela,C,6-10,256,"MAY 18, 1994",29.0,8
+Atlanta Hawks,2022-23,Onyeka Okongwu,F-C,6-9,240,"DEC 11, 2000",22.0,2
+Atlanta Hawks,2022-23,John Collins,F-C,6-9,226,"SEP 23, 1997",25.0,5
+Atlanta Hawks,2022-23,Tyrese Martin,G,6-6,215,"MAR 07, 1999",24.0,R
+Atlanta Hawks,2022-23,Garrison Mathews,G,6-6,215,"OCT 24, 1996",26.0,3
+Atlanta Hawks,2022-23,Vit Krejci,G,6-8,195,"JUN 19, 2000",23.0,1
+Atlanta Hawks,2022-23,Saddiq Bey,F,6-7,215,"APR 09, 1999",24.0,2
+Atlanta Hawks,2023-24,Jalen Johnson,F,6-8,219,"DEC 18, 2001",22.0,2
+Atlanta Hawks,2023-24,Trent Forrest,G,6-4,210,"JUN 12, 1998",25.0,3
+Atlanta Hawks,2023-24,Seth Lundy,G-F,6-4,220,"APR 02, 2000",24.0,R
+Atlanta Hawks,2023-24,Kobe Bufkin,G,6-5,195,"SEP 21, 2003",20.0,R
+Atlanta Hawks,2023-24,Dejounte Murray,G,6-5,180,"SEP 19, 1996",27.0,6
+Atlanta Hawks,2023-24,Trae Young,G,6-1,164,"SEP 19, 1998",25.0,5
+Atlanta Hawks,2023-24,De'Andre Hunter,F-G,6-8,221,"DEC 02, 1997",26.0,4
+Atlanta Hawks,2023-24,Bogdan Bogdanovic,G,6-5,225,"AUG 18, 1992",31.0,6
+Atlanta Hawks,2023-24,AJ Griffin,F,6-6,220,"AUG 25, 2003",20.0,1
+Atlanta Hawks,2023-24,Clint Capela,C,6-10,256,"MAY 18, 1994",29.0,9
+Atlanta Hawks,2023-24,Onyeka Okongwu,F-C,6-10,240,"DEC 11, 2000",23.0,3
+Atlanta Hawks,2023-24,Mouhamed Gueye,F,6-10,210,"NOV 09, 2002",21.0,R
+Atlanta Hawks,2023-24,Dylan Windler,G-F,6-7,196,"SEP 22, 1996",27.0,3
+Atlanta Hawks,2023-24,Bruno Fernando,F-C,6-9,240,"AUG 15, 1998",25.0,4
+Atlanta Hawks,2023-24,Garrison Mathews,G,6-6,215,"OCT 24, 1996",27.0,4
+Atlanta Hawks,2023-24,Vit Krejci,G,6-8,195,"JUN 19, 2000",23.0,2
+Atlanta Hawks,2023-24,Wesley Matthews,G,6-5,220,"OCT 14, 1986",37.0,14
+Atlanta Hawks,2023-24,Saddiq Bey,G-F,6-7,215,"APR 09, 1999",25.0,3
+Boston Celtics,2022-23,Jayson Tatum,F-G,6-8,210,"MAR 03, 1998",25.0,5
+Boston Celtics,2022-23,Jaylen Brown,G-F,6-6,223,"OCT 24, 1996",26.0,6
+Boston Celtics,2022-23,Danilo Gallinari,F,6-10,236,"AUG 08, 1988",34.0,13
+Boston Celtics,2022-23,Derrick White,G,6-4,190,"JUL 02, 1994",28.0,5
+Boston Celtics,2022-23,Payton Pritchard,G,6-1,195,"JAN 28, 1998",25.0,2
+Boston Celtics,2022-23,Grant Williams,F,6-6,236,"NOV 30, 1998",24.0,3
+Boston Celtics,2022-23,Malcolm Brogdon,G,6-4,229,"DEC 11, 1992",30.0,6
+Boston Celtics,2022-23,JD Davison,G,6-1,195,"OCT 03, 2002",20.0,R
+Boston Celtics,2022-23,Mfiondu Kabengele,C,6-10,250,"AUG 14, 1997",25.0,2
+Boston Celtics,2022-23,Sam Hauser,F,6-7,217,"DEC 08, 1997",25.0,1
+Boston Celtics,2022-23,Marcus Smart,G,6-4,220,"MAR 06, 1994",29.0,8
+Boston Celtics,2022-23,Luke Kornet,C-F,7-2,250,"JUL 15, 1995",27.0,5
+Boston Celtics,2022-23,Al Horford,C-F,6-9,240,"JUN 03, 1986",37.0,15
+Boston Celtics,2022-23,Robert Williams III,C-F,6-9,237,"OCT 17, 1997",25.0,4
+Boston Celtics,2022-23,Mike Muscala,F-C,6-11,240,"JUL 01, 1991",31.0,9
+Boston Celtics,2022-23,Blake Griffin,F,6-9,250,"MAR 16, 1989",34.0,12
+Boston Celtics,2022-23,Justin Champagnie,G-F,6-6,206,"JUN 29, 2001",22.0,1
+Boston Celtics,2023-24,Jayson Tatum,F-G,6-8,210,"MAR 03, 1998",26.0,6
+Boston Celtics,2023-24,Jrue Holiday,G,6-4,205,"JUN 12, 1990",33.0,14
+Boston Celtics,2023-24,Jaylen Brown,G-F,6-6,223,"OCT 24, 1996",27.0,7
+Boston Celtics,2023-24,Kristaps Porzingis,F-C,7-2,240,"AUG 02, 1995",28.0,7
+Boston Celtics,2023-24,Derrick White,G,6-4,190,"JUL 02, 1994",29.0,6
+Boston Celtics,2023-24,Payton Pritchard,G,6-1,195,"JAN 28, 1998",26.0,3
+Boston Celtics,2023-24,Oshae Brissett,F-G,6-7,210,"JUN 20, 1998",25.0,4
+Boston Celtics,2023-24,Drew Peterson,F,6-9,205,"NOV 09, 1999",24.0,R
+Boston Celtics,2023-24,JD Davison,G,6-1,195,"OCT 03, 2002",21.0,1
+Boston Celtics,2023-24,Xavier Tillman,F,6-7,245,"JAN 12, 1999",25.0,3
+Boston Celtics,2023-24,Jordan Walsh,G,6-6,205,"MAR 03, 2004",20.0,R
+Boston Celtics,2023-24,Sam Hauser,F,6-7,217,"DEC 08, 1997",26.0,2
+Boston Celtics,2023-24,Luke Kornet,C-F,7-1,250,"JUL 15, 1995",28.0,6
+Boston Celtics,2023-24,Al Horford,C-F,6-9,240,"JUN 03, 1986",37.0,16
+Boston Celtics,2023-24,Jaden Springer,G,6-4,202,"SEP 25, 2002",21.0,2
+Boston Celtics,2023-24,Svi Mykhailiuk,G-F,6-7,205,"JUN 10, 1997",26.0,5
+Boston Celtics,2023-24,Neemias Queta,C,7-0,248,"JUL 13, 1999",24.0,2
+Cleveland Cavaliers,2022-23,Caris LeVert,G,6-6,205,"AUG 25, 1994",28.0,6
+Cleveland Cavaliers,2022-23,Evan Mobley,C,6-11,215,"JUN 18, 2001",22.0,1
+Cleveland Cavaliers,2022-23,Lamar Stevens,F,6-6,230,"JUL 09, 1997",25.0,2
+Cleveland Cavaliers,2022-23,Dylan Windler,G-F,6-7,196,"SEP 22, 1996",26.0,2
+Cleveland Cavaliers,2022-23,Darius Garland,G,6-1,192,"JAN 26, 2000",23.0,3
+Cleveland Cavaliers,2022-23,Ricky Rubio,G,6-2,190,"OCT 21, 1990",32.0,11
+Cleveland Cavaliers,2022-23,Danny Green,G,6-6,215,"JUN 22, 1987",36.0,13
+Cleveland Cavaliers,2022-23,Isaiah Mobley,F,6-8,238,"SEP 24, 1999",23.0,R
+Cleveland Cavaliers,2022-23,Cedi Osman,F,6-7,230,"APR 08, 1995",28.0,5
+Cleveland Cavaliers,2022-23,Raul Neto,G,6-2,180,"MAY 19, 1992",31.0,7
+Cleveland Cavaliers,2022-23,Sam Merrill,G,6-4,205,"MAY 15, 1996",27.0,2
+Cleveland Cavaliers,2022-23,Mamadi Diakite,F,6-9,228,"JAN 21, 1997",26.0,2
+Cleveland Cavaliers,2022-23,Jarrett Allen,C,6-9,243,"APR 21, 1998",25.0,5
+Cleveland Cavaliers,2022-23,Dean Wade,F-C,6-9,228,"NOV 20, 1996",26.0,3
+Cleveland Cavaliers,2022-23,Robin Lopez,C,7-0,281,"APR 01, 1988",35.0,14
+Cleveland Cavaliers,2022-23,Isaac Okoro,F-G,6-5,225,"JAN 26, 2001",22.0,2
+Cleveland Cavaliers,2022-23,Donovan Mitchell,G,6-1,215,"SEP 07, 1996",26.0,5
+Cleveland Cavaliers,2023-24,Max Strus,G-F,6-5,215,"MAR 28, 1996",28.0,4
+Cleveland Cavaliers,2023-24,Ty Jerome,G-F,6-5,195,"JUL 08, 1997",26.0,4
+Cleveland Cavaliers,2023-24,Caris LeVert,G,6-6,205,"AUG 25, 1994",29.0,7
+Cleveland Cavaliers,2023-24,Evan Mobley,C,6-11,215,"JUN 18, 2001",22.0,2
+Cleveland Cavaliers,2023-24,Sam Merrill,G,6-4,205,"MAY 15, 1996",27.0,3
+Cleveland Cavaliers,2023-24,Pete Nance,F,6-10,225,"FEB 19, 2000",24.0,R
+Cleveland Cavaliers,2023-24,Craig Porter Jr.,G,6-1,180,"FEB 26, 2000",24.0,R
+Cleveland Cavaliers,2023-24,Darius Garland,G,6-1,192,"JAN 26, 2000",24.0,4
+Cleveland Cavaliers,2023-24,Tristan Thompson,C-F,6-9,254,"MAR 13, 1991",33.0,12
+Cleveland Cavaliers,2023-24,Isaiah Mobley,F,6-8,238,"SEP 24, 1999",24.0,1
+Cleveland Cavaliers,2023-24,Georges Niang,F,6-7,230,"JUN 17, 1993",30.0,7
+Cleveland Cavaliers,2023-24,Emoni Bates,F,6-8,170,"JAN 28, 2004",20.0,R
+Cleveland Cavaliers,2023-24,Marcus Morris Sr.,F,6-8,218,"SEP 02, 1989",34.0,12
+Cleveland Cavaliers,2023-24,Damian Jones,C,6-10,245,"JUN 30, 1995",28.0,7
+Cleveland Cavaliers,2023-24,Jarrett Allen,C,6-9,243,"APR 21, 1998",26.0,6
+Cleveland Cavaliers,2023-24,Dean Wade,F-C,6-9,228,"NOV 20, 1996",27.0,4
+Cleveland Cavaliers,2023-24,Isaac Okoro,F-G,6-5,225,"JAN 26, 2001",23.0,3
+Cleveland Cavaliers,2023-24,Donovan Mitchell,G,6-3,215,"SEP 07, 1996",27.0,6
+New Orleans Pelicans,2022-23,Dereon Seabron,G,6-5,180,"MAY 26, 2000",23.0,R
+New Orleans Pelicans,2022-23,Zion Williamson,F,6-6,284,"JUL 06, 2000",22.0,2
+New Orleans Pelicans,2022-23,Josh Richardson,G,6-6,200,"SEP 15, 1993",29.0,7
+New Orleans Pelicans,2022-23,CJ McCollum,G,6-3,190,"SEP 19, 1991",31.0,9
+New Orleans Pelicans,2022-23,Herbert Jones,F,6-7,206,"OCT 06, 1998",24.0,1
+New Orleans Pelicans,2022-23,Naji Marshall,F,6-7,220,"JAN 24, 1998",25.0,2
+New Orleans Pelicans,2022-23,Willy Hernangomez,C-F,6-11,250,"MAY 27, 1994",29.0,6
+New Orleans Pelicans,2022-23,Jaxson Hayes,C-F,7-0,220,"MAY 23, 2000",23.0,3
+New Orleans Pelicans,2022-23,Dyson Daniels,G,6-7,199,"MAR 17, 2003",20.0,R
+New Orleans Pelicans,2022-23,Kira Lewis Jr.,G,6-1,170,"APR 06, 2001",22.0,2
+New Orleans Pelicans,2022-23,Brandon Ingram,F,6-8,190,"SEP 02, 1997",25.0,6
+New Orleans Pelicans,2022-23,Jose Alvarado,G,6-0,179,"APR 12, 1998",25.0,1
+New Orleans Pelicans,2022-23,Jonas Valanciunas,C,6-11,265,"MAY 06, 1992",31.0,10
+New Orleans Pelicans,2022-23,Larry Nance Jr.,F-C,6-8,245,"JAN 01, 1993",30.0,7
+New Orleans Pelicans,2022-23,Trey Murphy III,F,6-8,206,"JUN 18, 2000",23.0,1
+New Orleans Pelicans,2022-23,E.J. Liddell,F,6-6,240,"DEC 18, 2000",22.0,R
+New Orleans Pelicans,2022-23,Garrett Temple,G-F,6-6,195,"MAY 08, 1986",37.0,12
+New Orleans Pelicans,2023-24,Dereon Seabron,G,6-5,180,"MAY 26, 2000",23.0,1
+New Orleans Pelicans,2023-24,Zion Williamson,F,6-6,284,"JUL 06, 2000",23.0,3
+New Orleans Pelicans,2023-24,CJ McCollum,G,6-3,190,"SEP 19, 1991",32.0,10
+New Orleans Pelicans,2023-24,Herbert Jones,F,6-7,206,"OCT 06, 1998",25.0,2
+New Orleans Pelicans,2023-24,Naji Marshall,F,6-6,220,"JAN 24, 1998",26.0,3
+New Orleans Pelicans,2023-24,Dyson Daniels,G,6-7,199,"MAR 17, 2003",21.0,1
+New Orleans Pelicans,2023-24,Brandon Ingram,F,6-8,190,"SEP 02, 1997",26.0,7
+New Orleans Pelicans,2023-24,Jose Alvarado,G,6-0,179,"APR 12, 1998",26.0,2
+New Orleans Pelicans,2023-24,Jonas Valanciunas,C,6-11,265,"MAY 06, 1992",31.0,11
+New Orleans Pelicans,2023-24,Larry Nance Jr.,F-C,6-8,245,"JAN 01, 1993",31.0,8
+New Orleans Pelicans,2023-24,Jordan Hawkins,G,6-5,190,"APR 29, 2002",22.0,R
+New Orleans Pelicans,2023-24,Trey Murphy III,F,6-8,206,"JUN 18, 2000",23.0,2
+New Orleans Pelicans,2023-24,E.J. Liddell,F,6-6,240,"DEC 18, 2000",23.0,R
+New Orleans Pelicans,2023-24,Malcolm Hill,F,6-6,220,"OCT 26, 1995",28.0,2
+New Orleans Pelicans,2023-24,Matt Ryan,F,6-6,215,"APR 17, 1997",27.0,2
+New Orleans Pelicans,2023-24,Cody Zeller,F-C,6-11,240,"OCT 05, 1992",31.0,10
+New Orleans Pelicans,2023-24,Jeremiah Robinson-Earl,F,6-8,240,"NOV 03, 2000",23.0,2
+Chicago Bulls,2022-23,Coby White,G,6-5,195,"FEB 16, 2000",23.0,3
+Chicago Bulls,2022-23,Lonzo Ball,G,6-6,190,"OCT 27, 1997",25.0,5
+Chicago Bulls,2022-23,Andre Drummond,C,6-11,279,"AUG 10, 1993",29.0,10
+Chicago Bulls,2022-23,Derrick Jones Jr.,F,6-6,210,"FEB 15, 1997",26.0,6
+Chicago Bulls,2022-23,Alex Caruso,G,6-5,186,"FEB 28, 1994",29.0,5
+Chicago Bulls,2022-23,Zach LaVine,G,6-5,200,"MAR 10, 1995",28.0,8
+Chicago Bulls,2022-23,Nikola Vucevic,C,6-10,260,"OCT 24, 1990",32.0,11
+Chicago Bulls,2022-23,DeMar DeRozan,G-F,6-6,220,"AUG 07, 1989",33.0,13
+Chicago Bulls,2022-23,Ayo Dosunmu,G,6-5,200,"JAN 17, 2000",23.0,1
+Chicago Bulls,2022-23,Marko Simonovic,C,7-0,220,"OCT 15, 1999",23.0,1
+Chicago Bulls,2022-23,Patrick Beverley,G,6-2,180,"JUL 12, 1988",34.0,10
+Chicago Bulls,2022-23,Carlik Jones,G,6-0,174,"DEC 23, 1997",25.0,1
+Chicago Bulls,2022-23,Javonte Green,G,6-5,205,"JUL 23, 1993",29.0,3
+Chicago Bulls,2022-23,Dalen Terry,F,6-7,195,"JUL 12, 2002",20.0,R
+Chicago Bulls,2022-23,Terry Taylor,F,6-4,230,"SEP 23, 1999",23.0,1
+Chicago Bulls,2022-23,Justin Lewis,F,6-7,245,"APR 12, 2002",21.0,R
+Chicago Bulls,2022-23,Patrick Williams,F,6-7,215,"AUG 26, 2001",21.0,2
+Chicago Bulls,2023-24,Andrew Funk,G,6-5,200,"SEP 21, 1999",24.0,R
+Chicago Bulls,2023-24,Coby White,G,6-5,195,"FEB 16, 2000",24.0,4
+Chicago Bulls,2023-24,Lonzo Ball,G,6-6,190,"OCT 27, 1997",26.0,5
+Chicago Bulls,2023-24,Andre Drummond,C,6-11,279,"AUG 10, 1993",30.0,11
+Chicago Bulls,2023-24,Jevon Carter,G,6-1,200,"SEP 14, 1995",28.0,5
+Chicago Bulls,2023-24,Alex Caruso,G,6-5,186,"FEB 28, 1994",30.0,6
+Chicago Bulls,2023-24,Zach LaVine,G,6-5,200,"MAR 10, 1995",29.0,9
+Chicago Bulls,2023-24,Nikola Vucevic,C,6-10,260,"OCT 24, 1990",33.0,12
+Chicago Bulls,2023-24,DeMar DeRozan,G-F,6-6,220,"AUG 07, 1989",34.0,14
+Chicago Bulls,2023-24,Ayo Dosunmu,G,6-5,200,"JAN 17, 2000",24.0,2
+Chicago Bulls,2023-24,Torrey Craig,F,6-5,221,"DEC 19, 1990",33.0,6
+Chicago Bulls,2023-24,Julian Phillips,F,6-8,198,"NOV 05, 2003",20.0,R
+Chicago Bulls,2023-24,Onuralp Bitim,F,6-6,215,"MAR 31, 1999",25.0,R
+Chicago Bulls,2023-24,Adama Sanogo,F,6-9,245,"FEB 12, 2002",22.0,R
+Chicago Bulls,2023-24,Javonte Green,G,6-5,205,"JUL 23, 1993",30.0,4
+Chicago Bulls,2023-24,Dalen Terry,F,6-7,195,"JUL 12, 2002",21.0,1
+Chicago Bulls,2023-24,Patrick Williams,F,6-7,215,"AUG 26, 2001",22.0,3
+Chicago Bulls,2023-24,Henri Drell,F,6-9,220,"APR 25, 2000",24.0,R
+Dallas Mavericks,2022-23,JaVale McGee,C-F,7-0,270,"JAN 19, 1988",35.0,14
+Dallas Mavericks,2022-23,Justin Holiday,F-G,6-6,180,"APR 05, 1989",34.0,9
+Dallas Mavericks,2022-23,Theo Pinson,G-F,6-7,212,"NOV 05, 1995",27.0,4
+Dallas Mavericks,2022-23,Kyrie Irving,G,6-2,195,"MAR 23, 1992",31.0,11
+Dallas Mavericks,2022-23,Jaden Hardy,G,6-3,198,"JUL 05, 2002",20.0,R
+Dallas Mavericks,2022-23,Dwight Powell,F-C,6-10,240,"JUL 20, 1991",31.0,8
+Dallas Mavericks,2022-23,Josh Green,G,6-7,200,"NOV 16, 2000",22.0,2
+Dallas Mavericks,2022-23,A.J. Lawson,G,6-6,179,"JUL 15, 2000",22.0,R
+Dallas Mavericks,2022-23,Tim Hardaway Jr.,G-F,6-5,205,"MAR 16, 1992",31.0,9
+Dallas Mavericks,2022-23,Markieff Morris,F,6-9,245,"SEP 02, 1989",33.0,11
+Dallas Mavericks,2022-23,Frank Ntilikina,G,6-4,200,"JUL 28, 1998",24.0,5
+Dallas Mavericks,2022-23,McKinley Wright IV,G,5-11,192,"OCT 25, 1998",24.0,1
+Dallas Mavericks,2022-23,Reggie Bullock Jr.,G-F,6-6,205,"MAR 16, 1991",32.0,9
+Dallas Mavericks,2022-23,Christian Wood,F,6-9,214,"SEP 27, 1995",27.0,6
+Dallas Mavericks,2022-23,Maxi Kleber,F,6-10,240,"JAN 29, 1992",31.0,5
+Dallas Mavericks,2022-23,Davis Bertans,F,6-10,225,"NOV 12, 1992",30.0,6
+Dallas Mavericks,2022-23,Luka Doncic,F-G,6-7,230,"FEB 28, 1999",24.0,4
+Dallas Mavericks,2023-24,Dante Exum,G,6-5,214,"JUL 13, 1995",28.0,6
+Dallas Mavericks,2023-24,Brandon Williams,G,6-1,190,"NOV 22, 1999",24.0,1
+Dallas Mavericks,2023-24,Jaden Hardy,G,6-3,198,"JUL 05, 2002",21.0,1
+Dallas Mavericks,2023-24,Dereck Lively II,C,7-1,230,"FEB 12, 2004",20.0,R
+Dallas Mavericks,2023-24,Dwight Powell,F-C,6-10,240,"JUL 20, 1991",32.0,9
+Dallas Mavericks,2023-24,Josh Green,G,6-5,200,"NOV 16, 2000",23.0,3
+Dallas Mavericks,2023-24,A.J. Lawson,G,6-6,179,"JUL 15, 2000",23.0,1
+Dallas Mavericks,2023-24,Tim Hardaway Jr.,G-F,6-5,205,"MAR 16, 1992",32.0,10
+Dallas Mavericks,2023-24,Kyrie Irving,G,6-2,195,"MAR 23, 1992",32.0,12
+Dallas Mavericks,2023-24,Alex Fudge,F,6-8,200,"MAY 06, 2003",20.0,R
+Dallas Mavericks,2023-24,Olivier-Maxence Prosper,F,6-7,230,"JUL 03, 2002",21.0,R
+Dallas Mavericks,2023-24,Daniel Gafford,F-C,6-10,234,"OCT 01, 1998",25.0,4
+Dallas Mavericks,2023-24,P.J. Washington,F,6-7,230,"AUG 23, 1998",25.0,4
+Dallas Mavericks,2023-24,Greg Brown III,F,6-7,206,"SEP 01, 2001",22.0,2
+Dallas Mavericks,2023-24,Maxi Kleber,F,6-10,240,"JAN 29, 1992",32.0,6
+Dallas Mavericks,2023-24,Derrick Jones Jr.,F,6-6,210,"FEB 15, 1997",27.0,7
+Dallas Mavericks,2023-24,Luka Doncic,F-G,6-7,230,"FEB 28, 1999",25.0,5
+Dallas Mavericks,2023-24,Markieff Morris,F,6-9,245,"SEP 02, 1989",34.0,12
+Denver Nuggets,2022-23,Christian Braun,G,6-6,220,"APR 17, 2001",22.0,R
+Denver Nuggets,2022-23,Michael Porter Jr.,F,6-10,218,"JUN 29, 1998",25.0,3
+Denver Nuggets,2022-23,Kentavious Caldwell-Pope,G,6-5,204,"FEB 18, 1993",30.0,9
+Denver Nuggets,2022-23,DeAndre Jordan,C,6-11,265,"JUL 21, 1988",34.0,14
+Denver Nuggets,2022-23,Reggie Jackson,G,6-2,208,"APR 16, 1990",33.0,11
+Denver Nuggets,2022-23,Peyton Watson,G,6-7,200,"SEP 11, 2002",20.0,R
+Denver Nuggets,2022-23,Jack White,F,6-7,225,"AUG 05, 1997",25.0,R
+Denver Nuggets,2022-23,Bruce Brown,G-F,6-4,202,"AUG 15, 1996",26.0,4
+Denver Nuggets,2022-23,Thomas Bryant,C-F,6-10,248,"JUL 31, 1997",25.0,5
+Denver Nuggets,2022-23,Ish Smith,G,6-0,175,"JUL 05, 1988",34.0,12
+Denver Nuggets,2022-23,Nikola Jokic,C,6-11,284,"FEB 19, 1995",28.0,7
+Denver Nuggets,2022-23,Collin Gillespie,G,6-1,195,"JUN 25, 1999",24.0,R
+Denver Nuggets,2022-23,Zeke Nnaji,F-C,6-9,240,"JAN 09, 2001",22.0,2
+Denver Nuggets,2022-23,Jamal Murray,G,6-4,215,"FEB 23, 1997",26.0,5
+Denver Nuggets,2022-23,Vlatko Cancar,F,6-8,236,"APR 10, 1997",26.0,3
+Denver Nuggets,2022-23,Jeff Green,F,6-8,235,"AUG 28, 1986",36.0,14
+Denver Nuggets,2022-23,Aaron Gordon,F,6-8,235,"SEP 16, 1995",27.0,8
+Denver Nuggets,2023-24,Christian Braun,G,6-6,220,"APR 17, 2001",23.0,1
+Denver Nuggets,2023-24,Michael Porter Jr.,F,6-10,218,"JUN 29, 1998",25.0,4
+Denver Nuggets,2023-24,Julian Strawther,G,6-6,205,"APR 18, 2002",22.0,R
+Denver Nuggets,2023-24,Hunter Tyson,F,6-8,215,"JUN 13, 2000",23.0,R
+Denver Nuggets,2023-24,Kentavious Caldwell-Pope,G,6-5,204,"FEB 18, 1993",31.0,10
+Denver Nuggets,2023-24,DeAndre Jordan,C,6-11,265,"JUL 21, 1988",35.0,15
+Denver Nuggets,2023-24,Reggie Jackson,G,6-2,208,"APR 16, 1990",34.0,12
+Denver Nuggets,2023-24,Peyton Watson,G,6-7,200,"SEP 11, 2002",21.0,1
+Denver Nuggets,2023-24,Justin Holiday,F-G,6-6,180,"APR 05, 1989",35.0,10
+Denver Nuggets,2023-24,Braxton Key,F,6-8,225,"FEB 14, 1997",27.0,2
+Denver Nuggets,2023-24,Nikola Jokic,C,6-11,284,"FEB 19, 1995",29.0,8
+Denver Nuggets,2023-24,Collin Gillespie,G,6-1,195,"JUN 25, 1999",24.0,R
+Denver Nuggets,2023-24,Zeke Nnaji,F-C,6-9,240,"JAN 09, 2001",23.0,3
+Denver Nuggets,2023-24,Jalen Pickett,G,6-2,202,"OCT 22, 1999",24.0,R
+Denver Nuggets,2023-24,Jamal Murray,G,6-4,215,"FEB 23, 1997",27.0,6
+Denver Nuggets,2023-24,Jay Huff,C,7-1,240,"AUG 25, 1997",26.0,2
+Denver Nuggets,2023-24,Vlatko Cancar,F,6-8,236,"APR 10, 1997",27.0,4
+Denver Nuggets,2023-24,Aaron Gordon,F,6-8,235,"SEP 16, 1995",28.0,9
+Golden State Warriors,2022-23,Donte DiVincenzo,G,6-4,203,"JAN 31, 1997",26.0,4
+Golden State Warriors,2022-23,Jonathan Kuminga,F,6-7,225,"OCT 06, 2002",20.0,1
+Golden State Warriors,2022-23,JaMychal Green,F-C,6-9,227,"JUN 21, 1990",33.0,8
+Golden State Warriors,2022-23,Ryan Rollins,G,6-3,180,"JUL 03, 2002",20.0,R
+Golden State Warriors,2022-23,Jordan Poole,G,6-4,194,"JUN 19, 1999",24.0,3
+Golden State Warriors,2022-23,Moses Moody,G,6-5,211,"MAY 31, 2002",21.0,1
+Golden State Warriors,2022-23,Kevon Looney,F,6-9,222,"FEB 06, 1996",27.0,7
+Golden State Warriors,2022-23,Patrick Baldwin Jr.,F,6-9,220,"NOV 18, 2002",20.0,R
+Golden State Warriors,2022-23,Gary Payton II,G,6-2,195,"DEC 01, 1992",30.0,6
+Golden State Warriors,2022-23,Andre Iguodala,G-F,6-6,215,"JAN 28, 1984",39.0,18
+Golden State Warriors,2022-23,Ty Jerome,G-F,6-5,195,"JUL 08, 1997",25.0,3
+Golden State Warriors,2022-23,Klay Thompson,G,6-6,220,"FEB 08, 1990",33.0,9
+Golden State Warriors,2022-23,Andrew Wiggins,F,6-7,197,"FEB 23, 1995",28.0,8
+Golden State Warriors,2022-23,Draymond Green,F,6-6,230,"MAR 04, 1990",33.0,10
+Golden State Warriors,2022-23,Lester Quinones,G,6-4,208,"NOV 16, 2000",22.0,R
+Golden State Warriors,2022-23,Stephen Curry,G,6-2,185,"MAR 14, 1988",35.0,13
+Golden State Warriors,2022-23,Anthony Lamb,F,6-6,227,"JAN 20, 1998",25.0,2
+Golden State Warriors,2023-24,Gary Payton II,G,6-2,195,"DEC 01, 1992",31.0,7
+Golden State Warriors,2023-24,Jonathan Kuminga,F,6-7,225,"OCT 06, 2002",21.0,2
+Golden State Warriors,2023-24,Brandin Podziemski,G,6-4,205,"FEB 25, 2003",21.0,R
+Golden State Warriors,2023-24,Chris Paul,G,6-0,175,"MAY 06, 1985",38.0,18
+Golden State Warriors,2023-24,Moses Moody,G,6-5,211,"MAY 31, 2002",21.0,2
+Golden State Warriors,2023-24,Kevon Looney,F,6-9,222,"FEB 06, 1996",28.0,8
+Golden State Warriors,2023-24,Klay Thompson,G,6-6,220,"FEB 08, 1990",34.0,10
+Golden State Warriors,2023-24,Usman Garuba,F,6-8,229,"MAR 09, 2002",22.0,2
+Golden State Warriors,2023-24,Gui Santos,F,6-6,185,"JUN 22, 2002",21.0,R
+Golden State Warriors,2023-24,Jerome Robinson,G,6-5,190,"FEB 22, 1997",27.0,3
+Golden State Warriors,2023-24,Dario Saric,F-C,6-10,225,"APR 08, 1994",30.0,6
+Golden State Warriors,2023-24,Andrew Wiggins,F,6-7,197,"FEB 23, 1995",29.0,9
+Golden State Warriors,2023-24,Draymond Green,F,6-6,230,"MAR 04, 1990",34.0,11
+Golden State Warriors,2023-24,Lester Quinones,G,6-4,208,"NOV 16, 2000",23.0,1
+Golden State Warriors,2023-24,Stephen Curry,G,6-2,185,"MAR 14, 1988",36.0,14
+Golden State Warriors,2023-24,Trayce Jackson-Davis,F,6-9,245,"FEB 22, 2000",24.0,R
+Golden State Warriors,2023-24,Pat Spencer,G,6-3,205,"JUL 04, 1996",27.0,R
+Houston Rockets,2022-23,TyTy Washington Jr.,G,6-3,195,"NOV 15, 2001",21.0,R
+Houston Rockets,2022-23,Willie Cauley-Stein,C,7-0,240,"AUG 18, 1993",29.0,7
+Houston Rockets,2022-23,Jabari Smith Jr.,F,6-11,220,"MAY 13, 2003",20.0,R
+Houston Rockets,2022-23,Kevin Porter Jr.,G-F,6-4,203,"MAY 04, 2000",23.0,3
+Houston Rockets,2022-23,D.J. Augustin,G,5-11,183,"NOV 10, 1987",35.0,14
+Houston Rockets,2022-23,Jalen Green,G,6-4,186,"FEB 09, 2002",21.0,1
+Houston Rockets,2022-23,Darius Days,F,6-7,245,"OCT 20, 1999",23.0,R
+Houston Rockets,2022-23,KJ Martin,F,6-7,215,"JAN 06, 2001",22.0,2
+Houston Rockets,2022-23,Jae'Sean Tate,F,6-5,230,"OCT 28, 1995",27.0,2
+Houston Rockets,2022-23,Josh Christopher,G,6-4,215,"DEC 08, 2001",21.0,1
+Houston Rockets,2022-23,Trevor Hudgins,G,6-0,180,"MAR 23, 1999",24.0,R
+Houston Rockets,2022-23,Daishen Nix,G,6-4,226,"FEB 13, 2002",21.0,1
+Houston Rockets,2022-23,Usman Garuba,F,6-8,229,"MAR 09, 2002",21.0,1
+Houston Rockets,2022-23,Tari Eason,F,6-8,215,"MAY 10, 2001",22.0,R
+Houston Rockets,2022-23,Alperen Sengun,C,6-11,243,"JUL 25, 2002",20.0,1
+Houston Rockets,2022-23,Frank Kaminsky,F-C,7-0,240,"APR 04, 1993",30.0,7
+Houston Rockets,2022-23,Boban Marjanovic,C,7-4,290,"AUG 15, 1988",34.0,7
+Houston Rockets,2023-24,Jermaine Samuels Jr.,F,6-6,230,"NOV 13, 1998",25.0,R
+Houston Rockets,2023-24,Aaron Holiday,G,6-0,185,"SEP 30, 1996",27.0,5
+Houston Rockets,2023-24,Amen Thompson,G-F,6-7,200,"JAN 30, 2003",21.0,R
+Houston Rockets,2023-24,Jock Landale,C,6-11,255,"OCT 25, 1995",28.0,2
+Houston Rockets,2023-24,Jalen Green,G,6-4,186,"FEB 09, 2002",22.0,2
+Houston Rockets,2023-24,Fred VanVleet,G,6-0,197,"FEB 25, 1994",30.0,7
+Houston Rockets,2023-24,Cam Whitmore,F,6-7,230,"JUL 08, 2004",19.0,R
+Houston Rockets,2023-24,Jae'Sean Tate,F,6-4,230,"OCT 28, 1995",28.0,3
+Houston Rockets,2023-24,Dillon Brooks,G-F,6-6,225,"JAN 22, 1996",28.0,6
+Houston Rockets,2023-24,Jabari Smith Jr.,F,6-11,220,"MAY 13, 2003",20.0,1
+Houston Rockets,2023-24,Steven Adams,C,6-11,265,"JUL 20, 1993",30.0,10
+Houston Rockets,2023-24,Nate Hinton,G-F,6-5,210,"JUN 08, 1999",24.0,2
+Houston Rockets,2023-24,Tari Eason,F,6-8,215,"MAY 10, 2001",22.0,1
+Houston Rockets,2023-24,Nate Williams,G,6-5,205,"FEB 12, 1999",25.0,1
+Houston Rockets,2023-24,Reggie Bullock Jr.,G-F,6-6,205,"MAR 16, 1991",33.0,10
+Houston Rockets,2023-24,Alperen Sengun,C,6-11,243,"JUL 25, 2002",21.0,2
+Houston Rockets,2023-24,Jeff Green,F,6-8,235,"AUG 28, 1986",37.0,15
+Houston Rockets,2023-24,Boban Marjanovic,C,7-4,290,"AUG 15, 1988",35.0,8
+Los Angeles Clippers,2022-23,Russell Westbrook,G,6-3,200,"NOV 12, 1988",34.0,14
+Los Angeles Clippers,2022-23,Kawhi Leonard,F,6-7,225,"JUN 29, 1991",32.0,10
+Los Angeles Clippers,2022-23,Brandon Boston Jr.,G,6-6,188,"NOV 28, 2001",21.0,1
+Los Angeles Clippers,2022-23,Bones Hyland,G,6-2,169,"SEP 14, 2000",22.0,1
+Los Angeles Clippers,2022-23,Amir Coffey,G-F,6-7,210,"JUN 17, 1997",26.0,3
+Los Angeles Clippers,2022-23,Marcus Morris Sr.,F,6-8,218,"SEP 02, 1989",33.0,11
+Los Angeles Clippers,2022-23,Eric Gordon,G,6-3,215,"DEC 25, 1988",34.0,14
+Los Angeles Clippers,2022-23,Paul George,F,6-8,220,"MAY 02, 1990",33.0,12
+Los Angeles Clippers,2022-23,Terance Mann,G-F,6-5,215,"OCT 18, 1996",26.0,3
+Los Angeles Clippers,2022-23,Xavier Moon,G,6-0,165,"JAN 02, 1995",28.0,1
+Los Angeles Clippers,2022-23,Jason Preston,G,6-3,181,"AUG 10, 1999",23.0,R
+Los Angeles Clippers,2022-23,Robert Covington,F,6-7,209,"DEC 14, 1990",32.0,9
+Los Angeles Clippers,2022-23,Norman Powell,G,6-4,215,"MAY 25, 1993",30.0,7
+Los Angeles Clippers,2022-23,Moussa Diabate,F,6-10,210,"JAN 21, 2002",21.0,R
+Los Angeles Clippers,2022-23,Nicolas Batum,G-F,6-8,230,"DEC 14, 1988",34.0,14
+Los Angeles Clippers,2022-23,Ivica Zubac,C,7-0,240,"MAR 18, 1997",26.0,6
+Los Angeles Clippers,2022-23,Mason Plumlee,F-C,7-0,254,"MAR 05, 1990",33.0,9
+Los Angeles Clippers,2023-24,Russell Westbrook,G,6-4,200,"NOV 12, 1988",35.0,15
+Los Angeles Clippers,2023-24,James Harden,G,6-5,220,"AUG 26, 1989",34.0,14
+Los Angeles Clippers,2023-24,Kawhi Leonard,F,6-7,225,"JUN 29, 1991",32.0,11
+Los Angeles Clippers,2023-24,Brandon Boston Jr.,G,6-6,188,"NOV 28, 2001",22.0,2
+Los Angeles Clippers,2023-24,Bones Hyland,G,6-2,169,"SEP 14, 2000",23.0,2
+Los Angeles Clippers,2023-24,Amir Coffey,G-F,6-7,210,"JUN 17, 1997",26.0,4
+Los Angeles Clippers,2023-24,Daniel Theis,F-C,6-8,245,"APR 04, 1992",32.0,6
+Los Angeles Clippers,2023-24,Jordan Miller,G,6-5,194,"JAN 23, 2000",24.0,R
+Los Angeles Clippers,2023-24,Paul George,F,6-8,220,"MAY 02, 1990",34.0,13
+Los Angeles Clippers,2023-24,Terance Mann,G-F,6-5,215,"OCT 18, 1996",27.0,4
+Los Angeles Clippers,2023-24,P.J. Tucker,F,6-5,245,"MAY 05, 1985",38.0,12
+Los Angeles Clippers,2023-24,Kobe Brown,F,6-7,250,"JAN 01, 2000",24.0,R
+Los Angeles Clippers,2023-24,Xavier Moon,G,6-0,165,"JAN 02, 1995",29.0,2
+Los Angeles Clippers,2023-24,Kai Jones,C-F,6-11,221,"JAN 19, 2001",23.0,2
+Los Angeles Clippers,2023-24,Norman Powell,G,6-4,215,"MAY 25, 1993",30.0,8
+Los Angeles Clippers,2023-24,Moussa Diabate,F,6-9,210,"JAN 21, 2002",22.0,1
+Los Angeles Clippers,2023-24,Ivica Zubac,C,7-0,240,"MAR 18, 1997",27.0,7
+Los Angeles Clippers,2023-24,Mason Plumlee,F-C,6-10,254,"MAR 05, 1990",34.0,10
+Los Angeles Lakers,2022-23,Shaquille Harrison,G,6-4,195,"OCT 06, 1993",29.0,5
+Los Angeles Lakers,2022-23,D'Angelo Russell,G,6-4,193,"FEB 23, 1996",27.0,7
+Los Angeles Lakers,2022-23,Jarred Vanderbilt,F,6-8,214,"APR 03, 1999",24.0,4
+Los Angeles Lakers,2022-23,Anthony Davis,F-C,6-10,253,"MAR 11, 1993",30.0,10
+Los Angeles Lakers,2022-23,Lonnie Walker IV,G-F,6-4,204,"DEC 14, 1998",24.0,4
+Los Angeles Lakers,2022-23,Malik Beasley,G,6-4,187,"NOV 26, 1996",26.0,6
+Los Angeles Lakers,2022-23,LeBron James,F,6-9,250,"DEC 30, 1984",38.0,19
+Los Angeles Lakers,2022-23,Troy Brown Jr.,G-F,6-7,215,"JUL 28, 1999",23.0,4
+Los Angeles Lakers,2022-23,Tristan Thompson,C-F,6-9,254,"MAR 13, 1991",32.0,11
+Los Angeles Lakers,2022-23,Max Christie,G,6-5,190,"FEB 10, 2003",20.0,R
+Los Angeles Lakers,2022-23,Mo Bamba,C,7-0,231,"MAY 12, 1998",25.0,4
+Los Angeles Lakers,2022-23,Scotty Pippen Jr.,G,6-1,170,"NOV 10, 2000",22.0,R
+Los Angeles Lakers,2022-23,Austin Reaves,G,6-5,197,"MAY 29, 1998",25.0,1
+Los Angeles Lakers,2022-23,Dennis Schroder,G,6-1,172,"SEP 15, 1993",29.0,9
+Los Angeles Lakers,2022-23,Cole Swider,F,6-9,220,"MAY 08, 1999",24.0,R
+Los Angeles Lakers,2022-23,Rui Hachimura,F,6-8,230,"FEB 08, 1998",25.0,3
+Los Angeles Lakers,2022-23,Wenyen Gabriel,F,6-9,205,"MAR 26, 1997",26.0,3
+Los Angeles Lakers,2023-24,Jalen Hood-Schifino,G,6-5,215,"JUN 19, 2003",20.0,R
+Los Angeles Lakers,2023-24,D'Angelo Russell,G,6-3,193,"FEB 23, 1996",28.0,8
+Los Angeles Lakers,2023-24,Jarred Vanderbilt,F,6-8,214,"APR 03, 1999",25.0,5
+Los Angeles Lakers,2023-24,Anthony Davis,F-C,6-10,253,"MAR 11, 1993",31.0,11
+Los Angeles Lakers,2023-24,Skylar Mays,G,6-3,205,"SEP 05, 1997",26.0,3
+Los Angeles Lakers,2023-24,Cam Reddish,F-G,6-7,217,"SEP 01, 1999",24.0,4
+Los Angeles Lakers,2023-24,Gabe Vincent,G,6-2,200,"JUN 14, 1996",27.0,4
+Los Angeles Lakers,2023-24,Max Christie,G,6-5,190,"FEB 10, 2003",21.0,1
+Los Angeles Lakers,2023-24,Jaxson Hayes,C-F,7-0,220,"MAY 23, 2000",23.0,4
+Los Angeles Lakers,2023-24,Taurean Prince,F,6-6,218,"MAR 22, 1994",30.0,7
+Los Angeles Lakers,2023-24,Colin Castleton,C,6-10,250,"MAY 25, 2000",23.0,R
+Los Angeles Lakers,2023-24,Austin Reaves,G,6-5,197,"MAY 29, 1998",25.0,2
+Los Angeles Lakers,2023-24,Harry Giles III,F-C,6-10,240,"APR 22, 1998",26.0,3
+Los Angeles Lakers,2023-24,Maxwell Lewis,F,6-7,195,"JUL 27, 2002",21.0,R
+Los Angeles Lakers,2023-24,LeBron James,F,6-9,250,"DEC 30, 1984",39.0,20
+Los Angeles Lakers,2023-24,Spencer Dinwiddie,G,6-5,215,"APR 06, 1993",31.0,9
+Los Angeles Lakers,2023-24,Rui Hachimura,F,6-8,230,"FEB 08, 1998",26.0,4
+Los Angeles Lakers,2023-24,Christian Wood,F,6-8,214,"SEP 27, 1995",28.0,7
+Miami Heat,2022-23,Kevin Love,F-C,6-8,251,"SEP 07, 1988",34.0,14
+Miami Heat,2022-23,Gabe Vincent,G,6-2,200,"JUN 14, 1996",27.0,3
+Miami Heat,2022-23,Victor Oladipo,G,6-3,213,"MAY 04, 1992",31.0,9
+Miami Heat,2022-23,Nikola Jovic,F,6-10,205,"JUN 09, 2003",20.0,R
+Miami Heat,2022-23,Kyle Lowry,G,6-0,196,"MAR 25, 1986",37.0,16
+Miami Heat,2022-23,Jamal Cain,F,6-6,191,"MAR 20, 1999",24.0,R
+Miami Heat,2022-23,Bam Adebayo,C-F,6-9,255,"JUL 18, 1997",25.0,5
+Miami Heat,2022-23,Tyler Herro,G,6-5,195,"JAN 20, 2000",23.0,3
+Miami Heat,2022-23,Caleb Martin,F,6-5,205,"SEP 28, 1995",27.0,3
+Miami Heat,2022-23,Jimmy Butler,F,6-7,230,"SEP 14, 1989",33.0,11
+Miami Heat,2022-23,Haywood Highsmith,F,6-5,220,"DEC 09, 1996",26.0,2
+Miami Heat,2022-23,Orlando Robinson,C,6-10,235,"JUL 10, 2000",22.0,R
+Miami Heat,2022-23,Max Strus,G-F,6-5,215,"MAR 28, 1996",27.0,3
+Miami Heat,2022-23,Udonis Haslem,F,6-7,235,"JUN 09, 1980",43.0,19
+Miami Heat,2022-23,Cody Zeller,F-C,6-11,240,"OCT 05, 1992",30.0,9
+Miami Heat,2022-23,Duncan Robinson,F,6-7,215,"APR 22, 1994",29.0,4
+Miami Heat,2022-23,Omer Yurtseven,C,6-11,275,"JUN 19, 1998",25.0,1
+Miami Heat,2023-24,Josh Richardson,G,6-5,200,"SEP 15, 1993",30.0,8
+Miami Heat,2023-24,Terry Rozier,G,6-1,190,"MAR 17, 1994",30.0,8
+Miami Heat,2023-24,Delon Wright,G,6-5,185,"APR 26, 1992",32.0,8
+Miami Heat,2023-24,Nikola Jovic,F,6-10,205,"JUN 09, 2003",20.0,1
+Miami Heat,2023-24,Jamal Cain,F,6-6,191,"MAR 20, 1999",25.0,1
+Miami Heat,2023-24,Patty Mills,G,6-2,180,"AUG 11, 1988",35.0,14
+Miami Heat,2023-24,Jaime Jaquez Jr.,G,6-6,225,"FEB 18, 2001",23.0,R
+Miami Heat,2023-24,Bam Adebayo,C-F,6-9,255,"JUL 18, 1997",26.0,6
+Miami Heat,2023-24,Tyler Herro,G,6-5,195,"JAN 20, 2000",24.0,4
+Miami Heat,2023-24,Alondes Williams,G,6-4,210,"JUN 19, 1999",24.0,1
+Miami Heat,2023-24,Caleb Martin,F,6-5,205,"SEP 28, 1995",28.0,4
+Miami Heat,2023-24,Cole Swider,F,6-8,220,"MAY 08, 1999",24.0,1
+Miami Heat,2023-24,Jimmy Butler,F,6-7,230,"SEP 14, 1989",34.0,12
+Miami Heat,2023-24,Haywood Highsmith,F,6-5,220,"DEC 09, 1996",27.0,3
+Miami Heat,2023-24,Orlando Robinson,C,6-10,235,"JUL 10, 2000",23.0,1
+Miami Heat,2023-24,Thomas Bryant,C-F,6-10,248,"JUL 31, 1997",26.0,6
+Miami Heat,2023-24,Kevin Love,F-C,6-8,251,"SEP 07, 1988",35.0,15
+Miami Heat,2023-24,Duncan Robinson,F,6-7,215,"APR 22, 1994",30.0,5
+Milwaukee Bucks,2022-23,MarJon Beauchamp,F,6-7,199,"OCT 12, 2000",22.0,R
+Milwaukee Bucks,2022-23,Meyers Leonard,F-C,7-0,260,"FEB 27, 1992",31.0,9
+Milwaukee Bucks,2022-23,Jevon Carter,G,6-1,200,"SEP 14, 1995",27.0,4
+Milwaukee Bucks,2022-23,Joe Ingles,F-G,6-9,220,"OCT 02, 1987",35.0,8
+Milwaukee Bucks,2022-23,Bobby Portis,F,6-11,250,"FEB 10, 1995",28.0,7
+Milwaukee Bucks,2022-23,Brook Lopez,C,7-1,282,"APR 01, 1988",35.0,14
+Milwaukee Bucks,2022-23,Grayson Allen,G,6-4,198,"OCT 08, 1995",27.0,4
+Milwaukee Bucks,2022-23,AJ Green,G,6-5,190,"SEP 27, 1999",23.0,R
+Milwaukee Bucks,2022-23,Jrue Holiday,G,6-5,205,"JUN 12, 1990",33.0,13
+Milwaukee Bucks,2022-23,Khris Middleton,F,6-7,222,"AUG 12, 1991",31.0,10
+Milwaukee Bucks,2022-23,Wesley Matthews,G,6-5,220,"OCT 14, 1986",36.0,13
+Milwaukee Bucks,2022-23,Pat Connaughton,G,6-5,209,"JAN 06, 1993",30.0,7
+Milwaukee Bucks,2022-23,Lindell Wigginton,G,6-1,189,"MAR 28, 1998",25.0,1
+Milwaukee Bucks,2022-23,Goran Dragic,G,6-4,190,"MAY 06, 1986",37.0,14
+Milwaukee Bucks,2022-23,Giannis Antetokounmpo,F,7-0,243,"DEC 06, 1994",28.0,9
+Milwaukee Bucks,2022-23,Thanasis Antetokounmpo,F,6-7,219,"JUL 18, 1992",30.0,4
+Milwaukee Bucks,2022-23,Jae Crowder,F,6-6,235,"JUL 06, 1990",32.0,10
+Milwaukee Bucks,2023-24,Jaylin Galloway,F,6-6,190,"DEC 21, 2002",21.0,R
+Milwaukee Bucks,2023-24,Damian Lillard,G,6-2,195,"JUL 15, 1990",33.0,11
+Milwaukee Bucks,2023-24,MarJon Beauchamp,F,6-7,199,"OCT 12, 2000",23.0,1
+Milwaukee Bucks,2023-24,Malik Beasley,G,6-4,187,"NOV 26, 1996",27.0,7
+Milwaukee Bucks,2023-24,Chris Livingston,F,6-6,220,"OCT 15, 2003",20.0,R
+Milwaukee Bucks,2023-24,Bobby Portis,F,6-10,250,"FEB 10, 1995",29.0,8
+Milwaukee Bucks,2023-24,Brook Lopez,C,7-1,282,"APR 01, 1988",36.0,15
+Milwaukee Bucks,2023-24,Danilo Gallinari,F,6-10,236,"AUG 08, 1988",35.0,13
+Milwaukee Bucks,2023-24,AJ Green,G,6-4,190,"SEP 27, 1999",24.0,1
+Milwaukee Bucks,2023-24,Patrick Beverley,G,6-2,180,"JUL 12, 1988",35.0,11
+Milwaukee Bucks,2023-24,Khris Middleton,F,6-7,222,"AUG 12, 1991",32.0,11
+Milwaukee Bucks,2023-24,TyTy Washington Jr.,G,6-3,195,"NOV 15, 2001",22.0,1
+Milwaukee Bucks,2023-24,Pat Connaughton,G,6-5,209,"JAN 06, 1993",31.0,8
+Milwaukee Bucks,2023-24,Giannis Antetokounmpo,F,6-11,243,"DEC 06, 1994",29.0,10
+Milwaukee Bucks,2023-24,Thanasis Antetokounmpo,F,6-7,219,"JUL 18, 1992",31.0,5
+Milwaukee Bucks,2023-24,Andre Jackson Jr.,G,6-6,209,"NOV 13, 2001",22.0,R
+Milwaukee Bucks,2023-24,Ryan Rollins,G,6-3,180,"JUL 03, 2002",21.0,1
+Milwaukee Bucks,2023-24,Jae Crowder,F,6-6,235,"JUL 06, 1990",33.0,11
+Minnesota Timberwolves,2022-23,Anthony Edwards,G,6-4,225,"AUG 05, 2001",21.0,2
+Minnesota Timberwolves,2022-23,Jaden McDaniels,F,6-9,185,"SEP 29, 2000",22.0,2
+Minnesota Timberwolves,2022-23,Jaylen Nowell,G,6-4,201,"JUL 09, 1999",23.0,3
+Minnesota Timberwolves,2022-23,Kyle Anderson,F-G,6-9,230,"SEP 20, 1993",29.0,8
+Minnesota Timberwolves,2022-23,Jordan McLaughlin,G,6-0,185,"APR 09, 1996",27.0,3
+Minnesota Timberwolves,2022-23,Wendell Moore Jr.,G,6-5,215,"SEP 18, 2001",21.0,R
+Minnesota Timberwolves,2022-23,Josh Minott,F,6-8,205,"NOV 25, 2002",20.0,R
+Minnesota Timberwolves,2022-23,Nickeil Alexander-Walker,G,6-5,205,"SEP 02, 1998",24.0,3
+Minnesota Timberwolves,2022-23,Mike Conley,G,6-1,175,"OCT 11, 1987",35.0,15
+Minnesota Timberwolves,2022-23,Naz Reid,C-F,6-9,264,"AUG 26, 1999",23.0,3
+Minnesota Timberwolves,2022-23,Taurean Prince,F,6-6,218,"MAR 22, 1994",29.0,6
+Minnesota Timberwolves,2022-23,Nathan Knight,F-C,6-8,253,"SEP 20, 1997",25.0,2
+Minnesota Timberwolves,2022-23,Austin Rivers,G,6-4,200,"AUG 01, 1992",30.0,10
+Minnesota Timberwolves,2022-23,Rudy Gobert,C,7-1,258,"JUN 26, 1992",31.0,9
+Minnesota Timberwolves,2022-23,Karl-Anthony Towns,C-F,7-0,248,"NOV 15, 1995",27.0,7
+Minnesota Timberwolves,2022-23,Matt Ryan,F,6-6,215,"APR 17, 1997",26.0,1
+Minnesota Timberwolves,2022-23,Luka Garza,C,6-10,243,"DEC 27, 1998",24.0,1
+Minnesota Timberwolves,2023-24,Jaylen Clark,G,6-4,205,"OCT 13, 2001",22.0,R
+Minnesota Timberwolves,2023-24,Kyle Anderson,F-G,6-9,230,"SEP 20, 1993",30.0,9
+Minnesota Timberwolves,2023-24,Jaden McDaniels,F,6-9,185,"SEP 29, 2000",23.0,3
+Minnesota Timberwolves,2023-24,Anthony Edwards,G,6-4,225,"AUG 05, 2001",22.0,3
+Minnesota Timberwolves,2023-24,Jordan McLaughlin,G,6-0,185,"APR 09, 1996",28.0,4
+Minnesota Timberwolves,2023-24,Wendell Moore Jr.,G,6-5,215,"SEP 18, 2001",22.0,1
+Minnesota Timberwolves,2023-24,Josh Minott,F,6-8,205,"NOV 25, 2002",21.0,1
+Minnesota Timberwolves,2023-24,Nickeil Alexander-Walker,G,6-5,205,"SEP 02, 1998",25.0,4
+Minnesota Timberwolves,2023-24,Mike Conley,G,6-0,175,"OCT 11, 1987",36.0,16
+Minnesota Timberwolves,2023-24,Naz Reid,C-F,6-9,264,"AUG 26, 1999",24.0,4
+Minnesota Timberwolves,2023-24,Daishen Nix,G,6-3,226,"FEB 13, 2002",22.0,2
+Minnesota Timberwolves,2023-24,Monte Morris,G,6-2,183,"JUN 27, 1995",28.0,6
+Minnesota Timberwolves,2023-24,T.J. Warren,F,6-8,220,"SEP 05, 1993",30.0,8
+Minnesota Timberwolves,2023-24,Rudy Gobert,C,7-1,258,"JUN 26, 1992",31.0,10
+Minnesota Timberwolves,2023-24,Karl-Anthony Towns,C-F,7-0,248,"NOV 15, 1995",28.0,8
+Minnesota Timberwolves,2023-24,Leonard Miller,F,6-10,210,"NOV 26, 2003",20.0,R
+Minnesota Timberwolves,2023-24,Luka Garza,C,6-10,243,"DEC 27, 1998",25.0,2
+Brooklyn Nets,2022-23,Royce O'Neale,F,6-6,226,"JUN 05, 1993",30.0,5
+Brooklyn Nets,2022-23,RaiQuan Gray,F,6-7,269,"JUL 07, 1999",23.0,R
+Brooklyn Nets,2022-23,Mikal Bridges,G-F,6-6,209,"AUG 30, 1996",26.0,4
+Brooklyn Nets,2022-23,Cameron Johnson,F,6-8,210,"MAR 03, 1996",27.0,3
+Brooklyn Nets,2022-23,Edmond Sumner,G,6-4,196,"DEC 31, 1995",27.0,4
+Brooklyn Nets,2022-23,David Duke Jr.,G,6-4,204,"OCT 13, 1999",23.0,1
+Brooklyn Nets,2022-23,Patty Mills,G,6-0,180,"AUG 11, 1988",34.0,13
+Brooklyn Nets,2022-23,Dru Smith,G,6-3,203,"DEC 30, 1997",25.0,R
+Brooklyn Nets,2022-23,Ben Simmons,G-F,6-10,240,"JUL 20, 1996",26.0,4
+Brooklyn Nets,2022-23,Joe Harris,G-F,6-6,220,"SEP 06, 1991",31.0,8
+Brooklyn Nets,2022-23,Yuta Watanabe,G-F,6-8,215,"OCT 13, 1994",28.0,4
+Brooklyn Nets,2022-23,Day'Ron Sharpe,C,6-9,265,"NOV 06, 2001",21.0,1
+Brooklyn Nets,2022-23,Cam Thomas,G,6-3,210,"OCT 13, 2001",21.0,1
+Brooklyn Nets,2022-23,Spencer Dinwiddie,G,6-5,215,"APR 06, 1993",30.0,8
+Brooklyn Nets,2022-23,Dorian Finney-Smith,F,6-7,220,"MAY 04, 1993",30.0,6
+Brooklyn Nets,2022-23,Seth Curry,G,6-1,185,"AUG 23, 1990",32.0,8
+Brooklyn Nets,2022-23,Nic Claxton,C,6-11,215,"APR 17, 1999",24.0,3
+Brooklyn Nets,2023-24,Dariq Whitehead,F,6-6,220,"AUG 01, 2004",19.0,R
+Brooklyn Nets,2023-24,Mikal Bridges,G-F,6-6,209,"AUG 30, 1996",27.0,5
+Brooklyn Nets,2023-24,Cameron Johnson,F,6-8,210,"MAR 03, 1996",28.0,4
+Brooklyn Nets,2023-24,Dennis Smith Jr.,G,6-3,205,"NOV 25, 1997",26.0,6
+Brooklyn Nets,2023-24,Lonnie Walker IV,G-F,6-4,204,"DEC 14, 1998",25.0,5
+Brooklyn Nets,2023-24,Trendon Watford,F,6-8,237,"NOV 09, 2000",23.0,2
+Brooklyn Nets,2023-24,Ben Simmons,G-F,6-10,240,"JUL 20, 1996",27.0,5
+Brooklyn Nets,2023-24,Keita Bates-Diop,F,6-8,229,"JAN 23, 1996",28.0,5
+Brooklyn Nets,2023-24,Jacob Gilyard,G,5-8,160,"JUL 14, 1998",25.0,1
+Brooklyn Nets,2023-24,Jaylen Martin,G,6-6,216,"JAN 28, 2004",20.0,R
+Brooklyn Nets,2023-24,Dennis Schroder,G,6-1,175,"SEP 15, 1993",30.0,10
+Brooklyn Nets,2023-24,Day'Ron Sharpe,C,6-9,265,"NOV 06, 2001",22.0,2
+Brooklyn Nets,2023-24,Noah Clowney,F,6-9,210,"JUL 14, 2004",19.0,R
+Brooklyn Nets,2023-24,Jalen Wilson,F,6-6,220,"NOV 04, 2000",23.0,R
+Brooklyn Nets,2023-24,Cam Thomas,G,6-3,210,"OCT 13, 2001",22.0,2
+Brooklyn Nets,2023-24,Dorian Finney-Smith,F,6-7,220,"MAY 04, 1993",30.0,7
+Brooklyn Nets,2023-24,Nic Claxton,C,6-11,215,"APR 17, 1999",25.0,4
+Brooklyn Nets,2023-24,Keon Johnson,G,6-5,185,"MAR 10, 2002",22.0,2
+New York Knicks,2022-23,Obi Toppin,F,6-9,220,"MAR 04, 1998",25.0,2
+New York Knicks,2022-23,Miles McBride,G,6-2,195,"SEP 08, 2000",22.0,1
+New York Knicks,2022-23,Trevor Keels,G,6-4,221,"AUG 26, 2003",19.0,R
+New York Knicks,2022-23,Josh Hart,G,6-4,215,"MAR 06, 1995",28.0,5
+New York Knicks,2022-23,Derrick Rose,G,6-3,200,"OCT 04, 1988",34.0,13
+New York Knicks,2022-23,Duane Washington Jr.,G,6-2,197,"MAR 24, 2000",23.0,1
+New York Knicks,2022-23,Immanuel Quickley,G,6-2,190,"JUN 17, 1999",24.0,2
+New York Knicks,2022-23,Quentin Grimes,G,6-5,210,"MAY 08, 2000",23.0,1
+New York Knicks,2022-23,DaQuan Jeffries,G-F,6-5,222,"AUG 30, 1997",25.0,3
+New York Knicks,2022-23,RJ Barrett,F-G,6-6,214,"JUN 14, 2000",23.0,3
+New York Knicks,2022-23,Jalen Brunson,G,6-2,190,"AUG 31, 1996",26.0,4
+New York Knicks,2022-23,Evan Fournier,G-F,6-6,205,"OCT 29, 1992",30.0,10
+New York Knicks,2022-23,Isaiah Roby,F,6-8,230,"FEB 03, 1998",25.0,3
+New York Knicks,2022-23,Mitchell Robinson,C-F,7-0,240,"APR 01, 1998",25.0,4
+New York Knicks,2022-23,Julius Randle,F-C,6-8,250,"NOV 29, 1994",28.0,8
+New York Knicks,2022-23,Jericho Sims,C,6-10,250,"OCT 20, 1998",24.0,1
+New York Knicks,2022-23,Isaiah Hartenstein,C-F,7-0,250,"MAY 05, 1998",25.0,4
+New York Knicks,2023-24,Donte DiVincenzo,G,6-4,203,"JAN 31, 1997",27.0,5
+New York Knicks,2023-24,Jacob Toppin,F,6-8,200,"MAY 08, 2000",23.0,R
+New York Knicks,2023-24,Duane Washington Jr.,G,6-2,197,"MAR 24, 2000",24.0,2
+New York Knicks,2023-24,Miles McBride,G,6-1,195,"SEP 08, 2000",23.0,2
+New York Knicks,2023-24,Josh Hart,G,6-4,215,"MAR 06, 1995",29.0,6
+New York Knicks,2023-24,Charlie Brown Jr.,G,6-6,199,"FEB 02, 1997",27.0,3
+New York Knicks,2023-24,Precious Achiuwa,F,6-8,243,"SEP 19, 1999",24.0,3
+New York Knicks,2023-24,OG Anunoby,F-G,6-7,240,"JUL 17, 1997",26.0,6
+New York Knicks,2023-24,DaQuan Jeffries,G-F,6-5,222,"AUG 30, 1997",26.0,4
+New York Knicks,2023-24,Jalen Brunson,G,6-2,190,"AUG 31, 1996",27.0,5
+New York Knicks,2023-24,Shake Milton,G-F,6-5,205,"SEP 26, 1996",27.0,5
+New York Knicks,2023-24,Alec Burks,G,6-5,214,"JUL 20, 1991",32.0,12
+New York Knicks,2023-24,Mamadi Diakite,F,6-9,228,"JAN 21, 1997",27.0,3
+New York Knicks,2023-24,Mitchell Robinson,C-F,7-0,240,"APR 01, 1998",26.0,5
+New York Knicks,2023-24,Julius Randle,F-C,6-8,250,"NOV 29, 1994",29.0,9
+New York Knicks,2023-24,Bojan Bogdanovic,F,6-7,226,"APR 18, 1989",35.0,9
+New York Knicks,2023-24,Jericho Sims,C,6-10,250,"OCT 20, 1998",25.0,2
+New York Knicks,2023-24,Isaiah Hartenstein,C-F,7-0,250,"MAY 05, 1998",25.0,5
+Orlando Magic,2022-23,Jonathan Isaac,F,6-10,230,"OCT 03, 1997",25.0,3
+Orlando Magic,2022-23,Caleb Houstan,G,6-8,205,"JAN 09, 2003",20.0,R
+Orlando Magic,2022-23,Chuma Okeke,F,6-8,229,"AUG 18, 1998",24.0,2
+Orlando Magic,2022-23,Jalen Suggs,G,6-5,205,"JUN 03, 2001",22.0,1
+Orlando Magic,2022-23,Paolo Banchero,F,6-10,250,"NOV 12, 2002",20.0,R
+Orlando Magic,2022-23,Kevon Harris,G,6-6,216,"JUN 24, 1997",26.0,R
+Orlando Magic,2022-23,Bol Bol,C-F,7-2,220,"NOV 16, 1999",23.0,3
+Orlando Magic,2022-23,Michael Carter-Williams,G,6-5,190,"OCT 10, 1991",31.0,8
+Orlando Magic,2022-23,Gary Harris,G,6-4,210,"SEP 14, 1994",28.0,8
+Orlando Magic,2022-23,Markelle Fultz,G,6-4,209,"MAY 29, 1998",25.0,5
+Orlando Magic,2022-23,Moritz Wagner,F-C,6-11,245,"APR 26, 1997",26.0,4
+Orlando Magic,2022-23,Franz Wagner,F,6-10,220,"AUG 27, 2001",21.0,1
+Orlando Magic,2022-23,Admiral Schofield,F,6-5,241,"MAR 30, 1997",26.0,2
+Orlando Magic,2022-23,Wendell Carter Jr.,C-F,6-10,270,"APR 16, 1999",24.0,4
+Orlando Magic,2022-23,Cole Anthony,G,6-3,185,"MAY 15, 2000",23.0,2
+Orlando Magic,2022-23,Goga Bitadze,C-F,6-11,250,"JUL 20, 1999",23.0,3
+Orlando Magic,2023-24,Anthony Black,G,6-7,200,"JAN 20, 2004",20.0,R
+Orlando Magic,2023-24,Jonathan Isaac,F,6-10,230,"OCT 03, 1997",26.0,4
+Orlando Magic,2023-24,Caleb Houstan,G,6-8,205,"JAN 09, 2003",21.0,1
+Orlando Magic,2023-24,Chuma Okeke,F,6-7,229,"AUG 18, 1998",25.0,3
+Orlando Magic,2023-24,Jalen Suggs,G,6-5,205,"JUN 03, 2001",22.0,2
+Orlando Magic,2023-24,Paolo Banchero,F,6-10,250,"NOV 12, 2002",21.0,1
+Orlando Magic,2023-24,Joe Ingles,F-G,6-9,220,"OCT 02, 1987",36.0,9
+Orlando Magic,2023-24,Kevon Harris,G,6-5,216,"JUN 24, 1997",26.0,1
+Orlando Magic,2023-24,Trevelin Queen,G,6-5,190,"FEB 25, 1997",27.0,2
+Orlando Magic,2023-24,Jett Howard,G,6-6,215,"SEP 14, 2003",20.0,R
+Orlando Magic,2023-24,Gary Harris,G,6-4,210,"SEP 14, 1994",29.0,9
+Orlando Magic,2023-24,Markelle Fultz,G,6-4,209,"MAY 29, 1998",25.0,6
+Orlando Magic,2023-24,Moritz Wagner,F-C,6-11,245,"APR 26, 1997",27.0,5
+Orlando Magic,2023-24,Franz Wagner,F,6-10,220,"AUG 27, 2001",22.0,2
+Orlando Magic,2023-24,Admiral Schofield,F,6-5,241,"MAR 30, 1997",27.0,3
+Orlando Magic,2023-24,Wendell Carter Jr.,C-F,6-10,270,"APR 16, 1999",25.0,5
+Orlando Magic,2023-24,Goga Bitadze,C-F,6-10,250,"JUL 20, 1999",24.0,4
+Orlando Magic,2023-24,Cole Anthony,G,6-2,185,"MAY 15, 2000",23.0,3
+Indiana Pacers,2022-23,Tyrese Haliburton,G,6-5,185,"FEB 29, 2000",23.0,2
+Indiana Pacers,2022-23,Bennedict Mathurin,G-F,6-5,210,"JUN 19, 2002",21.0,R
+Indiana Pacers,2022-23,Andrew Nembhard,G-F,6-3,191,"JAN 16, 2000",23.0,R
+Indiana Pacers,2022-23,Chris Duarte,G,6-5,190,"JUN 13, 1997",26.0,1
+Indiana Pacers,2022-23,George Hill,G,6-4,188,"MAY 04, 1986",37.0,14
+Indiana Pacers,2022-23,T.J. McConnell,G,6-1,190,"MAR 25, 1992",31.0,7
+Indiana Pacers,2022-23,Kendall Brown,G,6-7,205,"MAY 11, 2003",20.0,R
+Indiana Pacers,2022-23,Oshae Brissett,F-G,6-7,210,"JUN 20, 1998",25.0,3
+Indiana Pacers,2022-23,Jordan Nwora,F,6-9,225,"SEP 09, 1998",24.0,2
+Indiana Pacers,2022-23,James Johnson,F,6-7,240,"FEB 20, 1987",36.0,13
+Indiana Pacers,2022-23,Isaiah Jackson,F,6-9,205,"JAN 10, 2002",21.0,1
+Indiana Pacers,2022-23,Aaron Nesmith,G-F,6-5,215,"OCT 16, 1999",23.0,2
+Indiana Pacers,2022-23,Buddy Hield,G,6-4,220,"DEC 17, 1992",30.0,6
+Indiana Pacers,2022-23,Jalen Smith,F-C,6-9,215,"MAR 16, 2000",23.0,2
+Indiana Pacers,2022-23,Daniel Theis,F-C,6-8,245,"APR 04, 1992",31.0,5
+Indiana Pacers,2022-23,Gabe York,G,6-3,190,"AUG 02, 1993",29.0,1
+Indiana Pacers,2022-23,Myles Turner,C-F,6-11,250,"MAR 24, 1996",27.0,7
+Indiana Pacers,2023-24,Tyrese Haliburton,G,6-5,185,"FEB 29, 2000",24.0,3
+Indiana Pacers,2023-24,Bennedict Mathurin,G-F,6-5,210,"JUN 19, 2002",21.0,1
+Indiana Pacers,2023-24,Obi Toppin,F,6-9,220,"MAR 04, 1998",26.0,3
+Indiana Pacers,2023-24,Andrew Nembhard,G-F,6-4,191,"JAN 16, 2000",24.0,1
+Indiana Pacers,2023-24,Jarace Walker,F,6-7,235,"SEP 04, 2003",20.0,R
+Indiana Pacers,2023-24,T.J. McConnell,G,6-1,190,"MAR 25, 1992",32.0,8
+Indiana Pacers,2023-24,Kendall Brown,G,6-7,205,"MAY 11, 2003",20.0,1
+Indiana Pacers,2023-24,James Johnson,F,6-7,240,"FEB 20, 1987",37.0,14
+Indiana Pacers,2023-24,Doug McDermott,F,6-6,225,"JAN 03, 1992",32.0,9
+Indiana Pacers,2023-24,Isaiah Wong,G,6-3,185,"JAN 28, 2001",23.0,R
+Indiana Pacers,2023-24,Isaiah Jackson,F,6-9,205,"JAN 10, 2002",22.0,2
+Indiana Pacers,2023-24,Aaron Nesmith,G-F,6-6,215,"OCT 16, 1999",24.0,3
+Indiana Pacers,2023-24,Jalen Smith,F-C,6-9,215,"MAR 16, 2000",24.0,3
+Indiana Pacers,2023-24,Ben Sheppard,G,6-6,190,"JUL 16, 2001",22.0,R
+Indiana Pacers,2023-24,Quenton Jackson,G,6-5,173,"SEP 15, 1998",25.0,1
+Indiana Pacers,2023-24,Myles Turner,C-F,6-11,250,"MAR 24, 1996",28.0,8
+Indiana Pacers,2023-24,Pascal Siakam,F,6-8,245,"APR 02, 1994",30.0,7
+Indiana Pacers,2023-24,Oscar Tshiebwe,F-C,6-8,255,"NOV 27, 1999",24.0,R
+Philadelphia 76ers,2022-23,Tyrese Maxey,G,6-2,200,"NOV 04, 2000",22.0,2
+Philadelphia 76ers,2022-23,James Harden,G,6-5,220,"AUG 26, 1989",33.0,13
+Philadelphia 76ers,2022-23,Montrezl Harrell,F-C,6-7,240,"JAN 26, 1994",29.0,7
+Philadelphia 76ers,2022-23,Jalen McDaniels,F-C,6-9,205,"JAN 31, 1998",25.0,3
+Philadelphia 76ers,2022-23,De'Anthony Melton,G,6-2,200,"MAY 28, 1998",25.0,4
+Philadelphia 76ers,2022-23,Mac McClung,G,6-2,185,"JAN 06, 1999",24.0,1
+Philadelphia 76ers,2022-23,Jaden Springer,G,6-4,202,"SEP 25, 2002",20.0,1
+Philadelphia 76ers,2022-23,Tobias Harris,F,6-7,226,"JUL 15, 1992",30.0,11
+Philadelphia 76ers,2022-23,Dewayne Dedmon,C,6-10,245,"AUG 12, 1989",33.0,9
+Philadelphia 76ers,2022-23,P.J. Tucker,F,6-5,245,"MAY 05, 1985",38.0,11
+Philadelphia 76ers,2022-23,Shake Milton,G-F,6-5,205,"SEP 26, 1996",26.0,4
+Philadelphia 76ers,2022-23,Georges Niang,F,6-7,230,"JUN 17, 1993",30.0,6
+Philadelphia 76ers,2022-23,Joel Embiid,C-F,7-0,280,"MAR 16, 1994",29.0,6
+Philadelphia 76ers,2022-23,Louis King,F,6-7,205,"APR 06, 1999",24.0,3
+Philadelphia 76ers,2022-23,Danuel House Jr.,F-G,6-6,220,"JUN 07, 1993",30.0,6
+Philadelphia 76ers,2022-23,Furkan Korkmaz,G-F,6-7,202,"JUL 24, 1997",25.0,5
+Philadelphia 76ers,2022-23,Paul Reed,F,6-9,210,"JUN 14, 1999",24.0,2
+Philadelphia 76ers,2023-24,Tyrese Maxey,G,6-2,200,"NOV 04, 2000",23.0,3
+Philadelphia 76ers,2023-24,KJ Martin,F,6-6,215,"JAN 06, 2001",23.0,3
+Philadelphia 76ers,2023-24,Mo Bamba,C,7-0,231,"MAY 12, 1998",25.0,5
+Philadelphia 76ers,2023-24,Kyle Lowry,G,6-0,196,"MAR 25, 1986",38.0,17
+Philadelphia 76ers,2023-24,De'Anthony Melton,G,6-3,200,"MAY 28, 1998",25.0,5
+Philadelphia 76ers,2023-24,Kelly Oubre Jr.,F-G,6-7,203,"DEC 09, 1995",28.0,8
+Philadelphia 76ers,2023-24,Jeff Dowtin Jr.,G,6-3,177,"MAY 10, 1997",26.0,2
+Philadelphia 76ers,2023-24,Tobias Harris,F,6-8,226,"JUL 15, 1992",31.0,12
+Philadelphia 76ers,2023-24,Ricky Council IV,G,6-6,207,"AUG 03, 2001",22.0,R
+Philadelphia 76ers,2023-24,Buddy Hield,G,6-4,220,"DEC 17, 1992",31.0,7
+Philadelphia 76ers,2023-24,Joel Embiid,C-F,7-0,280,"MAR 16, 1994",30.0,7
+Philadelphia 76ers,2023-24,Cameron Payne,G,6-3,183,"AUG 08, 1994",29.0,8
+Philadelphia 76ers,2023-24,Terquavion Smith,G,6-4,160,"DEC 31, 2002",21.0,R
+Philadelphia 76ers,2023-24,Robert Covington,F,6-7,209,"DEC 14, 1990",33.0,10
+Philadelphia 76ers,2023-24,Nicolas Batum,G-F,6-8,230,"DEC 14, 1988",35.0,15
+Philadelphia 76ers,2023-24,Paul Reed,F,6-9,210,"JUN 14, 1999",24.0,3
+Phoenix Suns,2022-23,Torrey Craig,F,6-7,221,"DEC 19, 1990",32.0,5
+Phoenix Suns,2022-23,Devin Booker,G,6-5,206,"OCT 30, 1996",26.0,7
+Phoenix Suns,2022-23,Josh Okogie,G,6-4,213,"SEP 01, 1998",24.0,4
+Phoenix Suns,2022-23,Chris Paul,G,6-0,175,"MAY 06, 1985",38.0,17
+Phoenix Suns,2022-23,Terrence Ross,G-F,6-7,206,"FEB 05, 1991",32.0,10
+Phoenix Suns,2022-23,Damion Lee,G-F,6-5,210,"OCT 21, 1992",30.0,5
+Phoenix Suns,2022-23,Jock Landale,C,6-11,255,"OCT 25, 1995",27.0,1
+Phoenix Suns,2022-23,Ish Wainright,F,6-5,250,"SEP 12, 1994",28.0,1
+Phoenix Suns,2022-23,Landry Shamet,G,6-4,190,"MAR 13, 1997",26.0,4
+Phoenix Suns,2022-23,Cameron Payne,G,6-1,183,"AUG 08, 1994",28.0,7
+Phoenix Suns,2022-23,Bismack Biyombo,C,6-8,255,"AUG 28, 1992",30.0,11
+Phoenix Suns,2022-23,T.J. Warren,F,6-8,220,"SEP 05, 1993",29.0,7
+Phoenix Suns,2022-23,Deandre Ayton,C,7-0,250,"JUL 23, 1998",24.0,4
+Phoenix Suns,2022-23,Kevin Durant,F,6-10,240,"SEP 29, 1988",34.0,14
+Phoenix Suns,2022-23,Saben Lee,G,6-2,183,"JUN 23, 1999",24.0,2
+Phoenix Suns,2022-23,Darius Bazley,F,6-9,216,"JUN 12, 2000",23.0,3
+Phoenix Suns,2023-24,Royce O'Neale,F,6-6,226,"JUN 05, 1993",30.0,6
+Phoenix Suns,2023-24,Devin Booker,G,6-6,206,"OCT 30, 1996",27.0,8
+Phoenix Suns,2023-24,Josh Okogie,G,6-4,213,"SEP 01, 1998",25.0,5
+Phoenix Suns,2023-24,Bradley Beal,G,6-4,207,"JUN 28, 1993",30.0,11
+Phoenix Suns,2023-24,Isaiah Thomas,G,5-9,185,"FEB 07, 1989",35.0,11
+Phoenix Suns,2023-24,Grayson Allen,G,6-4,198,"OCT 08, 1995",28.0,5
+Phoenix Suns,2023-24,Damion Lee,G-F,6-6,210,"OCT 21, 1992",31.0,6
+Phoenix Suns,2023-24,Bol Bol,C-F,7-3,220,"NOV 16, 1999",24.0,4
+Phoenix Suns,2023-24,Ish Wainright,F,6-5,250,"SEP 12, 1994",29.0,2
+Phoenix Suns,2023-24,Drew Eubanks,F-C,6-10,245,"FEB 01, 1997",27.0,5
+Phoenix Suns,2023-24,Jusuf Nurkic,C,7-0,290,"AUG 23, 1994",29.0,9
+Phoenix Suns,2023-24,David Roddy,F,6-4,255,"MAR 27, 2001",23.0,1
+Phoenix Suns,2023-24,Eric Gordon,G,6-3,215,"DEC 25, 1988",35.0,15
+Phoenix Suns,2023-24,Nassir Little,F-G,6-6,220,"FEB 11, 2000",24.0,4
+Phoenix Suns,2023-24,Udoka Azubuike,C-F,6-11,270,"SEP 17, 1999",24.0,3
+Phoenix Suns,2023-24,Thaddeus Young,F,6-8,225,"JUN 21, 1988",35.0,16
+Phoenix Suns,2023-24,Kevin Durant,F,6-11,240,"SEP 29, 1988",35.0,15
+Phoenix Suns,2023-24,Saben Lee,G,6-2,183,"JUN 23, 1999",24.0,3
+Portland Trail Blazers,2022-23,Damian Lillard,G,6-2,195,"JUL 15, 1990",32.0,10
+Portland Trail Blazers,2022-23,Anfernee Simons,G,6-3,181,"JUN 08, 1999",24.0,4
+Portland Trail Blazers,2022-23,Trendon Watford,F,6-8,237,"NOV 09, 2000",22.0,1
+Portland Trail Blazers,2022-23,Matisse Thybulle,G-F,6-5,201,"MAR 04, 1997",26.0,3
+Portland Trail Blazers,2022-23,Cam Reddish,F-G,6-7,217,"SEP 01, 1999",23.0,3
+Portland Trail Blazers,2022-23,Keon Johnson,G,6-3,185,"MAR 10, 2002",21.0,1
+Portland Trail Blazers,2022-23,Jerami Grant,F,6-8,210,"MAR 12, 1994",29.0,8
+Portland Trail Blazers,2022-23,Nassir Little,F-G,6-5,220,"FEB 11, 2000",23.0,3
+Portland Trail Blazers,2022-23,Kevin Knox II,F,6-7,215,"AUG 11, 1999",23.0,4
+Portland Trail Blazers,2022-23,Shaedon Sharpe,G,6-5,200,"MAY 30, 2003",20.0,R
+Portland Trail Blazers,2022-23,John Butler Jr.,F,7-0,190,"DEC 04, 2002",20.0,R
+Portland Trail Blazers,2022-23,Drew Eubanks,F-C,6-10,245,"FEB 01, 1997",26.0,4
+Portland Trail Blazers,2022-23,Justise Winslow,F-G,6-6,222,"MAR 26, 1996",27.0,7
+Portland Trail Blazers,2022-23,Jusuf Nurkic,C,7-0,290,"AUG 23, 1994",28.0,8
+Portland Trail Blazers,2022-23,Jabari Walker,F,6-7,200,"JUL 30, 2002",20.0,R
+Portland Trail Blazers,2022-23,Ibou Badji,C,7-1,240,"OCT 13, 2002",20.0,R
+Portland Trail Blazers,2022-23,Nate Williams,G,6-5,205,"FEB 12, 1999",24.0,R
+Portland Trail Blazers,2023-24,Scoot Henderson,G,6-3,202,"FEB 03, 2004",20.0,R
+Portland Trail Blazers,2023-24,Anfernee Simons,G,6-3,193,"JUN 08, 1999",24.0,5
+Portland Trail Blazers,2023-24,Deandre Ayton,C,7-0,247,"JUL 23, 1998",25.0,5
+Portland Trail Blazers,2023-24,Matisse Thybulle,G-F,6-5,201,"MAR 04, 1997",27.0,4
+Portland Trail Blazers,2023-24,Dalano Banton,F,6-8,204,"NOV 07, 1999",24.0,2
+Portland Trail Blazers,2023-24,Kris Murray,F,6-8,210,"AUG 19, 2000",23.0,R
+Portland Trail Blazers,2023-24,Jerami Grant,F,6-7,210,"MAR 12, 1994",30.0,9
+Portland Trail Blazers,2023-24,Moses Brown,C,7-2,258,"OCT 13, 1999",24.0,4
+Portland Trail Blazers,2023-24,Malcolm Brogdon,G,6-4,229,"DEC 11, 1992",31.0,7
+Portland Trail Blazers,2023-24,Shaedon Sharpe,G,6-5,205,"MAY 30, 2003",20.0,1
+Portland Trail Blazers,2023-24,Ashton Hagans,G-F,6-3,190,"JUL 08, 1999",24.0,1
+Portland Trail Blazers,2023-24,Justin Minaya,F,6-5,205,"MAR 26, 1999",25.0,1
+Portland Trail Blazers,2023-24,Duop Reath,C,6-9,245,"JUN 26, 1996",27.0,R
+Portland Trail Blazers,2023-24,Toumani Camara,F,6-7,226,"MAY 08, 2000",23.0,R
+Portland Trail Blazers,2023-24,Jabari Walker,F,6-7,227,"JUL 30, 2002",21.0,1
+Portland Trail Blazers,2023-24,Robert Williams III,C-F,6-9,249,"OCT 17, 1997",26.0,5
+Portland Trail Blazers,2023-24,Ibou Badji,C,7-0,240,"OCT 13, 2002",21.0,R
+Portland Trail Blazers,2023-24,Rayan Rupert,G-F,6-6,185,"MAY 31, 2004",19.0,R
+Sacramento Kings,2022-23,Malik Monk,G,6-3,200,"FEB 04, 1998",25.0,5
+Sacramento Kings,2022-23,Terence Davis,G,6-4,201,"MAY 16, 1997",26.0,3
+Sacramento Kings,2022-23,De'Aaron Fox,G,6-3,185,"DEC 20, 1997",25.0,5
+Sacramento Kings,2022-23,Chimezie Metu,F-C,6-9,225,"MAR 22, 1997",26.0,4
+Sacramento Kings,2022-23,Matthew Dellavedova,G,6-3,200,"SEP 08, 1990",32.0,8
+Sacramento Kings,2022-23,Kevin Huerter,G-F,6-7,198,"AUG 27, 1998",24.0,4
+Sacramento Kings,2022-23,Domantas Sabonis,F-C,7-1,240,"MAY 03, 1996",27.0,6
+Sacramento Kings,2022-23,Keegan Murray,F,6-8,225,"AUG 19, 2000",22.0,R
+Sacramento Kings,2022-23,Davion Mitchell,G,6-0,202,"SEP 05, 1998",24.0,1
+Sacramento Kings,2022-23,Kessler Edwards,F,6-7,203,"AUG 09, 2000",22.0,1
+Sacramento Kings,2022-23,Richaun Holmes,F,6-8,235,"OCT 15, 1993",29.0,7
+Sacramento Kings,2022-23,Keon Ellis,G,6-3,175,"JAN 08, 2000",23.0,R
+Sacramento Kings,2022-23,Alex Len,C,7-2,250,"JUN 16, 1993",30.0,9
+Sacramento Kings,2022-23,PJ Dozier,G-F,6-6,205,"OCT 25, 1996",26.0,5
+Sacramento Kings,2022-23,Harrison Barnes,F,6-8,225,"MAY 30, 1992",31.0,10
+Sacramento Kings,2022-23,Trey Lyles,F,6-9,234,"NOV 05, 1995",27.0,7
+Sacramento Kings,2022-23,Neemias Queta,C,7-0,248,"JUL 13, 1999",23.0,1
+Sacramento Kings,2023-24,Malik Monk,G,6-3,200,"FEB 04, 1998",26.0,6
+Sacramento Kings,2023-24,JaVale McGee,C-F,7-0,270,"JAN 19, 1988",36.0,15
+Sacramento Kings,2023-24,Chris Duarte,G,6-5,190,"JUN 13, 1997",26.0,2
+Sacramento Kings,2023-24,De'Aaron Fox,G,6-3,185,"DEC 20, 1997",26.0,6
+Sacramento Kings,2023-24,Sasha Vezenkov,F,6-8,225,"AUG 06, 1995",28.0,R
+Sacramento Kings,2023-24,Mason Jones,G,6-4,200,"JUL 21, 1998",25.0,2
+Sacramento Kings,2023-24,Kevin Huerter,G-F,6-7,198,"AUG 27, 1998",25.0,5
+Sacramento Kings,2023-24,Domantas Sabonis,F-C,6-10,240,"MAY 03, 1996",27.0,7
+Sacramento Kings,2023-24,Keegan Murray,F,6-8,225,"AUG 19, 2000",23.0,1
+Sacramento Kings,2023-24,Davion Mitchell,G,6-0,202,"SEP 05, 1998",25.0,2
+Sacramento Kings,2023-24,Kessler Edwards,F,6-7,203,"AUG 09, 2000",23.0,2
+Sacramento Kings,2023-24,Jalen Slawson,F,6-7,215,"OCT 22, 1999",24.0,R
+Sacramento Kings,2023-24,Colby Jones,G,6-6,207,"MAY 28, 2002",21.0,R
+Sacramento Kings,2023-24,Keon Ellis,G,6-3,175,"JAN 08, 2000",24.0,1
+Sacramento Kings,2023-24,Alex Len,C,7-0,250,"JUN 16, 1993",30.0,10
+Sacramento Kings,2023-24,Jordan Ford,G,6-1,175,"MAY 26, 1998",25.0,R
+Sacramento Kings,2023-24,Harrison Barnes,F,6-8,225,"MAY 30, 1992",31.0,11
+Sacramento Kings,2023-24,Trey Lyles,F,6-9,234,"NOV 05, 1995",28.0,8
+San Antonio Spurs,2022-23,Keldon Johnson,F-G,6-5,220,"OCT 11, 1999",23.0,3
+San Antonio Spurs,2022-23,Devonte' Graham,G,6-1,195,"FEB 22, 1995",28.0,4
+San Antonio Spurs,2022-23,Jeremy Sochan,F,6-8,230,"MAY 20, 2003",20.0,R
+San Antonio Spurs,2022-23,Blake Wesley,G,6-4,185,"MAR 16, 2003",20.0,R
+San Antonio Spurs,2022-23,Doug McDermott,F,6-6,225,"JAN 03, 1992",31.0,8
+San Antonio Spurs,2022-23,Malaki Branham,F,6-4,180,"MAY 12, 2003",20.0,R
+San Antonio Spurs,2022-23,Zach Collins,F-C,6-11,250,"NOV 19, 1997",25.0,4
+San Antonio Spurs,2022-23,Devin Vassell,G-F,6-5,200,"AUG 23, 2000",22.0,2
+San Antonio Spurs,2022-23,Khem Birch,C,6-8,233,"SEP 28, 1992",30.0,5
+San Antonio Spurs,2022-23,Dominick Barlow,F,6-9,215,"MAY 26, 2003",20.0,R
+San Antonio Spurs,2022-23,Charles Bassey,C-F,6-9,230,"OCT 28, 2000",22.0,1
+San Antonio Spurs,2022-23,Julian Champagnie,F,6-7,217,"JUN 29, 2001",22.0,R
+San Antonio Spurs,2022-23,Keita Bates-Diop,F,6-8,229,"JAN 23, 1996",27.0,4
+San Antonio Spurs,2022-23,Tre Jones,G,6-1,185,"JAN 08, 2000",23.0,2
+San Antonio Spurs,2022-23,Romeo Langford,G-F,6-5,216,"OCT 25, 1999",23.0,3
+San Antonio Spurs,2022-23,Gorgui Dieng,C,6-10,248,"JAN 18, 1990",33.0,9
+San Antonio Spurs,2022-23,Sandro Mamukelashvili,F-C,6-10,240,"MAY 23, 1999",24.0,1
+San Antonio Spurs,2023-24,RaiQuan Gray,F,6-7,269,"JUL 07, 1999",24.0,1
+San Antonio Spurs,2023-24,Victor Wembanyama,F-C,7-4,210,"JAN 04, 2004",20.0,R
+San Antonio Spurs,2023-24,Keldon Johnson,F-G,6-5,220,"OCT 11, 1999",24.0,4
+San Antonio Spurs,2023-24,Devonte' Graham,G,6-1,195,"FEB 22, 1995",29.0,5
+San Antonio Spurs,2023-24,Jeremy Sochan,F,6-8,230,"MAY 20, 2003",20.0,1
+San Antonio Spurs,2023-24,Blake Wesley,G,6-3,185,"MAR 16, 2003",21.0,1
+San Antonio Spurs,2023-24,Cedi Osman,F,6-7,230,"APR 08, 1995",29.0,6
+San Antonio Spurs,2023-24,Jamaree Bouyea,G,6-2,180,"JUN 27, 1999",24.0,1
+San Antonio Spurs,2023-24,Malaki Branham,F,6-4,180,"MAY 12, 2003",20.0,1
+San Antonio Spurs,2023-24,Zach Collins,F-C,6-11,250,"NOV 19, 1997",26.0,5
+San Antonio Spurs,2023-24,Devin Vassell,G-F,6-5,200,"AUG 23, 2000",23.0,3
+San Antonio Spurs,2023-24,Sidy Cissoko,G,6-6,200,"APR 02, 2004",20.0,R
+San Antonio Spurs,2023-24,Dominick Barlow,F,6-9,215,"MAY 26, 2003",20.0,1
+San Antonio Spurs,2023-24,Charles Bassey,C-F,6-10,230,"OCT 28, 2000",23.0,2
+San Antonio Spurs,2023-24,David Duke Jr.,G,6-4,204,"OCT 13, 1999",24.0,2
+San Antonio Spurs,2023-24,Julian Champagnie,F,6-7,217,"JUN 29, 2001",22.0,1
+San Antonio Spurs,2023-24,Tre Jones,G,6-1,185,"JAN 08, 2000",24.0,3
+San Antonio Spurs,2023-24,Sandro Mamukelashvili,F-C,6-9,240,"MAY 23, 1999",24.0,2
+Oklahoma City Thunder,2022-23,Shai Gilgeous-Alexander,G,6-6,195,"JUL 12, 1998",24.0,4
+Oklahoma City Thunder,2022-23,Josh Giddey,G,6-8,216,"OCT 10, 2002",20.0,1
+Oklahoma City Thunder,2022-23,Luguentz Dort,G,6-4,220,"APR 19, 1999",24.0,3
+Oklahoma City Thunder,2022-23,Jaylin Williams,F,6-9,240,"JUN 29, 2002",21.0,R
+Oklahoma City Thunder,2022-23,Chet Holmgren,C-F,7-1,195,"MAY 01, 2002",21.0,R
+Oklahoma City Thunder,2022-23,Jalen Williams,G-F,6-5,211,"APR 14, 2001",22.0,R
+Oklahoma City Thunder,2022-23,Dario Saric,F-C,6-10,225,"APR 08, 1994",29.0,5
+Oklahoma City Thunder,2022-23,Isaiah Joe,G,6-3,165,"JUL 02, 1999",23.0,2
+Oklahoma City Thunder,2022-23,Lindy Waters III,F,6-6,210,"JUL 28, 1997",25.0,1
+Oklahoma City Thunder,2022-23,Ousmane Dieng,F,6-9,185,"MAY 21, 2003",20.0,R
+Oklahoma City Thunder,2022-23,Jared Butler,G,6-3,193,"AUG 25, 2000",22.0,1
+Oklahoma City Thunder,2022-23,Aleksej Pokusevski,F,7-0,210,"DEC 26, 2001",21.0,2
+Oklahoma City Thunder,2022-23,Aaron Wiggins,G,6-5,190,"JAN 02, 1999",24.0,1
+Oklahoma City Thunder,2022-23,Tre Mann,G,6-3,178,"FEB 03, 2001",22.0,1
+Oklahoma City Thunder,2022-23,Olivier Sarr,C,6-11,240,"FEB 20, 1999",24.0,1
+Oklahoma City Thunder,2022-23,Kenrich Williams,G-F,6-6,210,"DEC 02, 1994",28.0,4
+Oklahoma City Thunder,2022-23,Jeremiah Robinson-Earl,F,6-8,240,"NOV 03, 2000",22.0,1
+Oklahoma City Thunder,2023-24,Shai Gilgeous-Alexander,G,6-6,195,"JUL 12, 1998",25.0,5
+Oklahoma City Thunder,2023-24,Josh Giddey,G,6-8,216,"OCT 10, 2002",21.0,2
+Oklahoma City Thunder,2023-24,Luguentz Dort,G,6-4,220,"APR 19, 1999",25.0,4
+Oklahoma City Thunder,2023-24,Jaylin Williams,F,6-9,240,"JUN 29, 2002",21.0,1
+Oklahoma City Thunder,2023-24,Chet Holmgren,C-F,7-1,208,"MAY 01, 2002",22.0,R
+Oklahoma City Thunder,2023-24,Jalen Williams,G-F,6-5,211,"APR 14, 2001",23.0,1
+Oklahoma City Thunder,2023-24,Isaiah Joe,G,6-3,165,"JUL 02, 1999",24.0,3
+Oklahoma City Thunder,2023-24,Lindy Waters III,F,6-6,210,"JUL 28, 1997",26.0,2
+Oklahoma City Thunder,2023-24,Ousmane Dieng,F,6-9,185,"MAY 21, 2003",20.0,1
+Oklahoma City Thunder,2023-24,Adam Flagler,G,6-3,180,"DEC 01, 1999",24.0,R
+Oklahoma City Thunder,2023-24,Bismack Biyombo,C,6-8,255,"AUG 28, 1992",31.0,12
+Oklahoma City Thunder,2023-24,Keyontae Johnson,F,6-4,230,"MAY 24, 2000",23.0,R
+Oklahoma City Thunder,2023-24,Aaron Wiggins,G,6-5,190,"JAN 02, 1999",25.0,2
+Oklahoma City Thunder,2023-24,Cason Wallace,G,6-3,195,"NOV 07, 2003",20.0,R
+Oklahoma City Thunder,2023-24,Olivier Sarr,C,6-10,240,"FEB 20, 1999",25.0,2
+Oklahoma City Thunder,2023-24,Gordon Hayward,F,6-7,225,"MAR 23, 1990",34.0,13
+Oklahoma City Thunder,2023-24,Kenrich Williams,G-F,6-6,210,"DEC 02, 1994",29.0,5
+Oklahoma City Thunder,2023-24,Mike Muscala,F-C,6-10,240,"JUL 01, 1991",32.0,10
+Toronto Raptors,2022-23,Will Barton,G,6-5,181,"JAN 06, 1991",32.0,10
+Toronto Raptors,2022-23,OG Anunoby,F,6-7,232,"JUL 17, 1997",25.0,5
+Toronto Raptors,2022-23,Scottie Barnes,F,6-8,225,"AUG 01, 2001",21.0,1
+Toronto Raptors,2022-23,Precious Achiuwa,F,6-8,225,"SEP 19, 1999",23.0,2
+Toronto Raptors,2022-23,Ron Harper Jr.,F,6-5,245,"APR 12, 2000",23.0,R
+Toronto Raptors,2022-23,Joe Wieskamp,G-F,6-6,205,"AUG 23, 1999",23.0,1
+Toronto Raptors,2022-23,Jakob Poeltl,C,7-1,245,"OCT 15, 1995",27.0,6
+Toronto Raptors,2022-23,Jeff Dowtin Jr.,G,6-3,177,"MAY 10, 1997",26.0,1
+Toronto Raptors,2022-23,Thaddeus Young,F,6-8,235,"JUN 21, 1988",35.0,15
+Toronto Raptors,2022-23,Malachi Flynn,G,6-1,175,"MAY 09, 1998",25.0,2
+Toronto Raptors,2022-23,Fred VanVleet,G,6-0,197,"FEB 25, 1994",29.0,6
+Toronto Raptors,2022-23,Chris Boucher,F-C,6-9,200,"JAN 11, 1993",30.0,5
+Toronto Raptors,2022-23,Otto Porter Jr.,F,6-8,198,"JUN 03, 1993",30.0,9
+Toronto Raptors,2022-23,Gary Trent Jr.,G-F,6-5,209,"JAN 18, 1999",24.0,4
+Toronto Raptors,2022-23,Christian Koloko,C,7-0,230,"JUN 20, 2000",23.0,R
+Toronto Raptors,2022-23,Pascal Siakam,F,6-8,230,"APR 02, 1994",29.0,6
+Toronto Raptors,2022-23,Dalano Banton,F,6-7,204,"NOV 07, 1999",23.0,1
+Toronto Raptors,2023-24,Malik Williams,C,6-11,250,"AUG 26, 1998",25.0,R
+Toronto Raptors,2023-24,Javon Freeman-Liberty,G,6-3,190,"OCT 20, 1999",24.0,R
+Toronto Raptors,2023-24,Gradey Dick,G-F,6-6,200,"NOV 20, 2003",20.0,R
+Toronto Raptors,2023-24,Jalen McDaniels,F,6-9,190,"JAN 31, 1998",26.0,4
+Toronto Raptors,2023-24,D.J. Carton,G,6-3,200,"AUG 05, 2000",23.0,R
+Toronto Raptors,2023-24,Scottie Barnes,F-G,6-7,237,"AUG 01, 2001",22.0,2
+Toronto Raptors,2023-24,Immanuel Quickley,G,6-2,190,"JUN 17, 1999",24.0,3
+Toronto Raptors,2023-24,RJ Barrett,F-G,6-6,214,"JUN 14, 2000",23.0,4
+Toronto Raptors,2023-24,Bruce Brown,G-F,6-4,202,"AUG 15, 1996",27.0,5
+Toronto Raptors,2023-24,Jordan Nwora,F,6-8,225,"SEP 09, 1998",25.0,3
+Toronto Raptors,2023-24,Mouhamadou Gueye,F,6-9,210,"JUL 06, 1998",25.0,R
+Toronto Raptors,2023-24,Garrett Temple,G-F,6-5,195,"MAY 08, 1986",37.0,13
+Toronto Raptors,2023-24,Jakob Poeltl,C,7-0,260,"OCT 15, 1995",28.0,7
+Toronto Raptors,2023-24,Chris Boucher,F,6-9,200,"JAN 11, 1993",31.0,6
+Toronto Raptors,2023-24,Ochai Agbaji,G,6-5,215,"APR 20, 2000",24.0,1
+Toronto Raptors,2023-24,Gary Trent Jr.,G,6-5,204,"JAN 18, 1999",25.0,5
+Toronto Raptors,2023-24,Kelly Olynyk,F-C,6-11,240,"APR 19, 1991",33.0,10
+Utah Jazz,2022-23,Talen Horton-Tucker,G,6-4,234,"NOV 25, 2000",22.0,3
+Utah Jazz,2022-23,Jordan Clarkson,G,6-5,194,"JUN 07, 1992",31.0,8
+Utah Jazz,2022-23,Collin Sexton,G,6-2,190,"JAN 04, 1999",24.0,4
+Utah Jazz,2022-23,Kris Dunn,G,6-3,205,"MAR 18, 1994",29.0,6
+Utah Jazz,2022-23,Vernon Carey Jr.,C,6-10,270,"FEB 25, 2001",22.0,2
+Utah Jazz,2022-23,Damian Jones,C,6-11,245,"JUN 30, 1995",28.0,6
+Utah Jazz,2022-23,Simone Fontecchio,F,6-7,209,"DEC 09, 1995",27.0,R
+Utah Jazz,2022-23,Luka Samanic,F,6-10,227,"JAN 09, 2000",23.0,2
+Utah Jazz,2022-23,Udoka Azubuike,C-F,6-11,270,"SEP 17, 1999",23.0,2
+Utah Jazz,2022-23,Rudy Gay,F-G,6-8,250,"AUG 17, 1986",36.0,16
+Utah Jazz,2022-23,Lauri Markkanen,F-C,7-0,240,"MAY 22, 1997",26.0,5
+Utah Jazz,2022-23,Walker Kessler,C,7-0,245,"JUL 26, 2001",21.0,R
+Utah Jazz,2022-23,Micah Potter,C,6-8,248,"APR 06, 1998",25.0,1
+Utah Jazz,2022-23,Ochai Agbaji,G,6-5,215,"APR 20, 2000",23.0,R
+Utah Jazz,2022-23,Johnny Juzang,G,6-6,209,"MAR 17, 2001",22.0,R
+Utah Jazz,2022-23,Kelly Olynyk,F-C,6-11,240,"APR 19, 1991",32.0,9
+Utah Jazz,2022-23,Juan Toscano-Anderson,F,6-6,209,"APR 10, 1993",30.0,3
+Utah Jazz,2023-24,Jordan Clarkson,G,6-3,194,"JUN 07, 1992",31.0,9
+Utah Jazz,2023-24,Taylor Hendricks,F,6-9,215,"NOV 22, 2003",20.0,R
+Utah Jazz,2023-24,Collin Sexton,G,6-3,190,"JAN 04, 1999",25.0,5
+Utah Jazz,2023-24,Keyonte George,G,6-4,185,"NOV 08, 2003",20.0,R
+Utah Jazz,2023-24,Talen Horton-Tucker,G,6-4,234,"NOV 25, 2000",23.0,4
+Utah Jazz,2023-24,Brice Sensabaugh,F,6-5,235,"OCT 30, 2003",20.0,R
+Utah Jazz,2023-24,Jason Preston,G,6-3,181,"AUG 10, 1999",24.0,1
+Utah Jazz,2023-24,Kris Dunn,G,6-3,205,"MAR 18, 1994",30.0,7
+Utah Jazz,2023-24,Kira Lewis Jr.,G,6-1,170,"APR 06, 2001",23.0,3
+Utah Jazz,2023-24,Luka Samanic,F,6-10,227,"JAN 09, 2000",24.0,3
+Utah Jazz,2023-24,John Collins,F-C,6-9,226,"SEP 23, 1997",26.0,6
+Utah Jazz,2023-24,Lauri Markkanen,F-C,7-0,240,"MAY 22, 1997",26.0,6
+Utah Jazz,2023-24,Walker Kessler,C,7-0,245,"JUL 26, 2001",22.0,1
+Utah Jazz,2023-24,Micah Potter,C,6-9,248,"APR 06, 1998",26.0,2
+Utah Jazz,2023-24,Darius Bazley,F,6-9,216,"JUN 12, 2000",23.0,4
+Utah Jazz,2023-24,Johnny Juzang,G,6-5,209,"MAR 17, 2001",23.0,1
+Utah Jazz,2023-24,Kenneth Lofton Jr.,F,6-6,275,"AUG 14, 2002",21.0,1
+Utah Jazz,2023-24,Omer Yurtseven,C,6-11,275,"JUN 19, 1998",25.0,2
+Memphis Grizzlies,2022-23,Jacob Gilyard,G,5-9,160,"JUL 14, 1998",24.0,R
+Memphis Grizzlies,2022-23,Xavier Tillman,F,6-7,245,"JAN 12, 1999",24.0,2
+Memphis Grizzlies,2022-23,Jake LaRavia,F,6-7,235,"NOV 03, 2001",21.0,R
+Memphis Grizzlies,2022-23,Steven Adams,C,6-11,265,"JUL 20, 1993",29.0,9
+Memphis Grizzlies,2022-23,Vince Williams Jr.,G,6-4,205,"AUG 30, 2000",22.0,R
+Memphis Grizzlies,2022-23,Kenneth Lofton Jr.,F,6-6,275,"AUG 14, 2002",20.0,R
+Memphis Grizzlies,2022-23,Santi Aldama,F-C,7-0,215,"JAN 10, 2001",22.0,1
+Memphis Grizzlies,2022-23,Ziaire Williams,F,6-9,185,"SEP 12, 2001",21.0,1
+Memphis Grizzlies,2022-23,Luke Kennard,G,6-5,206,"JUN 24, 1996",27.0,5
+Memphis Grizzlies,2022-23,Ja Morant,G,6-2,174,"AUG 10, 1999",23.0,3
+Memphis Grizzlies,2022-23,Jaren Jackson Jr.,F-C,6-10,242,"SEP 15, 1999",23.0,4
+Memphis Grizzlies,2022-23,Brandon Clarke,F,6-8,215,"SEP 19, 1996",26.0,3
+Memphis Grizzlies,2022-23,Tyus Jones,G,6-2,196,"MAY 10, 1996",27.0,7
+Memphis Grizzlies,2022-23,Desmond Bane,G,6-5,215,"JUN 25, 1998",25.0,2
+Memphis Grizzlies,2022-23,Dillon Brooks,G-F,6-6,225,"JAN 22, 1996",27.0,5
+Memphis Grizzlies,2022-23,David Roddy,F,6-4,255,"MAR 27, 2001",22.0,R
+Memphis Grizzlies,2022-23,John Konchar,G,6-5,210,"MAR 22, 1996",27.0,3
+Memphis Grizzlies,2023-24,Jordan Goodwin,G,6-4,200,"OCT 23, 1998",25.0,2
+Memphis Grizzlies,2023-24,Scotty Pippen Jr.,G,6-1,170,"NOV 10, 2000",23.0,1
+Memphis Grizzlies,2023-24,Jake LaRavia,F,6-7,235,"NOV 03, 2001",22.0,1
+Memphis Grizzlies,2023-24,Vince Williams Jr.,G,6-4,205,"AUG 30, 2000",23.0,1
+Memphis Grizzlies,2023-24,Santi Aldama,F-C,7-0,215,"JAN 10, 2001",23.0,2
+Memphis Grizzlies,2023-24,Ziaire Williams,F,6-9,185,"SEP 12, 2001",22.0,2
+Memphis Grizzlies,2023-24,Luke Kennard,G,6-5,206,"JUN 24, 1996",27.0,6
+Memphis Grizzlies,2023-24,Ja Morant,G,6-2,174,"AUG 10, 1999",24.0,4
+Memphis Grizzlies,2023-24,Jaren Jackson Jr.,F-C,6-10,242,"SEP 15, 1999",24.0,5
+Memphis Grizzlies,2023-24,Brandon Clarke,F,6-8,215,"SEP 19, 1996",27.0,4
+Memphis Grizzlies,2023-24,Yuta Watanabe,G-F,6-9,215,"OCT 13, 1994",29.0,5
+Memphis Grizzlies,2023-24,Desmond Bane,G,6-5,215,"JUN 25, 1998",25.0,3
+Memphis Grizzlies,2023-24,Derrick Rose,G,6-3,200,"OCT 04, 1988",35.0,14
+Memphis Grizzlies,2023-24,Lamar Stevens,F,6-7,230,"JUL 09, 1997",26.0,3
+Memphis Grizzlies,2023-24,Marcus Smart,G,6-3,220,"MAR 06, 1994",30.0,9
+Memphis Grizzlies,2023-24,GG Jackson,F,6-9,210,"DEC 17, 2004",19.0,R
+Memphis Grizzlies,2023-24,John Konchar,G,6-5,210,"MAR 22, 1996",28.0,4
+Memphis Grizzlies,2023-24,Trey Jemison,C,6-10,260,"NOV 28, 1999",24.0,R
+Washington Wizards,2022-23,Johnny Davis,G,6-4,195,"FEB 27, 2002",21.0,R
+Washington Wizards,2022-23,Bradley Beal,G,6-4,207,"JUN 28, 1993",30.0,10
+Washington Wizards,2022-23,Kristaps Porzingis,F-C,7-3,240,"AUG 02, 1995",27.0,6
+Washington Wizards,2022-23,Jordan Goodwin,G,6-3,200,"OCT 23, 1998",24.0,1
+Washington Wizards,2022-23,Deni Avdija,F,6-9,210,"JAN 03, 2001",22.0,2
+Washington Wizards,2022-23,Xavier Cooks,F,6-8,183,"AUG 19, 1995",27.0,R
+Washington Wizards,2022-23,Isaiah Todd,F,6-9,219,"OCT 17, 2001",21.0,1
+Washington Wizards,2022-23,Anthony Gill,F,6-8,230,"OCT 17, 1992",30.0,2
+Washington Wizards,2022-23,Kendrick Nunn,G,6-3,190,"AUG 03, 1995",27.0,2
+Washington Wizards,2022-23,Daniel Gafford,F-C,6-10,234,"OCT 01, 1998",24.0,3
+Washington Wizards,2022-23,Monte Morris,G,6-2,183,"JUN 27, 1995",28.0,5
+Washington Wizards,2022-23,Corey Kispert,F,6-6,224,"MAR 03, 1999",24.0,1
+Washington Wizards,2022-23,Quenton Jackson,G,6-5,173,"SEP 15, 1998",24.0,R
+Washington Wizards,2022-23,Kyle Kuzma,F,6-9,221,"JUL 24, 1995",27.0,5
+Washington Wizards,2022-23,Jay Huff,C,7-1,240,"AUG 25, 1997",25.0,1
+Washington Wizards,2022-23,Delon Wright,G,6-5,185,"APR 26, 1992",31.0,7
+Washington Wizards,2022-23,Taj Gibson,F,6-9,232,"JUN 24, 1985",38.0,13
+Washington Wizards,2023-24,Tristan Vukcevic,F,6-10,220,"MAR 11, 2003",21.0,R
+Washington Wizards,2023-24,Bilal Coulibaly,G,6-8,195,"JUL 26, 2004",19.0,R
+Washington Wizards,2023-24,Johnny Davis,G,6-4,195,"FEB 27, 2002",22.0,1
+Washington Wizards,2023-24,Jared Butler,G,6-3,193,"AUG 25, 2000",23.0,2
+Washington Wizards,2023-24,Tyus Jones,G,6-1,196,"MAY 10, 1996",27.0,8
+Washington Wizards,2023-24,Patrick Baldwin Jr.,F,6-9,220,"NOV 18, 2002",21.0,1
+Washington Wizards,2023-24,Deni Avdija,F,6-9,210,"JAN 03, 2001",23.0,3
+Washington Wizards,2023-24,Jordan Poole,G,6-4,194,"JUN 19, 1999",24.0,4
+Washington Wizards,2023-24,Jules Bernard,G,6-6,210,"JAN 21, 2000",24.0,R
+Washington Wizards,2023-24,Anthony Gill,F,6-8,230,"OCT 17, 1992",31.0,3
+Washington Wizards,2023-24,Landry Shamet,G,6-4,190,"MAR 13, 1997",27.0,5
+Washington Wizards,2023-24,Richaun Holmes,F,6-9,235,"OCT 15, 1993",30.0,8
+Washington Wizards,2023-24,Corey Kispert,F,6-6,224,"MAR 03, 1999",25.0,2
+Washington Wizards,2023-24,Kyle Kuzma,F,6-9,221,"JUL 24, 1995",28.0,6
+Washington Wizards,2023-24,Marvin Bagley III,F,6-10,235,"MAR 14, 1999",25.0,5
+Washington Wizards,2023-24,Eugene Omoruyi,F,6-6,235,"FEB 14, 1997",27.0,2
+Washington Wizards,2023-24,Justin Champagnie,G-F,6-6,206,"JUN 29, 2001",22.0,2
+Detroit Pistons,2022-23,Jalen Duren,C,6-11,250,"NOV 18, 2003",19.0,R
+Detroit Pistons,2022-23,Cade Cunningham,G,6-7,220,"SEP 25, 2001",21.0,1
+Detroit Pistons,2022-23,Alec Burks,G,6-6,214,"JUL 20, 1991",31.0,11
+Detroit Pistons,2022-23,Hamidou Diallo,G,6-5,202,"JUL 31, 1998",24.0,4
+Detroit Pistons,2022-23,Killian Hayes,G,6-5,195,"JUL 27, 2001",21.0,2
+Detroit Pistons,2022-23,Jared Rhoden,G,6-6,210,"AUG 27, 1999",23.0,R
+Detroit Pistons,2022-23,Isaiah Livers,F,6-6,232,"JUL 28, 1998",24.0,1
+Detroit Pistons,2022-23,James Wiseman,C,7-0,240,"MAR 31, 2001",22.0,1
+Detroit Pistons,2022-23,R.J. Hampton,G,6-4,175,"FEB 07, 2001",22.0,2
+Detroit Pistons,2022-23,Rodney McGruder,G,6-4,205,"JUL 29, 1991",31.0,6
+Detroit Pistons,2022-23,Cory Joseph,G,6-3,200,"AUG 20, 1991",31.0,11
+Detroit Pistons,2022-23,Jaden Ivey,G,6-4,195,"FEB 13, 2002",21.0,R
+Detroit Pistons,2022-23,Buddy Boeheim,F,6-6,205,"NOV 11, 1999",23.0,R
+Detroit Pistons,2022-23,Isaiah Stewart,F-C,6-8,250,"MAY 22, 2001",22.0,2
+Detroit Pistons,2022-23,Marvin Bagley III,F,6-10,235,"MAR 14, 1999",24.0,4
+Detroit Pistons,2022-23,Bojan Bogdanovic,F,6-7,226,"APR 18, 1989",34.0,8
+Detroit Pistons,2022-23,Eugene Omoruyi,F,6-6,235,"FEB 14, 1997",26.0,1
+Detroit Pistons,2023-24,Jalen Duren,C,6-10,250,"NOV 18, 2003",20.0,1
+Detroit Pistons,2023-24,Cade Cunningham,G,6-6,220,"SEP 25, 2001",22.0,2
+Detroit Pistons,2023-24,Chimezie Metu,F-C,6-10,225,"MAR 22, 1997",27.0,5
+Detroit Pistons,2023-24,Troy Brown Jr.,G-F,6-7,215,"JUL 28, 1999",24.0,5
+Detroit Pistons,2023-24,Jared Rhoden,G,6-5,210,"AUG 27, 1999",24.0,1
+Detroit Pistons,2023-24,Ausar Thompson,G-F,6-6,205,"JAN 30, 2003",21.0,R
+Detroit Pistons,2023-24,James Wiseman,C,6-11,240,"MAR 31, 2001",23.0,2
+Detroit Pistons,2023-24,Stanley Umude,G,6-6,210,"APR 12, 1999",25.0,1
+Detroit Pistons,2023-24,Malachi Flynn,G,6-1,185,"MAY 09, 1998",25.0,3
+Detroit Pistons,2023-24,Tosan Evbuomwan,F,6-7,217,"FEB 16, 2001",23.0,R
+Detroit Pistons,2023-24,Simone Fontecchio,F,6-7,209,"DEC 09, 1995",28.0,1
+Detroit Pistons,2023-24,Jaden Ivey,G,6-4,195,"FEB 13, 2002",22.0,1
+Detroit Pistons,2023-24,Quentin Grimes,G,6-5,210,"MAY 08, 2000",23.0,2
+Detroit Pistons,2023-24,Marcus Sasser,G,6-2,195,"SEP 21, 2000",23.0,R
+Detroit Pistons,2023-24,Buddy Boeheim,F,6-5,205,"NOV 11, 1999",24.0,1
+Detroit Pistons,2023-24,Isaiah Stewart,F-C,6-8,250,"MAY 22, 2001",22.0,3
+Detroit Pistons,2023-24,Evan Fournier,G-F,6-6,205,"OCT 29, 1992",31.0,11
+Detroit Pistons,2023-24,Taj Gibson,F,6-9,232,"JUN 24, 1985",38.0,14
+Charlotte Hornets,2022-23,LaMelo Ball,G,6-7,180,"AUG 22, 2001",21.0,2
+Charlotte Hornets,2022-23,James Bouknight,G,6-4,190,"SEP 18, 2000",22.0,1
+Charlotte Hornets,2022-23,Terry Rozier,G,6-1,190,"MAR 17, 1994",29.0,7
+Charlotte Hornets,2022-23,Nick Richards,C,7-0,245,"NOV 29, 1997",25.0,2
+Charlotte Hornets,2022-23,Mark Williams,C,7-0,240,"DEC 16, 2001",21.0,R
+Charlotte Hornets,2022-23,Bryce McGowens,G,6-6,175,"NOV 08, 2002",20.0,R
+Charlotte Hornets,2022-23,Dennis Smith Jr.,G,6-2,205,"NOV 25, 1997",25.0,5
+Charlotte Hornets,2022-23,Theo Maledon,G,6-5,175,"JUN 12, 2001",22.0,2
+Charlotte Hornets,2022-23,Cody Martin,F,6-6,205,"SEP 28, 1995",27.0,3
+Charlotte Hornets,2022-23,Kelly Oubre Jr.,F-G,6-6,203,"DEC 09, 1995",27.0,7
+Charlotte Hornets,2022-23,Svi Mykhailiuk,G-F,6-7,205,"JUN 10, 1997",26.0,4
+Charlotte Hornets,2022-23,Xavier Sneed,F,6-5,215,"DEC 21, 1997",25.0,1
+Charlotte Hornets,2022-23,Gordon Hayward,F,6-7,225,"MAR 23, 1990",33.0,12
+Charlotte Hornets,2022-23,JT Thor,F,6-9,203,"AUG 26, 2002",20.0,1
+Charlotte Hornets,2022-23,Kobi Simmons,G,6-5,180,"JUL 04, 1997",25.0,2
+Charlotte Hornets,2022-23,Kai Jones,C-F,6-11,221,"JAN 19, 2001",22.0,1
+Charlotte Hornets,2022-23,P.J. Washington,F,6-7,230,"AUG 23, 1998",24.0,3
+Charlotte Hornets,2023-24,Miles Bridges,F,6-7,225,"MAR 21, 1998",26.0,4
+Charlotte Hornets,2023-24,LaMelo Ball,G,6-7,180,"AUG 22, 2001",22.0,3
+Charlotte Hornets,2023-24,Grant Williams,F,6-6,236,"NOV 30, 1998",25.0,4
+Charlotte Hornets,2023-24,Nick Richards,C,7-0,245,"NOV 29, 1997",26.0,3
+Charlotte Hornets,2023-24,Mark Williams,C,7-0,240,"DEC 16, 2001",22.0,1
+Charlotte Hornets,2023-24,Bryce McGowens,G,6-6,175,"NOV 08, 2002",21.0,1
+Charlotte Hornets,2023-24,Nick Smith Jr.,G,6-2,185,"APR 18, 2004",20.0,R
+Charlotte Hornets,2023-24,Davis Bertans,F,6-10,225,"NOV 12, 1992",31.0,7
+Charlotte Hornets,2023-24,Amari Bailey,G,6-3,185,"FEB 17, 2004",20.0,R
+Charlotte Hornets,2023-24,Cody Martin,F,6-6,205,"SEP 28, 1995",28.0,4
+Charlotte Hornets,2023-24,Leaky Black,F,6-6,209,"JUN 14, 1999",24.0,R
+Charlotte Hornets,2023-24,Marques Bolden,C,6-10,249,"APR 17, 1998",26.0,2
+Charlotte Hornets,2023-24,Aleksej Pokusevski,F,7-0,210,"DEC 26, 2001",22.0,3
+Charlotte Hornets,2023-24,JT Thor,F,6-9,203,"AUG 26, 2002",21.0,2
+Charlotte Hornets,2023-24,Vasilije Micic,G,6-3,188,"JAN 13, 1994",30.0,R
+Charlotte Hornets,2023-24,Tre Mann,G,6-3,178,"FEB 03, 2001",23.0,2
+Charlotte Hornets,2023-24,Brandon Miller,F,6-7,200,"NOV 22, 2002",21.0,R
+Charlotte Hornets,2023-24,Seth Curry,G,6-1,185,"AUG 23, 1990",33.0,9

@@ -1,0 +1,977 @@
+Team,full_name,first_name,last_name,Pos,Ht,Wt,Birth Date,Country,Exp,College,id,is_active,Season
+CLE,Craig Porter,Craig,Porter,PG,6-2,186,"February 26, 2000",us,R,"Vincennes University, Wichita State",1641854,True,2024
+MEM,Xavier Tillman,Xavier,Tillman,C,6-8,245,"January 12, 1999",us,2,Michigan State,1630214,True,2023
+BOS,Xavier Tillman,Xavier,Tillman,PF,6-8,245,"January 12, 1999",us,3,Michigan State,1630214,True,2024
+MEM,GG Jackson,GG,Jackson,PF,6-9,215,"December 17, 2004",us,R,South Carolina,1641713,True,2024
+LAL,Harry Giles III,Harry,Giles III,C,6-11,240,"April 22, 1998",us,3,Duke,1628385,True,2024
+POR,Kevin Knox II,Kevin,Knox II,PF,6-7,215,"August 11, 1999",us,4,Kentucky,1628995,True,2023
+HOU,Jermaine Samuels Jr.,Jermaine,Samuels Jr.,SF,6-7,230,"November 13, 1998",us,R,Villanova,1631257,True,2024
+CLE,Marcus Morris Sr.,Marcus,Morris Sr.,PF,6-8,218,"September 2, 1989",us,12,Kansas,202694,True,2024
+POR,John Butler Jr.,John,Butler Jr.,C,7-0,175,"December 4, 2002",us,R,Florida State,1631219,True,2023
+HOU,Reggie Bullock Jr.,Reggie,Bullock Jr.,SF,6-6,205,"March 16, 1991",us,10,UNC,203493,True,2024
+POR,Robert Williams III,Robert,Williams III,C,6-9,237,"October 17, 1997",us,5,Texas A&M,1629057,True,2024
+TOR,OG Anunoby,OG,Anunoby,SF,6-7,232,"July 17, 1997",gb,5,Indiana,1628384,True,2023
+NYK,OG Anunoby,OG,Anunoby,SF,6-7,232,"July 17, 1997",gb,6,Indiana,1628384,True,2024
+WAS,Bilal Coulibaly,Bilal,Coulibaly,SF,6-6,195,"July 26, 2004",fr,R,,1641731,True,2024
+BRK,Moses Brown,Moses,Brown,C,7-2,245,"October 13, 1999",us,3,UCLA,1629650,True,2023
+LAC,Moses Brown,Moses,Brown,C,7-2,245,"October 13, 1999",us,3,UCLA,1629650,True,2023
+POR,Moses Brown,Moses,Brown,C,7-2,245,"October 13, 1999",us,4,UCLA,1629650,True,2024
+SAS,Joshua Primo,Joshua,Primo,SG,6-6,190,"December 24, 2002",ca,1,Alabama,1630563,True,2023
+BRK,Kevin Durant,Kevin,Durant,PF,6-11,240,"September 29, 1988",us,14,Texas,201142,True,2023
+PHO,Kevin Durant,Kevin,Durant,PF,6-11,240,"September 29, 1988",us,14,Texas,201142,True,2023
+PHO,Kevin Durant,Kevin,Durant,PF,6-11,240,"September 29, 1988",us,15,Texas,201142,True,2024
+ORL,Moritz Wagner,Moritz,Wagner,C,6-11,245,"April 26, 1997",de,4,Michigan,1629021,True,2023
+ORL,Moritz Wagner,Moritz,Wagner,C,6-11,245,"April 26, 1997",de,5,Michigan,1629021,True,2024
+WAS,Kyle Kuzma,Kyle,Kuzma,PF,6-9,221,"July 24, 1995",us,5,Utah,1628398,True,2023
+WAS,Kyle Kuzma,Kyle,Kuzma,PF,6-9,221,"July 24, 1995",us,6,Utah,1628398,True,2024
+MIN,Kyle Anderson,Kyle,Anderson,PF,6-9,230,"September 20, 1993",us,8,UCLA,203937,True,2023
+MIN,Kyle Anderson,Kyle,Anderson,PF,6-9,230,"September 20, 1993",us,9,UCLA,203937,True,2024
+DEN,Hunter Tyson,Hunter,Tyson,PF,6-8,215,"June 13, 2000",us,R,Clemson,1641816,True,2024
+LAL,Matt Ryan,Matt,Ryan,SF,6-6,215,"April 17, 1997",us,1,"Notre Dame, Vanderbilt, Chattanooga",1630346,True,2023
+MIN,Matt Ryan,Matt,Ryan,SF,6-6,215,"April 17, 1997",us,1,"Notre Dame, Vanderbilt, Chattanooga",1630346,True,2023
+NOP,Matt Ryan,Matt,Ryan,SF,6-6,215,"April 17, 1997",us,2,"Notre Dame, Vanderbilt, Chattanooga",1630346,True,2024
+MEM,Vince Williams Jr.,Vince,Williams Jr.,SG,6-4,205,"August 30, 2000",us,R,VCU,1631246,True,2023
+MEM,Vince Williams Jr.,Vince,Williams Jr.,SG,6-4,205,"August 30, 2000",us,1,VCU,1631246,True,2024
+POR,Nassir Little,Nassir,Little,SF,6-5,220,"February 11, 2000",us,3,UNC,1629642,True,2023
+PHO,Nassir Little,Nassir,Little,SF,6-5,220,"February 11, 2000",us,4,UNC,1629642,True,2024
+MIA,Jaime Jaquez Jr.,Jaime,Jaquez Jr.,SF,6-6,225,"February 18, 2001",us,R,UCLA,1631170,True,2024
+POR,Duop Reath,Duop,Reath,C,6-11,245,"June 26, 1996",ss,R,"Lee College, LSU",1641871,True,2024
+IND,Oscar Tshiebwe,Oscar,Tshiebwe,PF,6-9,260,"November 27, 1999",cd,R,"West Virginia, Kentucky",1631131,True,2024
+NOP,Zion Williamson,Zion,Williamson,PF,6-6,284,"July 6, 2000",us,2,Duke,1629627,True,2023
+NOP,Zion Williamson,Zion,Williamson,PF,6-6,284,"July 6, 2000",us,3,Duke,1629627,True,2024
+CHI,Lonzo Ball,Lonzo,Ball,PG,6-6,190,"October 27, 1997",us,5,UCLA,1628366,True,2024
+OKC,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,PG,6-6,180,"July 12, 1998",ca,4,Kentucky,1628983,True,2023
+OKC,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,PG,6-6,180,"July 12, 1998",ca,5,Kentucky,1628983,True,2024
+ORL,Caleb Houstan,Caleb,Houstan,SF,6-8,205,"January 9, 2003",ca,R,Michigan,1631216,True,2023
+ORL,Caleb Houstan,Caleb,Houstan,SF,6-8,205,"January 9, 2003",ca,1,Michigan,1631216,True,2024
+SAC,Keegan Murray,Keegan,Murray,SF,6-8,215,"August 19, 2000",us,R,Iowa,1631099,True,2023
+SAC,Keegan Murray,Keegan,Murray,SF,6-8,215,"August 19, 2000",us,1,Iowa,1631099,True,2024
+ORL,Jalen Suggs,Jalen,Suggs,SG,6-5,205,"June 3, 2001",us,1,Gonzaga,1630591,True,2023
+ORL,Jalen Suggs,Jalen,Suggs,SG,6-5,205,"June 3, 2001",us,2,Gonzaga,1630591,True,2024
+CHI,Terry Taylor,Terry,Taylor,PF,6-5,230,"September 23, 1999",us,1,Austin Peay State University,1630678,True,2023
+IND,Terry Taylor,Terry,Taylor,PF,6-5,230,"September 23, 1999",us,1,Austin Peay State University,1630678,True,2023
+MIA,Max Strus,Max,Strus,SF,6-5,215,"March 28, 1996",us,3,"Lewis (IL), DePaul",1629622,True,2023
+CLE,Max Strus,Max,Strus,SF,6-5,215,"March 28, 1996",us,4,"Lewis (IL), DePaul",1629622,True,2024
+DAL,Jaden Hardy,Jaden,Hardy,SG,6-4,198,"July 5, 2002",us,R,,1630702,True,2023
+DAL,Jaden Hardy,Jaden,Hardy,SG,6-4,198,"July 5, 2002",us,1,,1630702,True,2024
+DAL,Christian Wood,Christian,Wood,C,6-8,214,"September 27, 1995",us,6,UNLV,1626174,True,2023
+LAL,Christian Wood,Christian,Wood,PF,6-8,214,"September 27, 1995",us,7,UNLV,1626174,True,2024
+LAC,Paul George,Paul,George,SF,6-8,220,"May 2, 1990",us,12,Fresno State,202331,True,2023
+LAC,Paul George,Paul,George,PF,6-8,220,"May 2, 1990",us,13,Fresno State,202331,True,2024
+POR,Jusuf Nurkic,Jusuf,Nurkic,C,7-0,290,"August 23, 1994",ba,8,,203994,True,2023
+PHO,Jusuf Nurkic,Jusuf,Nurkic,C,7-0,290,"August 23, 1994",ba,9,,203994,True,2024
+OKC,Jeremiah Robinson-Earl,Jeremiah,Robinson-Earl,PF,6-9,230,"November 3, 2000",us,1,Villanova,1630526,True,2023
+NOP,Jeremiah Robinson-Earl,Jeremiah,Robinson-Earl,PF,6-9,230,"November 3, 2000",us,2,Villanova,1630526,True,2024
+LAC,Kawhi Leonard,Kawhi,Leonard,SF,6-7,225,"June 29, 1991",us,10,San Diego State,202695,True,2023
+LAC,Kawhi Leonard,Kawhi,Leonard,SF,6-7,225,"June 29, 1991",us,11,San Diego State,202695,True,2024
+POR,Scoot Henderson,Scoot,Henderson,PG,6-3,202,"February 3, 2004",us,R,,1630703,True,2024
+BOS,Jaylen Brown,Jaylen,Brown,SF,6-6,223,"October 24, 1996",us,6,California,1627759,True,2023
+BOS,Jaylen Brown,Jaylen,Brown,SF,6-6,223,"October 24, 1996",us,7,California,1627759,True,2024
+BOS,Jordan Walsh,Jordan,Walsh,SF,6-7,205,"March 3, 2004",us,R,Arkansas,1641775,True,2024
+CHO,Cody Martin,Cody,Martin,SF,6-5,205,"September 28, 1995",us,3,"NC State, Nevada",1628998,True,2023
+CHO,Cody Martin,Cody,Martin,SF,6-5,205,"September 28, 1995",us,4,"NC State, Nevada",1628998,True,2024
+ORL,Franz Wagner,Franz,Wagner,SF,6-10,225,"August 27, 2001",de,1,Michigan,1630532,True,2023
+ORL,Franz Wagner,Franz,Wagner,SF,6-10,225,"August 27, 2001",de,2,Michigan,1630532,True,2024
+MIA,Bam Adebayo,Bam,Adebayo,C,6-9,255,"July 18, 1997",us,5,Kentucky,1628389,True,2023
+MIA,Bam Adebayo,Bam,Adebayo,C,6-9,255,"July 18, 1997",us,6,Kentucky,1628389,True,2024
+DET,Braxton Key,Braxton,Key,SF,6-8,230,"February 14, 1997",us,1,"Alabama, Virginia",1630296,True,2023
+DEN,Braxton Key,Braxton,Key,SF,6-8,230,"February 14, 1997",us,2,"Alabama, Virginia",1630296,True,2024
+ATL,John Collins,John,Collins,PF,6-9,235,"September 23, 1997",us,5,Wake Forest,1628381,True,2023
+UTA,John Collins,John,Collins,PF,6-9,235,"September 23, 1997",us,6,Wake Forest,1628381,True,2024
+MIA,Nikola Jovic,Nikola,Jovic,PF,6-10,209,"June 9, 2003",gb,R,,1631107,True,2023
+MIA,Nikola Jovic,Nikola,Jovic,PF,6-10,209,"June 9, 2003",gb,1,,1631107,True,2024
+PHO,Ish Wainright,Ish,Wainright,SF,6-6,250,"September 12, 1994",us,1,Baylor,1630688,True,2023
+PHO,Ish Wainright,Ish,Wainright,SF,6-6,250,"September 12, 1994",us,2,Baylor,1630688,True,2024
+POR,Drew Eubanks,Drew,Eubanks,C,6-9,245,"February 1, 1997",us,4,Oregon State,1629234,True,2023
+PHO,Drew Eubanks,Drew,Eubanks,C,6-9,245,"February 1, 1997",us,5,Oregon State,1629234,True,2024
+GSW,Jonathan Kuminga,Jonathan,Kuminga,PF,6-8,210,"October 6, 2002",cd,1,,1630228,True,2023
+GSW,Jonathan Kuminga,Jonathan,Kuminga,PF,6-8,210,"October 6, 2002",cd,2,,1630228,True,2024
+CLE,Evan Mobley,Evan,Mobley,PF,6-11,215,"June 18, 2001",us,1,USC,1630596,True,2023
+CLE,Evan Mobley,Evan,Mobley,PF,6-11,215,"June 18, 2001",us,2,USC,1630596,True,2024
+SAC,Alex Len,Alex,Len,C,7-0,250,"June 16, 1993",ua,9,Maryland,203458,True,2023
+SAC,Alex Len,Alex,Len,C,7-0,250,"June 16, 1993",ua,10,Maryland,203458,True,2024
+NYK,Immanuel Quickley,Immanuel,Quickley,SG,6-3,190,"June 17, 1999",us,2,Kentucky,1630193,True,2023
+TOR,Immanuel Quickley,Immanuel,Quickley,PG,6-3,190,"June 17, 1999",us,3,Kentucky,1630193,True,2024
+LAL,Rui Hachimura,Rui,Hachimura,PF,6-8,230,"February 8, 1998",jp,3,Gonzaga,1629060,True,2023
+WAS,Rui Hachimura,Rui,Hachimura,PF,6-8,230,"February 8, 1998",jp,3,Gonzaga,1629060,True,2023
+LAL,Rui Hachimura,Rui,Hachimura,PF,6-8,230,"February 8, 1998",jp,4,Gonzaga,1629060,True,2024
+ATL,Aaron Holiday,Aaron,Holiday,PG,6-0,185,"September 30, 1996",us,4,UCLA,1628988,True,2023
+HOU,Aaron Holiday,Aaron,Holiday,PG,6-0,185,"September 30, 1996",us,5,UCLA,1628988,True,2024
+SAS,Sidy Cissoko,Sidy,Cissoko,SF,6-8,200,"April 2, 2004",fr,R,,1631321,True,2024
+CHO,Leaky Black,Leaky,Black,SF,6-9,205,"June 14, 1999",us,R,UNC,1641778,True,2024
+TOR,Otto Porter Jr.,Otto,Porter Jr.,SF,6-8,198,"June 3, 1993",us,9,Georgetown,203490,True,2023
+BRK,Dariq Whitehead,Dariq,Whitehead,SF,6-7,220,"August 1, 2004",us,R,Duke,1641727,True,2024
+PHI,Danuel House Jr.,Danuel,House Jr.,SF,6-6,220,"June 7, 1993",us,6,Texas A&M,1627863,True,2023
+SAC,Keon Ellis,Keon,Ellis,SG,6-6,175,"January 8, 2000",us,R,"Florida SouthWestern State College, Alabama",1631165,True,2023
+SAC,Keon Ellis,Keon,Ellis,SG,6-6,175,"January 8, 2000",us,1,"Florida SouthWestern State College, Alabama",1631165,True,2024
+LAC,Russell Westbrook,Russell,Westbrook,PG,6-4,200,"November 12, 1988",us,14,UCLA,201566,True,2023
+LAL,Russell Westbrook,Russell,Westbrook,PG,6-4,200,"November 12, 1988",us,14,UCLA,201566,True,2023
+LAC,Russell Westbrook,Russell,Westbrook,PG,6-4,200,"November 12, 1988",us,15,UCLA,201566,True,2024
+GSW,Andrew Wiggins,Andrew,Wiggins,SF,6-7,197,"February 23, 1995",ca,8,Kansas,203952,True,2023
+GSW,Andrew Wiggins,Andrew,Wiggins,SF,6-7,197,"February 23, 1995",ca,9,Kansas,203952,True,2024
+GSW,Ryan Rollins,Ryan,Rollins,PG,6-4,180,"July 3, 2002",us,R,Toledo,1631157,True,2023
+MIL,Ryan Rollins,Ryan,Rollins,PG,6-4,180,"July 3, 2002",us,1,Toledo,1631157,True,2024
+POR,Justin Minaya,Justin,Minaya,SF,6-5,210,"March 26, 1999",us,R,,1631303,True,2023
+POR,Justin Minaya,Justin,Minaya,SF,6-5,210,"March 26, 1999",us,1,,1631303,True,2024
+LAL,Lonnie Walker IV,Lonnie,Walker IV,SG,6-4,204,"December 14, 1998",us,4,Miami (FL),1629022,True,2023
+BRK,Lonnie Walker IV,Lonnie,Walker IV,SG,6-4,204,"December 14, 1998",us,5,Miami (FL),1629022,True,2024
+CHO,Kelly Oubre Jr.,Kelly,Oubre Jr.,SF,6-7,203,"December 9, 1995",us,7,Kansas,1626162,True,2023
+PHI,Kelly Oubre Jr.,Kelly,Oubre Jr.,SF,6-7,203,"December 9, 1995",us,8,Kansas,1626162,True,2024
+NOP,CJ McCollum,CJ,McCollum,PG,6-3,190,"September 19, 1991",us,9,Lehigh,203468,True,2023
+NOP,CJ McCollum,CJ,McCollum,PG,6-3,190,"September 19, 1991",us,10,Lehigh,203468,True,2024
+SAS,Malaki Branham,Malaki,Branham,SG,6-4,180,"May 12, 2003",us,R,Ohio State,1631103,True,2023
+SAS,Malaki Branham,Malaki,Branham,PG,6-4,180,"May 12, 2003",us,1,Ohio State,1631103,True,2024
+GSW,Jordan Poole,Jordan,Poole,PG,6-4,194,"June 19, 1999",us,3,Michigan,1629673,True,2023
+WAS,Jordan Poole,Jordan,Poole,SG,6-4,194,"June 19, 1999",us,4,Michigan,1629673,True,2024
+MIN,Rudy Gobert,Rudy,Gobert,C,7-1,258,"June 26, 1992",fr,9,,203497,True,2023
+MIN,Rudy Gobert,Rudy,Gobert,C,7-1,258,"June 26, 1992",fr,10,,203497,True,2024
+POR,Damian Lillard,Damian,Lillard,PG,6-2,195,"July 15, 1990",us,10,Weber State,203081,True,2023
+MIL,Damian Lillard,Damian,Lillard,PG,6-2,195,"July 15, 1990",us,11,Weber State,203081,True,2024
+GSW,Gui Santos,Gui,Santos,PF,6-8,209,"June 22, 2002",br,R,,1630611,True,2024
+PHI,Julian Champagnie,Julian,Champagnie,SF,6-8,220,"June 29, 2001",us,R,"St. John's",1630577,True,2023
+SAS,Julian Champagnie,Julian,Champagnie,SF,6-8,220,"June 29, 2001",us,R,"St. John's",1630577,True,2023
+SAS,Julian Champagnie,Julian,Champagnie,SF,6-8,220,"June 29, 2001",us,1,"St. John's",1630577,True,2024
+MEM,David Roddy,David,Roddy,PF,6-4,255,"March 27, 2001",us,R,Colorado State,1631223,True,2023
+PHO,David Roddy,David,Roddy,PF,6-4,255,"March 27, 2001",us,1,Colorado State,1631223,True,2024
+MIL,Wesley Matthews,Wesley,Matthews,SF,6-5,220,"October 14, 1986",us,13,Marquette,202083,True,2023
+ATL,Wesley Matthews,Wesley,Matthews,SG,6-5,220,"October 14, 1986",us,14,Marquette,202083,True,2024
+NYK,Cam Reddish,Cam,Reddish,SF,6-8,218,"September 1, 1999",us,3,Duke,1629629,True,2023
+POR,Cam Reddish,Cam,Reddish,SF,6-8,218,"September 1, 1999",us,3,Duke,1629629,True,2023
+LAL,Cam Reddish,Cam,Reddish,SF,6-8,218,"September 1, 1999",us,4,Duke,1629629,True,2024
+SAC,Kevin Huerter,Kevin,Huerter,SG,6-7,190,"August 27, 1998",us,4,Maryland,1628989,True,2023
+SAC,Kevin Huerter,Kevin,Huerter,SG,6-7,190,"August 27, 1998",us,5,Maryland,1628989,True,2024
+PHI,Terquavion Smith,Terquavion,Smith,PG,6-4,165,"December 31, 2002",us,R,NC State,1631173,True,2024
+IND,T.J. McConnell,T.J.,McConnell,PG,6-1,190,"March 25, 1992",us,7,"Duquesne, Arizona",204456,True,2023
+IND,T.J. McConnell,T.J.,McConnell,PG,6-1,190,"March 25, 1992",us,8,"Duquesne, Arizona",204456,True,2024
+CHO,Brandon Miller,Brandon,Miller,SF,6-9,201,"November 22, 2002",us,R,Alabama,1641706,True,2024
+CHI,Onuralp Bitim,Onuralp,Bitim,SG,6-6,215,"March 31, 1999",tr,R,,1641931,True,2024
+DAL,JaVale McGee,JaVale,McGee,C,7-0,270,"January 19, 1988",us,14,Nevada,201580,True,2023
+SAC,JaVale McGee,JaVale,McGee,C,7-0,270,"January 19, 1988",us,15,Nevada,201580,True,2024
+ATL,AJ Griffin,AJ,Griffin,SF,6-6,222,"August 25, 2003",us,R,Duke,1631100,True,2023
+ATL,AJ Griffin,AJ,Griffin,SF,6-6,222,"August 25, 2003",us,1,Duke,1631100,True,2024
+DET,Marvin Bagley III,Marvin,Bagley III,C,6-10,235,"March 14, 1999",us,4,Duke,1628963,True,2023
+WAS,Marvin Bagley III,Marvin,Bagley III,C,6-10,235,"March 14, 1999",us,5,Duke,1628963,True,2024
+POR,Toumani Camara,Toumani,Camara,PF,6-8,220,"May 8, 2000",be,R,Dayton,1641739,True,2024
+MIN,Karl-Anthony Towns,Karl-Anthony,Towns,PF,7-0,248,"November 15, 1995",us,7,Kentucky,1626157,True,2023
+MIN,Karl-Anthony Towns,Karl-Anthony,Towns,PF,7-0,248,"November 15, 1995",us,8,Kentucky,1626157,True,2024
+LAL,"D'Angelo Russell","D'Angelo",Russell,PG,6-3,193,"February 23, 1996",us,7,Ohio State,1626156,True,2023
+MIN,"D'Angelo Russell","D'Angelo",Russell,PG,6-3,193,"February 23, 1996",us,7,Ohio State,1626156,True,2023
+LAL,"D'Angelo Russell","D'Angelo",Russell,PG,6-3,193,"February 23, 1996",us,8,Ohio State,1626156,True,2024
+NYK,Derrick Rose,Derrick,Rose,PG,6-3,200,"October 4, 1988",us,13,Memphis,201565,True,2023
+MEM,Derrick Rose,Derrick,Rose,PG,6-3,200,"October 4, 1988",us,14,Memphis,201565,True,2024
+SAC,Chimezie Metu,Chimezie,Metu,PF,6-9,225,"March 22, 1997",us,4,USC,1629002,True,2023
+DET,Chimezie Metu,Chimezie,Metu,C,6-9,225,"March 22, 1997",us,5,USC,1629002,True,2024
+UTA,Micah Potter,Micah,Potter,PF,6-10,248,"April 6, 1998",us,1,"Ohio State, Wisconsin",1630695,True,2023
+UTA,Micah Potter,Micah,Potter,PF,6-10,248,"April 6, 1998",us,2,"Ohio State, Wisconsin",1630695,True,2024
+GSW,Lester Quinones,Lester,Quinones,SG,6-5,208,"November 16, 2000",us,R,Memphis,1631311,True,2023
+GSW,Lester Quinones,Lester,Quinones,SG,6-5,208,"November 16, 2000",us,1,Memphis,1631311,True,2024
+DEN,Ish Smith,Ish,Smith,PG,6-0,175,"July 5, 1988",us,12,Wake Forest,202397,True,2023
+NYK,Julius Randle,Julius,Randle,PF,6-8,250,"November 29, 1994",us,8,Kentucky,203944,True,2023
+NYK,Julius Randle,Julius,Randle,PF,6-8,250,"November 29, 1994",us,9,Kentucky,203944,True,2024
+MIL,Khris Middleton,Khris,Middleton,SF,6-7,222,"August 12, 1991",us,10,Texas A&M,203114,True,2023
+MIL,Khris Middleton,Khris,Middleton,SF,6-7,222,"August 12, 1991",us,11,Texas A&M,203114,True,2024
+OKC,Jared Butler,Jared,Butler,PG,6-3,195,"August 25, 2000",us,1,Baylor,1630215,True,2023
+WAS,Jared Butler,Jared,Butler,SG,6-3,195,"August 25, 2000",us,2,Baylor,1630215,True,2024
+SAS,Doug McDermott,Doug,McDermott,SF,6-6,225,"January 3, 1992",us,8,Creighton,203926,True,2023
+IND,Doug McDermott,Doug,McDermott,SF,6-6,225,"January 3, 1992",us,9,Creighton,203926,True,2024
+TOR,Ron Harper Jr.,Ron,Harper Jr.,PF,6-6,245,"April 12, 2000",us,R,Rutgers University,1631199,True,2023
+PHI,Tobias Harris,Tobias,Harris,SF,6-8,226,"July 15, 1992",us,11,Tennessee,202699,True,2023
+PHI,Tobias Harris,Tobias,Harris,PF,6-8,226,"July 15, 1992",us,12,Tennessee,202699,True,2024
+DET,Jalen Duren,Jalen,Duren,C,6-10,250,"November 18, 2003",us,R,Memphis,1631105,True,2023
+DET,Jalen Duren,Jalen,Duren,C,6-10,250,"November 18, 2003",us,1,Memphis,1631105,True,2024
+NOP,Jose Alvarado,Jose,Alvarado,PG,6-0,179,"April 12, 1998",us,1,Georgia Tech,1630631,True,2023
+NOP,Jose Alvarado,Jose,Alvarado,PG,6-0,179,"April 12, 1998",us,2,Georgia Tech,1630631,True,2024
+GSW,Trayce Jackson-Davis,Trayce,Jackson-Davis,PF,6-9,245,"February 22, 2000",us,R,Indiana,1631218,True,2024
+PHI,Ricky Council IV,Ricky,Council IV,SG,6-6,205,"August 3, 2001",us,R,"Wichita State, Arkansas",1641741,True,2024
+LAL,Malik Beasley,Malik,Beasley,SG,6-4,187,"November 26, 1996",us,6,Florida State,1627736,True,2023
+UTA,Malik Beasley,Malik,Beasley,SG,6-4,187,"November 26, 1996",us,6,Florida State,1627736,True,2023
+MIL,Malik Beasley,Malik,Beasley,SG,6-4,187,"November 26, 1996",us,7,Florida State,1627736,True,2024
+MIL,Andre Jackson Jr.,Andre,Jackson Jr.,SG,6-6,210,"November 13, 2001",us,R,UConn,1641748,True,2024
+IND,Goga Bitadze,Goga,Bitadze,C,6-11,250,"July 20, 1999",ge,3,,1629048,True,2023
+ORL,Goga Bitadze,Goga,Bitadze,C,6-11,250,"July 20, 1999",ge,3,,1629048,True,2023
+ORL,Goga Bitadze,Goga,Bitadze,C,6-11,250,"July 20, 1999",ge,4,,1629048,True,2024
+NYK,Miles McBride,Miles,McBride,PG,6-2,200,"September 8, 2000",us,1,West Virginia,1630540,True,2023
+NYK,Miles McBride,Miles,McBride,PG,6-2,200,"September 8, 2000",us,2,West Virginia,1630540,True,2024
+OKC,Isaiah Joe,Isaiah,Joe,SG,6-4,165,"July 2, 1999",us,2,Arkansas,1630198,True,2023
+OKC,Isaiah Joe,Isaiah,Joe,SG,6-4,165,"July 2, 1999",us,3,Arkansas,1630198,True,2024
+IND,Jordan Nwora,Jordan,Nwora,SF,6-8,225,"September 9, 1998",us,2,Louisville,1629670,True,2023
+MIL,Jordan Nwora,Jordan,Nwora,SF,6-8,225,"September 9, 1998",us,2,Louisville,1629670,True,2023
+TOR,Jordan Nwora,Jordan,Nwora,SF,6-8,225,"September 9, 1998",us,3,Louisville,1629670,True,2024
+CHI,Dalen Terry,Dalen,Terry,SG,6-7,195,"July 12, 2002",us,R,Arizona,1631207,True,2023
+CHI,Dalen Terry,Dalen,Terry,SG,6-7,195,"July 12, 2002",us,1,Arizona,1631207,True,2024
+MIN,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,SG,6-5,205,"September 2, 1998",ca,3,Virginia Tech,1629638,True,2023
+UTA,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,SG,6-5,205,"September 2, 1998",ca,3,Virginia Tech,1629638,True,2023
+MIN,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,SG,6-5,205,"September 2, 1998",ca,4,Virginia Tech,1629638,True,2024
+MEM,Jaren Jackson Jr.,Jaren,Jackson Jr.,C,6-10,242,"September 15, 1999",us,4,Michigan State,1628991,True,2023
+MEM,Jaren Jackson Jr.,Jaren,Jackson Jr.,C,6-10,242,"September 15, 1999",us,5,Michigan State,1628991,True,2024
+ORL,Bol Bol,Bol,Bol,PF,7-3,220,"November 16, 1999",sd,3,Oregon,1629626,True,2023
+PHO,Bol Bol,Bol,Bol,PF,7-3,220,"November 16, 1999",sd,4,Oregon,1629626,True,2024
+DAL,A.J. Lawson,A.J.,Lawson,SG,6-6,179,"July 15, 2000",ca,R,South Carolina,1630639,True,2023
+MIN,A.J. Lawson,A.J.,Lawson,SG,6-6,179,"July 15, 2000",ca,R,South Carolina,1630639,True,2023
+DAL,A.J. Lawson,A.J.,Lawson,SG,6-6,179,"July 15, 2000",ca,1,South Carolina,1630639,True,2024
+PHI,P.J. Tucker,P.J.,Tucker,PF,6-5,245,"May 5, 1985",us,11,Texas,200782,True,2023
+LAC,P.J. Tucker,P.J.,Tucker,PF,6-5,245,"May 5, 1985",us,12,Texas,200782,True,2024
+MEM,John Konchar,John,Konchar,SF,6-5,210,"March 22, 1996",us,3,Purdue-Fort Wayne,1629723,True,2023
+MEM,John Konchar,John,Konchar,SF,6-5,210,"March 22, 1996",us,4,Purdue-Fort Wayne,1629723,True,2024
+BRK,Kyrie Irving,Kyrie,Irving,PG,6-2,195,"March 23, 1992",au,11,Duke,202681,True,2023
+DAL,Kyrie Irving,Kyrie,Irving,SG,6-2,195,"March 23, 1992",au,11,Duke,202681,True,2023
+DAL,Kyrie Irving,Kyrie,Irving,SG,6-2,195,"March 23, 1992",au,12,Duke,202681,True,2024
+ATL,Bogdan Bogdanovic,Bogdan,Bogdanovic,SG,6-5,220,"August 18, 1992",rs,5,,203992,True,2023
+ATL,Bogdan Bogdanovic,Bogdan,Bogdanovic,SG,6-5,220,"August 18, 1992",rs,6,,203992,True,2024
+LAL,Austin Reaves,Austin,Reaves,SG,6-5,206,"May 29, 1998",us,1,"Wichita State, Oklahoma",1630559,True,2023
+LAL,Austin Reaves,Austin,Reaves,SG,6-5,206,"May 29, 1998",us,2,"Wichita State, Oklahoma",1630559,True,2024
+DET,Eugene Omoruyi,Eugene,Omoruyi,SF,6-7,244,"February 14, 1997",ng,1,"Rutgers University, Oregon",1630647,True,2023
+OKC,Eugene Omoruyi,Eugene,Omoruyi,SF,6-7,244,"February 14, 1997",ng,1,"Rutgers University, Oregon",1630647,True,2023
+WAS,Eugene Omoruyi,Eugene,Omoruyi,SF,6-7,244,"February 14, 1997",ng,2,"Rutgers University, Oregon",1630647,True,2024
+SAS,Victor Wembanyama,Victor,Wembanyama,C,7-4,209,"January 4, 2004",fr,R,,1641705,True,2024
+SAS,Charles Bassey,Charles,Bassey,C,6-10,235,"October 28, 2000",ng,1,Western Kentucky,1629646,True,2023
+SAS,Charles Bassey,Charles,Bassey,C,6-10,235,"October 28, 2000",ng,2,Western Kentucky,1629646,True,2024
+MIN,Wendell Moore Jr.,Wendell,Moore Jr.,SG,6-5,213,"September 18, 2001",us,R,Duke,1631111,True,2023
+MIN,Wendell Moore Jr.,Wendell,Moore Jr.,SG,6-5,213,"September 18, 2001",us,1,Duke,1631111,True,2024
+IND,Tyrese Haliburton,Tyrese,Haliburton,PG,6-5,185,"February 29, 2000",us,2,Iowa State,1630169,True,2023
+IND,Tyrese Haliburton,Tyrese,Haliburton,PG,6-5,185,"February 29, 2000",us,3,Iowa State,1630169,True,2024
+LAL,LeBron James,LeBron,James,PF,6-9,250,"December 30, 1984",us,19,,2544,True,2023
+LAL,LeBron James,LeBron,James,PF,6-9,250,"December 30, 1984",us,20,,2544,True,2024
+CHO,Jalen McDaniels,Jalen,McDaniels,SF,6-9,205,"January 31, 1998",us,3,San Diego State,1629667,True,2023
+PHI,Jalen McDaniels,Jalen,McDaniels,SF,6-9,205,"January 31, 1998",us,3,San Diego State,1629667,True,2023
+TOR,Jalen McDaniels,Jalen,McDaniels,SF,6-9,205,"January 31, 1998",us,4,San Diego State,1629667,True,2024
+SAC,Davion Mitchell,Davion,Mitchell,PG,6-2,205,"September 5, 1998",us,1,"Auburn, Baylor",1630558,True,2023
+SAC,Davion Mitchell,Davion,Mitchell,PG,6-2,205,"September 5, 1998",us,2,"Auburn, Baylor",1630558,True,2024
+LAL,Jalen Hood-Schifino,Jalen,Hood-Schifino,SG,6-6,215,"June 19, 2003",us,R,Indiana,1641720,True,2024
+TOR,Javon Freeman-Liberty,Javon,Freeman-Liberty,PG,6-4,180,"October 20, 1999",us,R,"Valparaiso, DePaul",1631241,True,2024
+WAS,Deni Avdija,Deni,Avdija,SF,6-9,210,"January 3, 2001",il,2,,1630166,True,2023
+WAS,Deni Avdija,Deni,Avdija,SF,6-9,210,"January 3, 2001",il,3,,1630166,True,2024
+DEN,Michael Porter Jr.,Michael,Porter Jr.,SF,6-10,218,"June 29, 1998",us,3,Missouri,1629008,True,2023
+DEN,Michael Porter Jr.,Michael,Porter Jr.,SF,6-10,218,"June 29, 1998",us,4,Missouri,1629008,True,2024
+OKC,Ousmane Dieng,Ousmane,Dieng,PF,6-10,216,"May 21, 2003",fr,R,,1631172,True,2023
+OKC,Ousmane Dieng,Ousmane,Dieng,PF,6-10,216,"May 21, 2003",fr,1,,1631172,True,2024
+NOP,Jonas Valanciunas,Jonas,Valanciunas,C,6-11,265,"May 6, 1992",lt,10,,202685,True,2023
+NOP,Jonas Valanciunas,Jonas,Valanciunas,C,6-11,265,"May 6, 1992",lt,11,,202685,True,2024
+MIN,Josh Minott,Josh,Minott,SF,6-8,205,"November 25, 2002",us,R,Memphis,1631169,True,2023
+MIN,Josh Minott,Josh,Minott,SF,6-8,205,"November 25, 2002",us,1,Memphis,1631169,True,2024
+HOU,Amen Thompson,Amen,Thompson,SF,6-7,209,"January 30, 2003",us,R,,1641708,True,2024
+DAL,Tim Hardaway Jr.,Tim,Hardaway Jr.,SF,6-5,205,"March 16, 1992",us,9,Michigan,203501,True,2023
+DAL,Tim Hardaway Jr.,Tim,Hardaway Jr.,SF,6-5,205,"March 16, 1992",us,10,Michigan,203501,True,2024
+CHO,Bryce McGowens,Bryce,McGowens,SG,6-7,179,"November 8, 2002",us,R,Nebraska,1631121,True,2023
+CHO,Bryce McGowens,Bryce,McGowens,SG,6-7,179,"November 8, 2002",us,1,Nebraska,1631121,True,2024
+NYK,Evan Fournier,Evan,Fournier,SG,6-6,205,"October 29, 1992",fr,10,,203095,True,2023
+DET,Evan Fournier,Evan,Fournier,SG,6-6,205,"October 29, 1992",fr,11,,203095,True,2024
+BRK,Jalen Wilson,Jalen,Wilson,PF,6-8,225,"November 4, 2000",us,R,Kansas,1630592,True,2024
+OKC,Chet Holmgren,Chet,Holmgren,C,7-1,195,"May 1, 2002",us,R,Gonzaga,1631096,True,2024
+CHI,Zach LaVine,Zach,LaVine,SG,6-5,200,"March 10, 1995",us,8,UCLA,203897,True,2023
+CHI,Zach LaVine,Zach,LaVine,SG,6-5,200,"March 10, 1995",us,9,UCLA,203897,True,2024
+BRK,"Royce O'Neale",Royce,"O'Neale",SF,6-4,226,"June 5, 1993",us,5,"Denver, Baylor",1626220,True,2023
+PHO,"Royce O'Neale",Royce,"O'Neale",SF,6-4,226,"June 5, 1993",us,6,"Denver, Baylor",1626220,True,2024
+LAC,Nicolas Batum,Nicolas,Batum,PF,6-8,230,"December 14, 1988",fr,14,,201587,True,2023
+PHI,Nicolas Batum,Nicolas,Batum,PF,6-8,230,"December 14, 1988",fr,15,,201587,True,2024
+PHI,"De'Anthony Melton","De'Anthony",Melton,SG,6-2,200,"May 28, 1998",us,4,USC,1629001,True,2023
+PHI,"De'Anthony Melton","De'Anthony",Melton,SG,6-2,200,"May 28, 1998",us,5,USC,1629001,True,2024
+LAL,Cole Swider,Cole,Swider,SF,6-9,220,"May 8, 1999",us,R,"Villanova, Syracuse",1631306,True,2023
+MIA,Cole Swider,Cole,Swider,SF,6-9,220,"May 8, 1999",us,1,"Villanova, Syracuse",1631306,True,2024
+BOS,Grant Williams,Grant,Williams,PF,6-6,236,"November 30, 1998",us,3,Tennessee,1629684,True,2023
+CHO,Grant Williams,Grant,Williams,PF,6-6,236,"November 30, 1998",us,4,Tennessee,1629684,True,2024
+CHO,Vasilije Micic,Vasilije,Micic,PG,6-5,200,"January 13, 1994",rs,R,,203995,True,2024
+POR,Skylar Mays,Skylar,Mays,PG,6-4,205,"September 5, 1997",us,2,LSU,1630219,True,2023
+LAL,Skylar Mays,Skylar,Mays,SG,6-4,205,"September 5, 1997",us,3,LSU,1630219,True,2024
+NOP,Naji Marshall,Naji,Marshall,SF,6-7,220,"January 24, 1998",us,2,Xavier,1630230,True,2023
+NOP,Naji Marshall,Naji,Marshall,SF,6-7,220,"January 24, 1998",us,3,Xavier,1630230,True,2024
+IND,Kendall Brown,Kendall,Brown,SG,6-8,205,"May 11, 2003",us,R,Baylor,1631112,True,2023
+IND,Kendall Brown,Kendall,Brown,SG,6-8,205,"May 11, 2003",us,1,Baylor,1631112,True,2024
+MIL,Jae Crowder,Jae,Crowder,PF,6-6,235,"July 6, 1990",us,10,Marquette,203109,True,2023
+MIL,Jae Crowder,Jae,Crowder,PF,6-6,235,"July 6, 1990",us,11,Marquette,203109,True,2024
+PHI,James Harden,James,Harden,PG,6-5,220,"August 26, 1989",us,13,Arizona State,201935,True,2023
+LAC,James Harden,James,Harden,PG,6-5,220,"August 26, 1989",us,14,Arizona State,201935,True,2024
+BRK,Markieff Morris,Markieff,Morris,PF,6-9,245,"September 2, 1989",us,11,Kansas,202693,True,2023
+DAL,Markieff Morris,Markieff,Morris,PF,6-9,245,"September 2, 1989",us,11,Kansas,202693,True,2023
+DAL,Markieff Morris,Markieff,Morris,PF,6-9,245,"September 2, 1989",us,12,Kansas,202693,True,2024
+WAS,Anthony Gill,Anthony,Gill,PF,6-7,230,"October 17, 1992",us,2,"South Carolina, Virginia",1630264,True,2023
+WAS,Anthony Gill,Anthony,Gill,PF,6-7,230,"October 17, 1992",us,3,"South Carolina, Virginia",1630264,True,2024
+IND,Daniel Theis,Daniel,Theis,C,6-8,245,"April 4, 1992",de,5,,1628464,True,2023
+LAC,Daniel Theis,Daniel,Theis,C,6-8,245,"April 4, 1992",de,6,,1628464,True,2024
+NYK,Isaiah Hartenstein,Isaiah,Hartenstein,C,7-0,250,"May 5, 1998",us,4,,1628392,True,2023
+NYK,Isaiah Hartenstein,Isaiah,Hartenstein,C,7-0,250,"May 5, 1998",us,5,,1628392,True,2024
+IND,Trevelin Queen,Trevelin,Queen,SG,6-6,190,"February 25, 1997",us,1,"College of Marin, New Mexico Military Institute, New Mexico State",1630243,True,2023
+ORL,Trevelin Queen,Trevelin,Queen,SG,6-6,190,"February 25, 1997",us,2,"College of Marin, New Mexico Military Institute, New Mexico State",1630243,True,2024
+ORL,Anthony Black,Anthony,Black,PG,6-7,198,"January 20, 2004",us,R,Arkansas,1641710,True,2024
+MEM,Tyus Jones,Tyus,Jones,PG,6-1,196,"May 10, 1996",us,7,Duke,1626145,True,2023
+WAS,Tyus Jones,Tyus,Jones,PG,6-1,196,"May 10, 1996",us,8,Duke,1626145,True,2024
+OKC,Lindy Waters III,Lindy,Waters III,SG,6-6,215,"July 28, 1997",us,1,Oklahoma State,1630322,True,2023
+OKC,Lindy Waters III,Lindy,Waters III,SG,6-6,215,"July 28, 1997",us,2,Oklahoma State,1630322,True,2024
+CHI,Adama Sanogo,Adama,Sanogo,PF,6-9,245,"February 12, 2002",ml,R,UConn,1641766,True,2024
+ORL,Markelle Fultz,Markelle,Fultz,PG,6-4,209,"May 29, 1998",us,5,Washington,1628365,True,2023
+ORL,Markelle Fultz,Markelle,Fultz,PG,6-4,209,"May 29, 1998",us,6,Washington,1628365,True,2024
+ATL,Seth Lundy,Seth,Lundy,SF,6-6,220,"April 2, 2000",us,R,Penn State,1641754,True,2024
+DEN,Jeff Green,Jeff,Green,PF,6-8,235,"August 28, 1986",us,14,Georgetown,201145,True,2023
+HOU,Jeff Green,Jeff,Green,PF,6-8,235,"August 28, 1986",us,15,Georgetown,201145,True,2024
+MEM,Steven Adams,Steven,Adams,C,6-11,265,"July 20, 1993",nz,9,Pitt,203500,True,2023
+HOU,Steven Adams,Steven,Adams,C,6-11,265,"July 20, 1993",nz,10,Pitt,203500,True,2024
+GSW,Stephen Curry,Stephen,Curry,PG,6-2,185,"March 14, 1988",us,13,Davidson,201939,True,2023
+GSW,Stephen Curry,Stephen,Curry,PG,6-2,185,"March 14, 1988",us,14,Davidson,201939,True,2024
+CLE,Darius Garland,Darius,Garland,PG,6-1,192,"January 26, 2000",us,3,Vanderbilt,1629636,True,2023
+CLE,Darius Garland,Darius,Garland,PG,6-1,192,"January 26, 2000",us,4,Vanderbilt,1629636,True,2024
+LAL,Damian Jones,Damian,Jones,C,6-11,245,"June 30, 1995",us,6,Vanderbilt,1627745,True,2023
+UTA,Damian Jones,Damian,Jones,C,6-11,245,"June 30, 1995",us,6,Vanderbilt,1627745,True,2023
+CLE,Damian Jones,Damian,Jones,C,6-11,245,"June 30, 1995",us,7,Vanderbilt,1627745,True,2024
+PHO,Josh Okogie,Josh,Okogie,SG,6-4,213,"September 1, 1998",ng,4,Georgia Tech,1629006,True,2023
+PHO,Josh Okogie,Josh,Okogie,SG,6-4,213,"September 1, 1998",ng,5,Georgia Tech,1629006,True,2024
+NOP,Trey Murphy III,Trey,Murphy III,SF,6-8,206,"June 18, 2000",us,1,"Rice University, Virginia",1630530,True,2023
+NOP,Trey Murphy III,Trey,Murphy III,SF,6-8,206,"June 18, 2000",us,2,"Rice University, Virginia",1630530,True,2024
+BOS,Malcolm Brogdon,Malcolm,Brogdon,PG,6-4,229,"December 11, 1992",us,6,Virginia,1627763,True,2023
+POR,Malcolm Brogdon,Malcolm,Brogdon,PG,6-4,229,"December 11, 1992",us,7,Virginia,1627763,True,2024
+ATL,Kobe Bufkin,Kobe,Bufkin,SG,6-4,195,"September 21, 2003",us,R,Michigan,1641723,True,2024
+NOP,Larry Nance Jr.,Larry,Nance Jr.,C,6-8,245,"January 1, 1993",us,7,Wyoming,1626204,True,2023
+NOP,Larry Nance Jr.,Larry,Nance Jr.,C,6-8,245,"January 1, 1993",us,8,Wyoming,1626204,True,2024
+PHI,Matisse Thybulle,Matisse,Thybulle,SF,6-5,201,"March 4, 1997",us,3,Washington,1629680,True,2023
+POR,Matisse Thybulle,Matisse,Thybulle,SG,6-5,201,"March 4, 1997",us,3,Washington,1629680,True,2023
+POR,Matisse Thybulle,Matisse,Thybulle,SF,6-5,201,"March 4, 1997",us,4,Washington,1629680,True,2024
+OKC,Kenrich Williams,Kenrich,Williams,PF,6-6,210,"December 2, 1994",us,4,TCU,1629026,True,2023
+OKC,Kenrich Williams,Kenrich,Williams,PF,6-6,210,"December 2, 1994",us,5,TCU,1629026,True,2024
+SAS,Tre Jones,Tre,Jones,PG,6-1,185,"January 8, 2000",us,2,Duke,1630200,True,2023
+SAS,Tre Jones,Tre,Jones,PG,6-1,185,"January 8, 2000",us,3,Duke,1630200,True,2024
+MIN,Leonard Miller,Leonard,Miller,SF,6-10,210,"November 26, 2003",ca,R,,1631159,True,2024
+NOP,Josh Richardson,Josh,Richardson,SG,6-5,200,"September 15, 1993",us,7,Tennessee,1626196,True,2023
+SAS,Josh Richardson,Josh,Richardson,SG,6-5,200,"September 15, 1993",us,7,Tennessee,1626196,True,2023
+MIA,Josh Richardson,Josh,Richardson,SG,6-5,200,"September 15, 1993",us,8,Tennessee,1626196,True,2024
+MEM,Jake LaRavia,Jake,LaRavia,PF,6-8,235,"November 3, 2001",us,R,"Indiana State University, Wake Forest",1631222,True,2023
+MEM,Jake LaRavia,Jake,LaRavia,PF,6-8,235,"November 3, 2001",us,1,"Indiana State University, Wake Forest",1631222,True,2024
+POR,Rayan Rupert,Rayan,Rupert,SG,6-6,205,"May 31, 2004",fr,R,,1641712,True,2024
+GSW,Klay Thompson,Klay,Thompson,SF,6-6,215,"February 8, 1990",us,9,Washington State,202691,True,2023
+GSW,Klay Thompson,Klay,Thompson,SF,6-6,215,"February 8, 1990",us,10,Washington State,202691,True,2024
+MIA,Jimmy Butler,Jimmy,Butler,PF,6-7,230,"September 14, 1989",us,11,Marquette,202710,True,2023
+MIA,Jimmy Butler,Jimmy,Butler,PF,6-7,230,"September 14, 1989",us,12,Marquette,202710,True,2024
+SAS,Jakob Poeltl,Jakob,Poeltl,C,7-0,245,"October 15, 1995",at,6,Utah,1627751,True,2023
+TOR,Jakob Poeltl,Jakob,Poeltl,C,7-0,245,"October 15, 1995",at,6,Utah,1627751,True,2023
+TOR,Jakob Poeltl,Jakob,Poeltl,C,7-0,245,"October 15, 1995",at,7,Utah,1627751,True,2024
+SAC,Harrison Barnes,Harrison,Barnes,PF,6-8,225,"May 30, 1992",us,10,UNC,203084,True,2023
+SAC,Harrison Barnes,Harrison,Barnes,PF,6-8,225,"May 30, 1992",us,11,UNC,203084,True,2024
+CLE,Robin Lopez,Robin,Lopez,C,7-1,281,"April 1, 1988",us,14,Stanford,201577,True,2023
+WAS,Kristaps Porzingis,Kristaps,Porzingis,C,7-2,240,"August 2, 1995",lv,6,,204001,True,2023
+BOS,Kristaps Porzingis,Kristaps,Porzingis,C,7-2,240,"August 2, 1995",lv,7,,204001,True,2024
+MIA,Tyler Herro,Tyler,Herro,SG,6-5,195,"January 20, 2000",us,3,Kentucky,1629639,True,2023
+MIA,Tyler Herro,Tyler,Herro,SG,6-5,195,"January 20, 2000",us,4,Kentucky,1629639,True,2024
+LAL,Jarred Vanderbilt,Jarred,Vanderbilt,PF,6-8,214,"April 3, 1999",us,4,Kentucky,1629020,True,2023
+UTA,Jarred Vanderbilt,Jarred,Vanderbilt,PF,6-8,214,"April 3, 1999",us,4,Kentucky,1629020,True,2023
+LAL,Jarred Vanderbilt,Jarred,Vanderbilt,PF,6-8,214,"April 3, 1999",us,5,Kentucky,1629020,True,2024
+MIL,Jevon Carter,Jevon,Carter,PG,6-1,200,"September 14, 1995",us,4,West Virginia,1628975,True,2023
+CHI,Jevon Carter,Jevon,Carter,PG,6-1,200,"September 14, 1995",us,5,West Virginia,1628975,True,2024
+PHI,Furkan Korkmaz,Furkan,Korkmaz,SG,6-7,202,"July 24, 1997",tr,5,,1627788,True,2023
+NYK,Mitchell Robinson,Mitchell,Robinson,C,7-0,240,"April 1, 1998",us,4,Western Kentucky,1629011,True,2023
+NYK,Mitchell Robinson,Mitchell,Robinson,C,7-0,240,"April 1, 1998",us,5,Western Kentucky,1629011,True,2024
+GSW,Draymond Green,Draymond,Green,PF,6-6,230,"March 4, 1990",us,10,Michigan State,203110,True,2023
+GSW,Draymond Green,Draymond,Green,PF,6-6,230,"March 4, 1990",us,11,Michigan State,203110,True,2024
+MEM,Jacob Gilyard,Jacob,Gilyard,PG,5-9,160,"July 14, 1998",us,R,Richmond,1631367,True,2023
+BRK,Jacob Gilyard,Jacob,Gilyard,PG,5-9,160,"July 14, 1998",us,1,Richmond,1631367,True,2024
+HOU,Cam Whitmore,Cam,Whitmore,SF,6-7,232,"July 8, 2004",us,R,Villanova,1641715,True,2024
+DEN,Aaron Gordon,Aaron,Gordon,PF,6-8,235,"September 16, 1995",us,8,Arizona,203932,True,2023
+DEN,Aaron Gordon,Aaron,Gordon,PF,6-8,235,"September 16, 1995",us,9,Arizona,203932,True,2024
+PHO,Landry Shamet,Landry,Shamet,SG,6-4,190,"March 13, 1997",us,4,Wichita State,1629013,True,2023
+WAS,Landry Shamet,Landry,Shamet,SG,6-4,190,"March 13, 1997",us,5,Wichita State,1629013,True,2024
+BOS,JD Davison,JD,Davison,SG,6-1,195,"October 3, 2002",us,R,Alabama,1631120,True,2023
+BOS,JD Davison,JD,Davison,SG,6-1,195,"October 3, 2002",us,1,Alabama,1631120,True,2024
+HOU,Nate Hinton,Nate,Hinton,SG,6-5,210,"June 8, 1999",us,2,Houston,1630207,True,2024
+MIL,Jrue Holiday,Jrue,Holiday,PG,6-4,205,"June 12, 1990",us,13,UCLA,201950,True,2023
+BOS,Jrue Holiday,Jrue,Holiday,PG,6-4,205,"June 12, 1990",us,14,UCLA,201950,True,2024
+PHI,Tyrese Maxey,Tyrese,Maxey,SG,6-2,200,"November 4, 2000",us,2,Kentucky,1630178,True,2023
+PHI,Tyrese Maxey,Tyrese,Maxey,PG,6-2,200,"November 4, 2000",us,3,Kentucky,1630178,True,2024
+ORL,Gary Harris,Gary,Harris,SG,6-4,210,"September 14, 1994",us,8,Michigan State,203914,True,2023
+ORL,Gary Harris,Gary,Harris,SG,6-4,210,"September 14, 1994",us,9,Michigan State,203914,True,2024
+LAL,Maxwell Lewis,Maxwell,Lewis,SF,6-7,195,"July 27, 2002",us,R,Pepperdine,1641721,True,2024
+PHO,Chris Paul,Chris,Paul,PG,6-0,175,"May 6, 1985",us,17,Wake Forest,101108,True,2023
+GSW,Chris Paul,Chris,Paul,PG,6-0,175,"May 6, 1985",us,18,Wake Forest,101108,True,2024
+CHI,Patrick Williams,Patrick,Williams,PF,6-7,215,"August 26, 2001",us,2,Florida State,1630172,True,2023
+CHI,Patrick Williams,Patrick,Williams,PF,6-7,215,"August 26, 2001",us,3,Florida State,1630172,True,2024
+OKC,Tre Mann,Tre,Mann,PG,6-3,178,"February 3, 2001",us,1,Florida,1630544,True,2023
+CHO,Tre Mann,Tre,Mann,PG,6-3,178,"February 3, 2001",us,2,Florida,1630544,True,2024
+MIL,Chris Livingston,Chris,Livingston,SF,6-6,220,"October 15, 2003",us,R,Kentucky,1641753,True,2024
+MEM,Desmond Bane,Desmond,Bane,SG,6-5,215,"June 25, 1998",us,2,TCU,1630217,True,2023
+MEM,Desmond Bane,Desmond,Bane,SG,6-5,215,"June 25, 1998",us,3,TCU,1630217,True,2024
+MIL,Pat Connaughton,Pat,Connaughton,SF,6-5,209,"January 6, 1993",us,7,Notre Dame,1626192,True,2023
+MIL,Pat Connaughton,Pat,Connaughton,SF,6-5,209,"January 6, 1993",us,8,Notre Dame,1626192,True,2024
+NOP,Kira Lewis Jr.,Kira,Lewis Jr.,PG,6-1,170,"April 6, 2001",us,2,Alabama,1630184,True,2023
+UTA,Kira Lewis Jr.,Kira,Lewis Jr.,PG,6-1,170,"April 6, 2001",us,3,Alabama,1630184,True,2024
+TOR,Malachi Flynn,Malachi,Flynn,PG,6-1,175,"May 10, 1998",us,2,"Washington State, San Diego State",1630201,True,2023
+DET,Malachi Flynn,Malachi,Flynn,PG,6-1,175,"May 10, 1998",us,3,"Washington State, San Diego State",1630201,True,2024
+ORL,Paolo Banchero,Paolo,Banchero,PF,6-10,250,"November 12, 2002",us,R,Duke,1631094,True,2023
+ORL,Paolo Banchero,Paolo,Banchero,PF,6-10,250,"November 12, 2002",us,1,Duke,1631094,True,2024
+CHI,Ayo Dosunmu,Ayo,Dosunmu,SG,6-5,200,"January 17, 2000",us,1,Illinois,1630245,True,2023
+CHI,Ayo Dosunmu,Ayo,Dosunmu,SG,6-5,200,"January 17, 2000",us,2,Illinois,1630245,True,2024
+LAL,Tristan Thompson,Tristan,Thompson,C,6-9,254,"March 13, 1991",ca,11,Texas,202684,True,2023
+CLE,Tristan Thompson,Tristan,Thompson,C,6-9,254,"March 13, 1991",ca,12,Texas,202684,True,2024
+PHO,Damion Lee,Damion,Lee,SG,6-5,210,"October 21, 1992",us,5,"Drexel, Louisville",1627814,True,2023
+PHO,Damion Lee,Damion,Lee,SG,6-5,210,"October 21, 1992",us,6,"Drexel, Louisville",1627814,True,2024
+IND,Isaiah Jackson,Isaiah,Jackson,C,6-10,206,"January 10, 2002",us,1,Kentucky,1630543,True,2023
+IND,Isaiah Jackson,Isaiah,Jackson,C,6-10,206,"January 10, 2002",us,2,Kentucky,1630543,True,2024
+CHI,DeMar DeRozan,DeMar,DeRozan,SF,6-6,220,"August 7, 1989",us,13,USC,201942,True,2023
+CHI,DeMar DeRozan,DeMar,DeRozan,SF,6-6,220,"August 7, 1989",us,14,USC,201942,True,2024
+BOS,Payton Pritchard,Payton,Pritchard,PG,6-1,195,"January 28, 1998",us,2,Oregon,1630202,True,2023
+BOS,Payton Pritchard,Payton,Pritchard,PG,6-1,195,"January 28, 1998",us,3,Oregon,1630202,True,2024
+GSW,Moses Moody,Moses,Moody,SG,6-6,205,"May 31, 2002",us,1,Arkansas,1630541,True,2023
+GSW,Moses Moody,Moses,Moody,SG,6-6,205,"May 31, 2002",us,2,Arkansas,1630541,True,2024
+OKC,Keyontae Johnson,Keyontae,Johnson,SF,6-5,230,"May 24, 2000",us,R,"Florida, Kansas State",1641749,True,2024
+DEN,Peyton Watson,Peyton,Watson,SG,6-8,200,"September 11, 2002",us,R,UCLA,1631212,True,2023
+DEN,Peyton Watson,Peyton,Watson,SF,6-8,200,"September 11, 2002",us,1,UCLA,1631212,True,2024
+GSW,Brandin Podziemski,Brandin,Podziemski,SG,6-5,205,"February 25, 2003",us,R,"Illinois, Santa Clara",1641764,True,2024
+CLE,Danny Green,Danny,Green,SG,6-6,215,"June 22, 1987",us,13,UNC,201980,True,2023
+MEM,Danny Green,Danny,Green,SG,6-6,215,"June 22, 1987",us,13,UNC,201980,True,2023
+DET,Jared Rhoden,Jared,Rhoden,SG,6-6,210,"August 27, 1999",us,R,Seton Hall,1631197,True,2023
+DET,Jared Rhoden,Jared,Rhoden,SG,6-6,210,"August 27, 1999",us,1,Seton Hall,1631197,True,2024
+CHO,JT Thor,JT,Thor,PF,6-10,205,"August 26, 2002",us,1,Auburn,1630550,True,2023
+CHO,JT Thor,JT,Thor,PF,6-10,205,"August 26, 2002",us,2,Auburn,1630550,True,2024
+LAC,Robert Covington,Robert,Covington,PF,6-7,209,"December 14, 1990",us,9,Tennessee State,203496,True,2023
+PHI,Robert Covington,Robert,Covington,SF,6-7,209,"December 14, 1990",us,10,Tennessee State,203496,True,2024
+LAC,Norman Powell,Norman,Powell,SG,6-3,215,"May 25, 1993",us,7,UCLA,1626181,True,2023
+LAC,Norman Powell,Norman,Powell,SG,6-3,215,"May 25, 1993",us,8,UCLA,1626181,True,2024
+SAS,Devin Vassell,Devin,Vassell,SG,6-5,200,"August 23, 2000",us,2,Florida State,1630170,True,2023
+SAS,Devin Vassell,Devin,Vassell,SG,6-5,200,"August 23, 2000",us,3,Florida State,1630170,True,2024
+MIL,Thanasis Antetokounmpo,Thanasis,Antetokounmpo,PF,6-7,219,"July 18, 1992",gr,4,,203648,True,2023
+MIL,Thanasis Antetokounmpo,Thanasis,Antetokounmpo,PF,6-7,219,"July 18, 1992",gr,5,,203648,True,2024
+GSW,Ty Jerome,Ty,Jerome,SG,6-5,195,"July 8, 1997",us,3,Virginia,1629660,True,2023
+CLE,Ty Jerome,Ty,Jerome,SG,6-5,195,"July 8, 1997",us,4,Virginia,1629660,True,2024
+NYK,Quentin Grimes,Quentin,Grimes,SG,6-5,205,"May 8, 2000",us,1,"Kansas, Houston",1629656,True,2023
+DET,Quentin Grimes,Quentin,Grimes,SG,6-5,205,"May 8, 2000",us,2,"Kansas, Houston",1629656,True,2024
+DEN,Julian Strawther,Julian,Strawther,SF,6-7,205,"April 18, 2002",us,R,Gonzaga,1631124,True,2024
+SAC,Neemias Queta,Neemias,Queta,C,7-0,245,"July 13, 1999",pt,1,Utah State University,1629674,True,2023
+BOS,Neemias Queta,Neemias,Queta,C,7-0,245,"July 13, 1999",pt,2,Utah State University,1629674,True,2024
+CHI,Andre Drummond,Andre,Drummond,C,6-11,279,"August 10, 1993",us,10,UConn,203083,True,2023
+CHI,Andre Drummond,Andre,Drummond,C,6-11,279,"August 10, 1993",us,11,UConn,203083,True,2024
+ATL,Dejounte Murray,Dejounte,Murray,SG,6-5,180,"September 19, 1996",us,5,Washington,1627749,True,2023
+ATL,Dejounte Murray,Dejounte,Murray,SG,6-5,180,"September 19, 1996",us,6,Washington,1627749,True,2024
+ATL,Garrison Mathews,Garrison,Mathews,SG,6-5,215,"October 24, 1996",us,3,Lipscomb,1629726,True,2023
+HOU,Garrison Mathews,Garrison,Mathews,SG,6-5,215,"October 24, 1996",us,3,Lipscomb,1629726,True,2023
+ATL,Garrison Mathews,Garrison,Mathews,SG,6-5,215,"October 24, 1996",us,4,Lipscomb,1629726,True,2024
+POR,Kris Murray,Kris,Murray,SF,6-8,220,"August 19, 2000",us,R,Iowa,1631200,True,2024
+ORL,Jonathan Isaac,Jonathan,Isaac,PF,6-10,230,"October 3, 1997",us,3,Florida State,1628371,True,2023
+ORL,Jonathan Isaac,Jonathan,Isaac,PF,6-10,230,"October 3, 1997",us,4,Florida State,1628371,True,2024
+WAS,Jordan Goodwin,Jordan,Goodwin,PG,6-3,200,"October 23, 1998",us,1,Saint Louis,1630692,True,2023
+MEM,Jordan Goodwin,Jordan,Goodwin,PG,6-3,200,"October 23, 1998",us,2,Saint Louis,1630692,True,2024
+DEN,Bruce Brown,Bruce,Brown,SF,6-4,202,"August 15, 1996",us,4,Miami (FL),1628971,True,2023
+TOR,Bruce Brown,Bruce,Brown,PG,6-4,202,"August 15, 1996",us,5,Miami (FL),1628971,True,2024
+CHI,Julian Phillips,Julian,Phillips,SF,6-8,198,"November 5, 2003",us,R,Tennessee,1641763,True,2024
+LAL,Dennis Schroder,Dennis,Schroder,PG,6-1,172,"September 15, 1993",de,9,,203471,True,2023
+BRK,Dennis Schroder,Dennis,Schroder,PG,6-1,172,"September 15, 1993",de,10,,203471,True,2024
+SAC,Sasha Vezenkov,Sasha,Vezenkov,PF,6-9,225,"August 6, 1995",cy,R,,1628426,True,2024
+HOU,Alperen Sengun,Alperen,Sengun,C,6-11,235,"July 25, 2002",tr,1,,1630578,True,2023
+HOU,Alperen Sengun,Alperen,Sengun,C,6-11,235,"July 25, 2002",tr,2,,1630578,True,2024
+LAL,Anthony Davis,Anthony,Davis,C,6-10,253,"March 11, 1993",us,10,Kentucky,203076,True,2023
+LAL,Anthony Davis,Anthony,Davis,C,6-10,253,"March 11, 1993",us,11,Kentucky,203076,True,2024
+CHO,Terry Rozier,Terry,Rozier,SG,6-1,190,"March 17, 1994",us,7,Louisville,1626179,True,2023
+MIA,Terry Rozier,Terry,Rozier,PG,6-1,190,"March 17, 1994",us,8,Louisville,1626179,True,2024
+MEM,Brandon Clarke,Brandon,Clarke,PF,6-8,215,"September 19, 1996",ca,3,"San Jose State, Gonzaga",1629634,True,2023
+MEM,Brandon Clarke,Brandon,Clarke,PF,6-8,215,"September 19, 1996",ca,4,"San Jose State, Gonzaga",1629634,True,2024
+DEN,Christian Braun,Christian,Braun,SG,6-6,218,"April 17, 2001",us,R,Kansas,1631128,True,2023
+DEN,Christian Braun,Christian,Braun,SG,6-6,218,"April 17, 2001",us,1,Kansas,1631128,True,2024
+DET,R.J. Hampton,R.J.,Hampton,SG,6-4,175,"February 7, 2001",us,2,,1630181,True,2023
+ORL,R.J. Hampton,R.J.,Hampton,SG,6-4,175,"February 7, 2001",us,2,,1630181,True,2023
+DEN,Zeke Nnaji,Zeke,Nnaji,PF,6-9,240,"January 9, 2001",us,2,Arizona,1630192,True,2023
+DEN,Zeke Nnaji,Zeke,Nnaji,PF,6-9,240,"January 9, 2001",us,3,Arizona,1630192,True,2024
+UTA,Kris Dunn,Kris,Dunn,PG,6-3,205,"March 18, 1994",us,6,Providence,1627739,True,2023
+UTA,Kris Dunn,Kris,Dunn,PG,6-3,205,"March 18, 1994",us,7,Providence,1627739,True,2024
+MIN,Naz Reid,Naz,Reid,C,6-9,264,"August 26, 1999",us,3,LSU,1629675,True,2023
+MIN,Naz Reid,Naz,Reid,C,6-9,264,"August 26, 1999",us,4,LSU,1629675,True,2024
+DAL,Alex Fudge,Alex,Fudge,SF,6-8,200,"May 6, 2003",us,R,"LSU, Florida",1641788,True,2024
+BRK,"Day'Ron Sharpe","Day'Ron",Sharpe,C,6-11,265,"November 6, 2001",us,1,UNC,1630549,True,2023
+BRK,"Day'Ron Sharpe","Day'Ron",Sharpe,C,6-11,265,"November 6, 2001",us,2,UNC,1630549,True,2024
+MIA,Gabe Vincent,Gabe,Vincent,PG,6-3,195,"June 14, 1996",us,3,UC Santa Barbara,1629216,True,2023
+LAL,Gabe Vincent,Gabe,Vincent,PG,6-3,195,"June 14, 1996",us,4,UC Santa Barbara,1629216,True,2024
+CHI,Patrick Beverley,Patrick,Beverley,PG,6-2,180,"July 12, 1988",us,10,Arkansas,201976,True,2023
+LAL,Patrick Beverley,Patrick,Beverley,SG,6-2,180,"July 12, 1988",us,10,Arkansas,201976,True,2023
+MIL,Patrick Beverley,Patrick,Beverley,PG,6-2,180,"July 12, 1988",us,11,Arkansas,201976,True,2024
+DET,Stanley Umude,Stanley,Umude,SG,6-6,210,"April 12, 1999",us,R,"South Dakota, Arkansas",1630649,True,2023
+DET,Stanley Umude,Stanley,Umude,SG,6-6,210,"April 12, 1999",us,1,"South Dakota, Arkansas",1630649,True,2024
+LAC,Kobe Brown,Kobe,Brown,PF,6-7,250,"January 1, 2000",us,R,Missouri,1641738,True,2024
+HOU,Daishen Nix,Daishen,Nix,PG,6-5,224,"February 13, 2002",us,1,,1630227,True,2023
+MIN,Daishen Nix,Daishen,Nix,PG,6-5,224,"February 13, 2002",us,2,,1630227,True,2024
+UTA,Udoka Azubuike,Udoka,Azubuike,C,6-10,280,"September 17, 1999",ng,2,Kansas,1628962,True,2023
+PHO,Udoka Azubuike,Udoka,Azubuike,C,6-10,280,"September 17, 1999",ng,3,Kansas,1628962,True,2024
+DEN,Reggie Jackson,Reggie,Jackson,PG,6-2,208,"April 16, 1990",it,11,Boston College,202704,True,2023
+LAC,Reggie Jackson,Reggie,Jackson,PG,6-2,208,"April 16, 1990",it,11,Boston College,202704,True,2023
+DEN,Reggie Jackson,Reggie,Jackson,PG,6-2,208,"April 16, 1990",it,12,Boston College,202704,True,2024
+MIL,Brook Lopez,Brook,Lopez,C,7-1,282,"April 1, 1988",us,14,Stanford,201572,True,2023
+MIL,Brook Lopez,Brook,Lopez,C,7-1,282,"April 1, 1988",us,15,Stanford,201572,True,2024
+HOU,Jabari Smith Jr.,Jabari,Smith Jr.,PF,6-11,220,"May 13, 2003",us,R,Auburn,1631095,True,2023
+HOU,Jabari Smith Jr.,Jabari,Smith Jr.,PF,6-11,220,"May 13, 2003",us,1,Auburn,1631095,True,2024
+CHO,Svi Mykhailiuk,Svi,Mykhailiuk,SF,6-7,205,"June 10, 1997",ua,4,Kansas,1629004,True,2023
+NYK,Svi Mykhailiuk,Svi,Mykhailiuk,SF,6-7,205,"June 10, 1997",ua,4,Kansas,1629004,True,2023
+BOS,Svi Mykhailiuk,Svi,Mykhailiuk,SF,6-7,205,"June 10, 1997",ua,5,Kansas,1629004,True,2024
+BOS,Sam Hauser,Sam,Hauser,SF,6-8,215,"December 8, 1997",us,1,"Marquette, Virginia",1630573,True,2023
+BOS,Sam Hauser,Sam,Hauser,SF,6-8,215,"December 8, 1997",us,2,"Marquette, Virginia",1630573,True,2024
+WAS,Corey Kispert,Corey,Kispert,SF,6-7,220,"March 3, 1999",us,1,Gonzaga,1630557,True,2023
+WAS,Corey Kispert,Corey,Kispert,SF,6-7,220,"March 3, 1999",us,2,Gonzaga,1630557,True,2024
+NOP,Jaxson Hayes,Jaxson,Hayes,C,7-0,220,"May 23, 2000",us,3,Texas,1629637,True,2023
+LAL,Jaxson Hayes,Jaxson,Hayes,C,7-0,220,"May 23, 2000",us,4,Texas,1629637,True,2024
+DET,Ausar Thompson,Ausar,Thompson,SF,6-7,215,"January 30, 2003",us,R,,1641709,True,2024
+PHI,Joel Embiid,Joel,Embiid,C,7-0,280,"March 16, 1994",cm,6,Kansas,203954,True,2023
+PHI,Joel Embiid,Joel,Embiid,C,7-0,280,"March 16, 1994",cm,7,Kansas,203954,True,2024
+DAL,Frank Ntilikina,Frank,Ntilikina,SG,6-4,200,"July 28, 1998",be,5,,1628373,True,2023
+IND,Jarace Walker,Jarace,Walker,PF,6-8,240,"September 4, 2003",us,R,Houston,1641716,True,2024
+DET,Marcus Sasser,Marcus,Sasser,PG,6-2,195,"September 21, 2000",us,R,Houston,1631204,True,2024
+UTA,Jordan Clarkson,Jordan,Clarkson,SG,6-3,194,"June 7, 1992",us,8,"Tulsa, Missouri",203903,True,2023
+UTA,Jordan Clarkson,Jordan,Clarkson,SG,6-3,194,"June 7, 1992",us,9,"Tulsa, Missouri",203903,True,2024
+HOU,Jalen Green,Jalen,Green,SG,6-4,178,"February 9, 2002",us,1,,1630224,True,2023
+HOU,Jalen Green,Jalen,Green,SG,6-4,178,"February 9, 2002",us,2,,1630224,True,2024
+DET,Jaden Ivey,Jaden,Ivey,SG,6-4,195,"February 13, 2002",us,R,Purdue,1631093,True,2023
+DET,Jaden Ivey,Jaden,Ivey,SG,6-4,195,"February 13, 2002",us,1,Purdue,1631093,True,2024
+ATL,Saddiq Bey,Saddiq,Bey,SF,6-7,215,"April 9, 1999",us,2,Villanova,1630180,True,2023
+DET,Saddiq Bey,Saddiq,Bey,SF,6-7,215,"April 9, 1999",us,2,Villanova,1630180,True,2023
+ATL,Saddiq Bey,Saddiq,Bey,SF,6-7,215,"April 9, 1999",us,3,Villanova,1630180,True,2024
+MIA,Duncan Robinson,Duncan,Robinson,SF,6-7,215,"April 22, 1994",us,4,"Williams, Michigan",1629130,True,2023
+MIA,Duncan Robinson,Duncan,Robinson,SF,6-7,215,"April 22, 1994",us,5,"Williams, Michigan",1629130,True,2024
+NOP,Herbert Jones,Herbert,Jones,PF,6-8,210,"October 6, 1998",us,1,Alabama,1630529,True,2023
+NOP,Herbert Jones,Herbert,Jones,SF,6-8,210,"October 6, 1998",us,2,Alabama,1630529,True,2024
+CHO,Nick Richards,Nick,Richards,C,7-0,245,"November 29, 1997",jm,2,Kentucky,1630208,True,2023
+CHO,Nick Richards,Nick,Richards,C,7-0,245,"November 29, 1997",jm,3,Kentucky,1630208,True,2024
+NOP,E.J. Liddell,E.J.,Liddell,PF,6-7,240,"December 18, 2000",us,R,Ohio State,1630604,True,2024
+CHO,James Bouknight,James,Bouknight,SG,6-5,190,"September 18, 2000",us,1,UConn,1630547,True,2023
+IND,Bennedict Mathurin,Bennedict,Mathurin,SG,6-6,210,"June 19, 2002",ca,R,Arizona,1631097,True,2023
+IND,Bennedict Mathurin,Bennedict,Mathurin,SF,6-6,210,"June 19, 2002",ca,1,Arizona,1631097,True,2024
+CHO,Dennis Smith Jr.,Dennis,Smith Jr.,PG,6-2,205,"November 25, 1997",us,5,NC State,1628372,True,2023
+BRK,Dennis Smith Jr.,Dennis,Smith Jr.,PG,6-2,205,"November 25, 1997",us,6,NC State,1628372,True,2024
+IND,Oshae Brissett,Oshae,Brissett,PF,6-7,210,"June 20, 1998",ca,3,Syracuse,1629052,True,2023
+BOS,Oshae Brissett,Oshae,Brissett,SF,6-7,210,"June 20, 1998",ca,4,Syracuse,1629052,True,2024
+PHI,Paul Reed,Paul,Reed,C,6-9,210,"June 14, 1999",us,2,DePaul,1630194,True,2023
+PHI,Paul Reed,Paul,Reed,C,6-9,210,"June 14, 1999",us,3,DePaul,1630194,True,2024
+BOS,Marcus Smart,Marcus,Smart,PG,6-3,220,"March 6, 1994",us,8,Oklahoma State,203935,True,2023
+MEM,Marcus Smart,Marcus,Smart,PG,6-3,220,"March 6, 1994",us,9,Oklahoma State,203935,True,2024
+CHO,LaMelo Ball,LaMelo,Ball,PG,6-7,180,"August 22, 2001",us,2,,1630163,True,2023
+CHO,LaMelo Ball,LaMelo,Ball,PG,6-7,180,"August 22, 2001",us,3,,1630163,True,2024
+DAL,Dereck Lively II,Dereck,Lively II,C,7-1,230,"February 12, 2004",us,R,Duke,1641726,True,2024
+PHO,Duane Washington Jr.,Duane,Washington Jr.,SG,6-3,210,"March 24, 2000",de,1,Ohio State,1630613,True,2023
+NYK,Duane Washington Jr.,Duane,Washington Jr.,SG,6-3,210,"March 24, 2000",de,2,Ohio State,1630613,True,2024
+NYK,Charlie Brown Jr.,Charlie,Brown Jr.,SG,6-6,199,"February 2, 1997",us,3,"Saint Joseph's",1629718,True,2024
+DAL,Davis Bertans,Davis,Bertans,PF,6-10,225,"November 12, 1992",lv,6,,202722,True,2023
+CHO,Davis Bertans,Davis,Bertans,PF,6-10,225,"November 12, 1992",lv,7,,202722,True,2024
+CLE,Cedi Osman,Cedi,Osman,SF,6-7,230,"April 8, 1995",mk,5,,1626224,True,2023
+SAS,Cedi Osman,Cedi,Osman,SF,6-7,230,"April 8, 1995",mk,6,,1626224,True,2024
+MIL,MarJon Beauchamp,MarJon,Beauchamp,SF,6-6,199,"October 12, 2000",us,R,Yakima Valley Community College,1630699,True,2023
+MIL,MarJon Beauchamp,MarJon,Beauchamp,SF,6-6,199,"October 12, 2000",us,1,Yakima Valley Community College,1630699,True,2024
+CHO,Miles Bridges,Miles,Bridges,SF,6-7,225,"March 21, 1998",us,4,Michigan State,1628970,True,2024
+CLE,Isaac Okoro,Isaac,Okoro,SF,6-5,225,"January 26, 2001",us,2,Auburn,1630171,True,2023
+CLE,Isaac Okoro,Isaac,Okoro,SF,6-5,225,"January 26, 2001",us,3,Auburn,1630171,True,2024
+IND,Isaiah Wong,Isaiah,Wong,SG,6-4,184,"January 28, 2001",us,R,Miami (FL),1631209,True,2024
+MEM,Ziaire Williams,Ziaire,Williams,SF,6-9,215,"September 12, 2001",us,1,Stanford,1630533,True,2023
+MEM,Ziaire Williams,Ziaire,Williams,SF,6-9,215,"September 12, 2001",us,2,Stanford,1630533,True,2024
+UTA,Luka Samanic,Luka,Samanic,PF,6-10,227,"January 9, 2000",hr,2,,1629677,True,2023
+UTA,Luka Samanic,Luka,Samanic,PF,6-10,227,"January 9, 2000",hr,3,,1629677,True,2024
+MIL,Sandro Mamukelashvili,Sandro,Mamukelashvili,C,6-11,240,"May 23, 1999",us,1,Seton Hall,1630572,True,2023
+SAS,Sandro Mamukelashvili,Sandro,Mamukelashvili,C,6-11,240,"May 23, 1999",us,1,Seton Hall,1630572,True,2023
+SAS,Sandro Mamukelashvili,Sandro,Mamukelashvili,C,6-11,240,"May 23, 1999",us,2,Seton Hall,1630572,True,2024
+BRK,Joe Harris,Joe,Harris,SF,6-6,220,"September 6, 1991",us,8,Virginia,203925,True,2023
+POR,Anfernee Simons,Anfernee,Simons,SG,6-3,181,"June 8, 1999",us,4,,1629014,True,2023
+POR,Anfernee Simons,Anfernee,Simons,SG,6-3,181,"June 8, 1999",us,5,,1629014,True,2024
+CLE,Kevin Love,Kevin,Love,PF,6-8,251,"September 7, 1988",us,14,UCLA,201567,True,2023
+MIA,Kevin Love,Kevin,Love,PF,6-8,251,"September 7, 1988",us,14,UCLA,201567,True,2023
+MIA,Kevin Love,Kevin,Love,PF,6-8,251,"September 7, 1988",us,15,UCLA,201567,True,2024
+SAS,Dominick Barlow,Dominick,Barlow,PF,6-9,221,"May 26, 2003",us,R,,1631230,True,2023
+SAS,Dominick Barlow,Dominick,Barlow,PF,6-9,221,"May 26, 2003",us,1,,1631230,True,2024
+ATL,"De'Andre Hunter","De'Andre",Hunter,SF,6-8,225,"December 2, 1997",us,3,Virginia,1629631,True,2023
+ATL,"De'Andre Hunter","De'Andre",Hunter,SF,6-8,225,"December 2, 1997",us,4,Virginia,1629631,True,2024
+HOU,"Jae'Sean Tate","Jae'Sean",Tate,SF,6-4,230,"October 28, 1995",us,2,Ohio State,1630256,True,2023
+HOU,"Jae'Sean Tate","Jae'Sean",Tate,SF,6-4,230,"October 28, 1995",us,3,Ohio State,1630256,True,2024
+MIA,Haywood Highsmith,Haywood,Highsmith,PF,6-7,220,"December 9, 1996",us,2,Wheeling University,1629312,True,2023
+MIA,Haywood Highsmith,Haywood,Highsmith,PF,6-7,220,"December 9, 1996",us,3,Wheeling University,1629312,True,2024
+SAS,Keldon Johnson,Keldon,Johnson,SF,6-5,220,"October 11, 1999",us,3,Kentucky,1629640,True,2023
+SAS,Keldon Johnson,Keldon,Johnson,SF,6-5,220,"October 11, 1999",us,4,Kentucky,1629640,True,2024
+LAC,Terance Mann,Terance,Mann,SG,6-5,215,"October 18, 1996",us,3,Florida State,1629611,True,2023
+LAC,Terance Mann,Terance,Mann,SG,6-5,215,"October 18, 1996",us,4,Florida State,1629611,True,2024
+PHI,Jaden Springer,Jaden,Springer,SG,6-4,204,"September 25, 2002",us,1,Tennessee,1630531,True,2023
+BOS,Jaden Springer,Jaden,Springer,PG,6-4,204,"September 25, 2002",us,2,Tennessee,1630531,True,2024
+BOS,Mike Muscala,Mike,Muscala,C,6-10,240,"July 1, 1991",us,9,Bucknell,203488,True,2023
+OKC,Mike Muscala,Mike,Muscala,C,6-10,240,"July 1, 1991",us,9,Bucknell,203488,True,2023
+OKC,Mike Muscala,Mike,Muscala,C,6-10,240,"July 1, 1991",us,10,Bucknell,203488,True,2024
+DEN,Vlatko Cancar,Vlatko,Cancar,PF,6-8,236,"April 10, 1997",si,3,,1628427,True,2023
+DEN,Vlatko Cancar,Vlatko,Cancar,PF,6-8,236,"April 10, 1997",si,4,,1628427,True,2024
+BRK,Spencer Dinwiddie,Spencer,Dinwiddie,PG,6-5,215,"April 6, 1993",us,8,Colorado,203915,True,2023
+DAL,Spencer Dinwiddie,Spencer,Dinwiddie,SG,6-5,215,"April 6, 1993",us,8,Colorado,203915,True,2023
+LAL,Spencer Dinwiddie,Spencer,Dinwiddie,PG,6-5,215,"April 6, 1993",us,9,Colorado,203915,True,2024
+CLE,Dylan Windler,Dylan,Windler,SF,6-6,196,"September 22, 1996",us,2,Belmont,1629685,True,2023
+ATL,Dylan Windler,Dylan,Windler,SF,6-6,196,"September 22, 1996",us,3,Belmont,1629685,True,2024
+ATL,Trent Forrest,Trent,Forrest,SG,6-4,210,"June 12, 1998",us,2,Florida State,1630235,True,2023
+ATL,Trent Forrest,Trent,Forrest,SG,6-4,210,"June 12, 1998",us,3,Florida State,1630235,True,2024
+TOR,Scottie Barnes,Scottie,Barnes,SF,6-7,227,"August 1, 2001",us,1,Florida State,1630567,True,2023
+TOR,Scottie Barnes,Scottie,Barnes,SG,6-7,227,"August 1, 2001",us,2,Florida State,1630567,True,2024
+BRK,Cam Thomas,Cam,Thomas,SG,6-4,210,"October 13, 2001",jp,1,LSU,1630560,True,2023
+BRK,Cam Thomas,Cam,Thomas,SG,6-4,210,"October 13, 2001",jp,2,LSU,1630560,True,2024
+SAS,Keita Bates-Diop,Keita,Bates-Diop,PF,6-8,229,"January 23, 1996",us,4,Ohio State,1628966,True,2023
+BRK,Keita Bates-Diop,Keita,Bates-Diop,SF,6-8,229,"January 23, 1996",us,5,Ohio State,1628966,True,2024
+ORL,Kevon Harris,Kevon,Harris,SG,6-5,216,"June 24, 1997",us,R,Stephen F. Austin,1630284,True,2023
+ORL,Kevon Harris,Kevon,Harris,SG,6-5,216,"June 24, 1997",us,1,Stephen F. Austin,1630284,True,2024
+BOS,Jayson Tatum,Jayson,Tatum,SF,6-8,210,"March 3, 1998",us,5,Duke,1628369,True,2023
+BOS,Jayson Tatum,Jayson,Tatum,PF,6-8,210,"March 3, 1998",us,6,Duke,1628369,True,2024
+MEM,Ja Morant,Ja,Morant,PG,6-2,174,"August 10, 1999",us,3,Murray State,1629630,True,2023
+MEM,Ja Morant,Ja,Morant,PG,6-2,174,"August 10, 1999",us,4,Murray State,1629630,True,2024
+ORL,Cole Anthony,Cole,Anthony,PG,6-2,185,"May 15, 2000",us,2,UNC,1630175,True,2023
+ORL,Cole Anthony,Cole,Anthony,PG,6-2,185,"May 15, 2000",us,3,UNC,1630175,True,2024
+DAL,Josh Green,Josh,Green,SG,6-5,200,"November 16, 2000",au,2,Arizona,1630182,True,2023
+DAL,Josh Green,Josh,Green,SG,6-5,200,"November 16, 2000",au,3,Arizona,1630182,True,2024
+TOR,Pascal Siakam,Pascal,Siakam,PF,6-8,230,"April 2, 1994",cm,6,New Mexico State,1627783,True,2023
+IND,Pascal Siakam,Pascal,Siakam,PF,6-8,230,"April 2, 1994",cm,7,New Mexico State,1627783,True,2024
+SAS,Jeremy Sochan,Jeremy,Sochan,PF,6-8,230,"May 20, 2003",us,R,Baylor,1631110,True,2023
+SAS,Jeremy Sochan,Jeremy,Sochan,PF,6-8,230,"May 20, 2003",us,1,Baylor,1631110,True,2024
+ATL,Justin Holiday,Justin,Holiday,SF,6-6,180,"April 5, 1989",us,9,Washington,203200,True,2023
+DAL,Justin Holiday,Justin,Holiday,SF,6-6,180,"April 5, 1989",us,9,Washington,203200,True,2023
+DEN,Justin Holiday,Justin,Holiday,SG,6-6,180,"April 5, 1989",us,10,Washington,203200,True,2024
+NYK,DaQuan Jeffries,DaQuan,Jeffries,SG,6-5,230,"August 30, 1997",us,3,"Oral Roberts, Tulsa",1629610,True,2023
+NYK,DaQuan Jeffries,DaQuan,Jeffries,SG,6-5,230,"August 30, 1997",us,4,"Oral Roberts, Tulsa",1629610,True,2024
+MEM,Santi Aldama,Santi,Aldama,PF,6-11,224,"January 10, 2001",es,1,Loyola (MD),1630583,True,2023
+MEM,Santi Aldama,Santi,Aldama,PF,6-11,224,"January 10, 2001",es,2,Loyola (MD),1630583,True,2024
+TOR,Fred VanVleet,Fred,VanVleet,PG,6-0,197,"February 25, 1994",us,6,Wichita State,1627832,True,2023
+HOU,Fred VanVleet,Fred,VanVleet,PG,6-0,197,"February 25, 1994",us,7,Wichita State,1627832,True,2024
+MIN,Jaden McDaniels,Jaden,McDaniels,SF,6-9,185,"September 29, 2000",us,2,Washington,1630183,True,2023
+MIN,Jaden McDaniels,Jaden,McDaniels,SF,6-9,185,"September 29, 2000",us,3,Washington,1630183,True,2024
+IND,Chris Duarte,Chris,Duarte,SF,6-6,190,"June 13, 1997",do,1,Oregon,1630537,True,2023
+SAC,Chris Duarte,Chris,Duarte,SF,6-6,190,"June 13, 1997",do,2,Oregon,1630537,True,2024
+DEN,Thomas Bryant,Thomas,Bryant,C,6-10,248,"July 31, 1997",us,5,Indiana,1628418,True,2023
+LAL,Thomas Bryant,Thomas,Bryant,C,6-10,248,"July 31, 1997",us,5,Indiana,1628418,True,2023
+MIA,Thomas Bryant,Thomas,Bryant,C,6-10,248,"July 31, 1997",us,6,Indiana,1628418,True,2024
+GSW,Gary Payton II,Gary,Payton II,SG,6-2,190,"December 1, 1992",us,6,Oregon State,1627780,True,2023
+POR,Gary Payton II,Gary,Payton II,SG,6-2,190,"December 1, 1992",us,6,Oregon State,1627780,True,2023
+GSW,Gary Payton II,Gary,Payton II,SG,6-2,190,"December 1, 1992",us,7,Oregon State,1627780,True,2024
+DAL,Maxi Kleber,Maxi,Kleber,PF,6-10,240,"January 29, 1992",de,5,,1628467,True,2023
+DAL,Maxi Kleber,Maxi,Kleber,C,6-10,240,"January 29, 1992",de,6,,1628467,True,2024
+SAC,Jordan Ford,Jordan,Ford,PG,6-1,175,"May 26, 1998",us,R,"Saint Mary's",1630259,True,2024
+SAC,Richaun Holmes,Richaun,Holmes,C,6-10,235,"October 15, 1993",us,7,Bowling Green,1626158,True,2023
+WAS,Richaun Holmes,Richaun,Holmes,PF,6-10,235,"October 15, 1993",us,8,Bowling Green,1626158,True,2024
+LAC,Amir Coffey,Amir,Coffey,SF,6-7,210,"June 17, 1997",us,3,Minnesota,1629599,True,2023
+LAC,Amir Coffey,Amir,Coffey,SF,6-7,210,"June 17, 1997",us,4,Minnesota,1629599,True,2024
+PHI,Shake Milton,Shake,Milton,SG,6-5,205,"September 26, 1996",us,4,SMU,1629003,True,2023
+NYK,Shake Milton,Shake,Milton,SG,6-5,205,"September 26, 1996",us,5,SMU,1629003,True,2024
+BRK,Noah Clowney,Noah,Clowney,PF,6-10,210,"July 14, 2004",us,R,Alabama,1641730,True,2024
+HOU,Eric Gordon,Eric,Gordon,SG,6-3,215,"December 25, 1988",us,14,Indiana,201569,True,2023
+LAC,Eric Gordon,Eric,Gordon,SG,6-3,215,"December 25, 1988",us,14,Indiana,201569,True,2023
+PHO,Eric Gordon,Eric,Gordon,SG,6-3,215,"December 25, 1988",us,15,Indiana,201569,True,2024
+UTA,Taylor Hendricks,Taylor,Hendricks,PF,6-9,210,"November 22, 2003",us,R,Central Florida,1641707,True,2024
+DET,Alec Burks,Alec,Burks,SG,6-6,214,"July 20, 1991",us,11,Colorado,202692,True,2023
+NYK,Alec Burks,Alec,Burks,SG,6-6,214,"July 20, 1991",us,12,Colorado,202692,True,2024
+HOU,TyTy Washington Jr.,TyTy,Washington Jr.,PG,6-3,197,"November 15, 2001",us,R,Kentucky,1631102,True,2023
+MIL,TyTy Washington Jr.,TyTy,Washington Jr.,PG,6-3,197,"November 15, 2001",us,1,Kentucky,1631102,True,2024
+SAS,Zach Collins,Zach,Collins,C,6-11,250,"November 19, 1997",us,4,Gonzaga,1628380,True,2023
+SAS,Zach Collins,Zach,Collins,C,6-11,250,"November 19, 1997",us,5,Gonzaga,1628380,True,2024
+DEN,DeAndre Jordan,DeAndre,Jordan,C,6-11,265,"July 21, 1988",us,14,Texas A&M,201599,True,2023
+DEN,DeAndre Jordan,DeAndre,Jordan,C,6-11,265,"July 21, 1988",us,15,Texas A&M,201599,True,2024
+OKC,Cason Wallace,Cason,Wallace,SG,6-4,193,"November 7, 2003",us,R,Kentucky,1641717,True,2024
+POR,Jerami Grant,Jerami,Grant,PF,6-7,210,"March 12, 1994",us,8,Syracuse,203924,True,2023
+POR,Jerami Grant,Jerami,Grant,PF,6-7,210,"March 12, 1994",us,9,Syracuse,203924,True,2024
+ATL,Jalen Johnson,Jalen,Johnson,SF,6-9,220,"December 18, 2001",us,1,Duke,1630552,True,2023
+ATL,Jalen Johnson,Jalen,Johnson,SF,6-9,220,"December 18, 2001",us,2,Duke,1630552,True,2024
+IND,Ben Sheppard,Ben,Sheppard,SG,6-6,190,"July 16, 2001",us,R,Belmont,1641767,True,2024
+CLE,Dean Wade,Dean,Wade,PF,6-9,228,"November 20, 1996",us,3,Kansas State,1629731,True,2023
+CLE,Dean Wade,Dean,Wade,PF,6-9,228,"November 20, 1996",us,4,Kansas State,1629731,True,2024
+ATL,Mouhamed Gueye,Mouhamed,Gueye,PF,6-11,210,"November 9, 2002",sn,R,Washington State,1631243,True,2024
+BRK,Dru Smith,Dru,Smith,SG,6-3,203,"December 30, 1997",us,R,"University of Evansville, Missouri",1630696,True,2023
+MIA,Dru Smith,Dru,Smith,SG,6-3,203,"December 30, 1997",us,R,"University of Evansville, Missouri",1630696,True,2023
+DEN,Collin Gillespie,Collin,Gillespie,PG,6-1,195,"June 25, 1999",us,R,Villanova,1631221,True,2024
+IND,Myles Turner,Myles,Turner,C,6-11,250,"March 24, 1996",us,7,Texas,1626167,True,2023
+IND,Myles Turner,Myles,Turner,C,6-11,250,"March 24, 1996",us,8,Texas,1626167,True,2024
+LAC,Brandon Boston Jr.,Brandon,Boston Jr.,SF,6-7,185,"November 28, 2001",us,1,Kentucky,1630527,True,2023
+LAC,Brandon Boston Jr.,Brandon,Boston Jr.,SF,6-7,185,"November 28, 2001",us,2,Kentucky,1630527,True,2024
+TOR,Gradey Dick,Gradey,Dick,SG,6-6,205,"November 20, 2003",us,R,Kansas,1641711,True,2024
+BRK,Ben Simmons,Ben,Simmons,PG,6-10,240,"July 20, 1996",au,4,LSU,1627732,True,2023
+BRK,Ben Simmons,Ben,Simmons,PG,6-10,240,"July 20, 1996",au,5,LSU,1627732,True,2024
+CLE,Emoni Bates,Emoni,Bates,SF,6-10,170,"January 28, 2004",us,R,"Memphis, Eastern Michigan",1641734,True,2024
+LAC,Moussa Diabate,Moussa,Diabate,C,6-11,210,"January 21, 2002",fr,R,Michigan,1631217,True,2023
+LAC,Moussa Diabate,Moussa,Diabate,C,6-11,210,"January 21, 2002",fr,1,Michigan,1631217,True,2024
+MIL,Joe Ingles,Joe,Ingles,SF,6-9,220,"October 2, 1987",au,8,,204060,True,2023
+ORL,Joe Ingles,Joe,Ingles,SF,6-9,220,"October 2, 1987",au,9,,204060,True,2024
+SAC,Trey Lyles,Trey,Lyles,PF,6-9,234,"November 5, 1995",ca,7,Kentucky,1626168,True,2023
+SAC,Trey Lyles,Trey,Lyles,PF,6-9,234,"November 5, 1995",ca,8,Kentucky,1626168,True,2024
+MEM,Dillon Brooks,Dillon,Brooks,SF,6-6,225,"January 22, 1996",ca,5,Oregon,1628415,True,2023
+HOU,Dillon Brooks,Dillon,Brooks,SF,6-6,225,"January 22, 1996",ca,6,Oregon,1628415,True,2024
+CLE,Jarrett Allen,Jarrett,Allen,C,6-11,243,"April 21, 1998",us,5,Texas,1628386,True,2023
+CLE,Jarrett Allen,Jarrett,Allen,C,6-11,243,"April 21, 1998",us,6,Texas,1628386,True,2024
+OKC,Luguentz Dort,Luguentz,Dort,SF,6-3,215,"April 19, 1999",ca,3,Arizona State,1629652,True,2023
+OKC,Luguentz Dort,Luguentz,Dort,SF,6-3,215,"April 19, 1999",ca,4,Arizona State,1629652,True,2024
+DEN,Jamal Murray,Jamal,Murray,PG,6-4,215,"February 23, 1997",ca,5,Kentucky,1627750,True,2023
+DEN,Jamal Murray,Jamal,Murray,PG,6-4,215,"February 23, 1997",ca,6,Kentucky,1627750,True,2024
+SAC,"De'Aaron Fox","De'Aaron",Fox,PG,6-3,185,"December 20, 1997",us,5,Kentucky,1628368,True,2023
+SAC,"De'Aaron Fox","De'Aaron",Fox,PG,6-3,185,"December 20, 1997",us,6,Kentucky,1628368,True,2024
+WAS,Bradley Beal,Bradley,Beal,SG,6-4,207,"June 28, 1993",us,10,Florida,203078,True,2023
+PHO,Bradley Beal,Bradley,Beal,SG,6-4,207,"June 28, 1993",us,11,Florida,203078,True,2024
+TOR,Dalano Banton,Dalano,Banton,PG,6-9,204,"November 7, 1999",ca,1,Nebraska,1630625,True,2023
+POR,Dalano Banton,Dalano,Banton,PG,6-9,204,"November 7, 1999",ca,2,Nebraska,1630625,True,2024
+ATL,Clint Capela,Clint,Capela,C,6-10,240,"May 18, 1994",ch,8,,203991,True,2023
+ATL,Clint Capela,Clint,Capela,C,6-10,240,"May 18, 1994",ch,9,,203991,True,2024
+CHO,Nick Smith Jr.,Nick,Smith Jr.,SG,6-5,185,"April 18, 2004",us,R,Arkansas,1641733,True,2024
+SAS,Blake Wesley,Blake,Wesley,SG,6-5,185,"March 16, 2003",us,R,Notre Dame,1631104,True,2023
+SAS,Blake Wesley,Blake,Wesley,SG,6-5,185,"March 16, 2003",us,1,Notre Dame,1631104,True,2024
+GSW,Kevon Looney,Kevon,Looney,C,6-9,222,"February 6, 1996",us,7,UCLA,1626172,True,2023
+GSW,Kevon Looney,Kevon,Looney,C,6-9,222,"February 6, 1996",us,8,UCLA,1626172,True,2024
+MIN,Taurean Prince,Taurean,Prince,PF,6-6,218,"March 22, 1994",us,6,Baylor,1627752,True,2023
+LAL,Taurean Prince,Taurean,Prince,PF,6-6,218,"March 22, 1994",us,7,Baylor,1627752,True,2024
+PHO,Devin Booker,Devin,Booker,SG,6-6,206,"October 30, 1996",us,7,Kentucky,1626164,True,2023
+PHO,Devin Booker,Devin,Booker,PG,6-6,206,"October 30, 1996",us,8,Kentucky,1626164,True,2024
+POR,Jabari Walker,Jabari,Walker,SF,6-9,215,"July 30, 2002",us,R,Colorado,1631133,True,2023
+POR,Jabari Walker,Jabari,Walker,SF,6-9,215,"July 30, 2002",us,1,Colorado,1631133,True,2024
+BRK,Patty Mills,Patty,Mills,PG,6-2,180,"August 11, 1988",au,13,"Saint Mary's",201988,True,2023
+MIA,Patty Mills,Patty,Mills,PG,6-2,180,"August 11, 1988",au,14,"Saint Mary's",201988,True,2024
+POR,Trendon Watford,Trendon,Watford,PF,6-9,240,"November 9, 2000",us,1,LSU,1630570,True,2023
+BRK,Trendon Watford,Trendon,Watford,PF,6-9,240,"November 9, 2000",us,2,LSU,1630570,True,2024
+BRK,Dorian Finney-Smith,Dorian,Finney-Smith,PF,6-7,220,"May 4, 1993",us,6,Florida,1627827,True,2023
+DAL,Dorian Finney-Smith,Dorian,Finney-Smith,PF,6-7,220,"May 4, 1993",us,6,Florida,1627827,True,2023
+BRK,Dorian Finney-Smith,Dorian,Finney-Smith,PF,6-7,220,"May 4, 1993",us,7,Florida,1627827,True,2024
+MIN,Nathan Knight,Nathan,Knight,C,6-8,253,"September 20, 1997",us,2,William & Mary,1630233,True,2023
+NYK,Ryan Arcidiacono,Ryan,Arcidiacono,PG,6-3,195,"March 26, 1994",us,5,Villanova,1627853,True,2023
+POR,Ryan Arcidiacono,Ryan,Arcidiacono,PG,6-3,195,"March 26, 1994",us,5,Villanova,1627853,True,2023
+MIL,Danilo Gallinari,Danilo,Gallinari,SF,6-10,233,"August 8, 1988",it,13,,201568,True,2024
+OKC,Josh Giddey,Josh,Giddey,PF,6-8,210,"October 10, 2002",au,1,,1630581,True,2023
+OKC,Josh Giddey,Josh,Giddey,SG,6-8,210,"October 10, 2002",au,2,,1630581,True,2024
+ATL,Trae Young,Trae,Young,PG,6-1,164,"September 19, 1998",us,4,Oklahoma,1629027,True,2023
+ATL,Trae Young,Trae,Young,PG,6-1,164,"September 19, 1998",us,5,Oklahoma,1629027,True,2024
+GSW,Patrick Baldwin Jr.,Patrick,Baldwin Jr.,SF,6-9,220,"November 18, 2002",us,R,UW-Milwaukee,1631116,True,2023
+WAS,Patrick Baldwin Jr.,Patrick,Baldwin Jr.,SF,6-9,220,"November 18, 2002",us,1,UW-Milwaukee,1631116,True,2024
+DET,Killian Hayes,Killian,Hayes,PG,6-5,195,"July 27, 2001",us,2,,1630165,True,2023
+LAL,Mo Bamba,Mo,Bamba,C,7-0,231,"May 12, 1998",us,4,Texas,1628964,True,2023
+ORL,Mo Bamba,Mo,Bamba,C,7-0,231,"May 12, 1998",us,4,Texas,1628964,True,2023
+PHI,Mo Bamba,Mo,Bamba,C,7-0,231,"May 12, 1998",us,5,Texas,1628964,True,2024
+BRK,Mikal Bridges,Mikal,Bridges,SG,6-6,209,"August 30, 1996",us,4,Villanova,1628969,True,2023
+PHO,Mikal Bridges,Mikal,Bridges,SF,6-6,209,"August 30, 1996",us,4,Villanova,1628969,True,2023
+BRK,Mikal Bridges,Mikal,Bridges,SF,6-6,209,"August 30, 1996",us,5,Villanova,1628969,True,2024
+IND,Buddy Hield,Buddy,Hield,SF,6-4,220,"December 17, 1992",bs,6,Oklahoma,1627741,True,2023
+PHI,Buddy Hield,Buddy,Hield,SG,6-4,220,"December 17, 1992",bs,7,Oklahoma,1627741,True,2024
+BRK,Kessler Edwards,Kessler,Edwards,SF,6-8,215,"August 9, 2000",us,1,Pepperdine,1630556,True,2023
+SAC,Kessler Edwards,Kessler,Edwards,SF,6-8,215,"August 9, 2000",us,1,Pepperdine,1630556,True,2023
+SAC,Kessler Edwards,Kessler,Edwards,SF,6-8,215,"August 9, 2000",us,2,Pepperdine,1630556,True,2024
+DAL,Dante Exum,Dante,Exum,PG,6-5,214,"July 13, 1995",au,6,,203957,True,2024
+SAC,Jalen Slawson,Jalen,Slawson,SF,6-7,215,"October 22, 1999",us,R,Furman University,1641771,True,2024
+PHO,Deandre Ayton,Deandre,Ayton,C,7-0,250,"July 23, 1998",bs,4,Arizona,1629028,True,2023
+POR,Deandre Ayton,Deandre,Ayton,C,7-0,250,"July 23, 1998",bs,5,Arizona,1629028,True,2024
+UTA,Brice Sensabaugh,Brice,Sensabaugh,SF,6-6,235,"October 30, 2003",us,R,Ohio State,1641729,True,2024
+POR,Shaedon Sharpe,Shaedon,Sharpe,SG,6-6,200,"May 30, 2003",ca,R,Kentucky,1631101,True,2023
+POR,Shaedon Sharpe,Shaedon,Sharpe,SG,6-6,200,"May 30, 2003",ca,1,Kentucky,1631101,True,2024
+SAC,Malik Monk,Malik,Monk,SG,6-3,200,"February 4, 1998",us,5,Kentucky,1628370,True,2023
+SAC,Malik Monk,Malik,Monk,SG,6-3,200,"February 4, 1998",us,6,Kentucky,1628370,True,2024
+MIN,Luka Garza,Luka,Garza,C,6-10,235,"December 27, 1998",us,1,Iowa,1630568,True,2023
+MIN,Luka Garza,Luka,Garza,C,6-10,235,"December 27, 1998",us,2,Iowa,1630568,True,2024
+HOU,KJ Martin,KJ,Martin,SF,6-6,215,"January 6, 2001",us,2,,1630231,True,2023
+PHI,KJ Martin,KJ,Martin,SF,6-6,215,"January 6, 2001",us,3,,1630231,True,2024
+MIL,Grayson Allen,Grayson,Allen,SG,6-4,198,"October 8, 1995",us,4,Duke,1628960,True,2023
+PHO,Grayson Allen,Grayson,Allen,SG,6-4,198,"October 8, 1995",us,5,Duke,1628960,True,2024
+MIN,Anthony Edwards,Anthony,Edwards,SG,6-4,225,"August 5, 2001",us,2,Georgia,1630162,True,2023
+MIN,Anthony Edwards,Anthony,Edwards,SG,6-4,225,"August 5, 2001",us,3,Georgia,1630162,True,2024
+PHO,Cameron Payne,Cameron,Payne,PG,6-3,183,"August 8, 1994",us,7,Murray State,1626166,True,2023
+PHI,Cameron Payne,Cameron,Payne,PG,6-3,183,"August 8, 1994",us,8,Murray State,1626166,True,2024
+UTA,Collin Sexton,Collin,Sexton,PG,6-3,190,"January 4, 1999",us,4,Alabama,1629012,True,2023
+UTA,Collin Sexton,Collin,Sexton,SG,6-3,190,"January 4, 1999",us,5,Alabama,1629012,True,2024
+DET,Bojan Bogdanovic,Bojan,Bogdanovic,PF,6-7,226,"April 18, 1989",ba,8,,202711,True,2023
+NYK,Bojan Bogdanovic,Bojan,Bogdanovic,SF,6-7,226,"April 18, 1989",ba,9,,202711,True,2024
+ATL,Bruno Fernando,Bruno,Fernando,C,6-9,240,"August 15, 1998",ao,3,Maryland,1628981,True,2023
+HOU,Bruno Fernando,Bruno,Fernando,C,6-9,240,"August 15, 1998",ao,3,Maryland,1628981,True,2023
+ATL,Bruno Fernando,Bruno,Fernando,C,6-9,240,"August 15, 1998",ao,4,Maryland,1628981,True,2024
+LAC,Luke Kennard,Luke,Kennard,SG,6-5,206,"June 24, 1996",us,5,Duke,1628379,True,2023
+MEM,Luke Kennard,Luke,Kennard,SG,6-5,206,"June 24, 1996",us,5,Duke,1628379,True,2023
+MEM,Luke Kennard,Luke,Kennard,SG,6-5,206,"June 24, 1996",us,6,Duke,1628379,True,2024
+NYK,Jacob Toppin,Jacob,Toppin,SF,6-9,205,"May 8, 2000",us,R,"Rhode Island, Kentucky",1631210,True,2024
+OKC,Jaylin Williams,Jaylin,Williams,C,6-9,240,"June 29, 2002",us,R,Arkansas,1631119,True,2023
+OKC,Jaylin Williams,Jaylin,Williams,C,6-9,240,"June 29, 2002",us,1,Arkansas,1631119,True,2024
+ORL,Jett Howard,Jett,Howard,SF,6-8,215,"September 14, 2003",us,R,Michigan,1641724,True,2024
+UTA,Walker Kessler,Walker,Kessler,C,7-0,245,"July 26, 2001",us,R,"UNC, Auburn",1631117,True,2023
+UTA,Walker Kessler,Walker,Kessler,C,7-0,245,"July 26, 2001",us,1,"UNC, Auburn",1631117,True,2024
+UTA,Keyonte George,Keyonte,George,PG,6-4,185,"November 8, 2003",us,R,Baylor,1641718,True,2024
+MIN,Jordan McLaughlin,Jordan,McLaughlin,PG,6-0,185,"April 9, 1996",us,3,USC,1629162,True,2023
+MIN,Jordan McLaughlin,Jordan,McLaughlin,PG,6-0,185,"April 9, 1996",us,4,USC,1629162,True,2024
+CLE,Caris LeVert,Caris,LeVert,SG,6-6,205,"August 25, 1994",us,6,Michigan,1627747,True,2023
+CLE,Caris LeVert,Caris,LeVert,SG,6-6,205,"August 25, 1994",us,7,Michigan,1627747,True,2024
+LAC,Ivica Zubac,Ivica,Zubac,C,7-0,240,"March 18, 1997",ba,6,,1627826,True,2023
+LAC,Ivica Zubac,Ivica,Zubac,C,7-0,240,"March 18, 1997",ba,7,,1627826,True,2024
+OKC,Olivier Sarr,Olivier,Sarr,C,7-0,237,"February 20, 1999",fr,1,"Wake Forest, Kentucky",1630846,True,2023
+OKC,Olivier Sarr,Olivier,Sarr,C,7-0,237,"February 20, 1999",fr,2,"Wake Forest, Kentucky",1630846,True,2024
+DEN,Nikola Jokic,Nikola,Jokic,C,6-11,284,"February 19, 1995",rs,7,,203999,True,2023
+DEN,Nikola Jokic,Nikola,Jokic,C,6-11,284,"February 19, 1995",rs,8,,203999,True,2024
+MIL,Bobby Portis,Bobby,Portis,PF,6-10,250,"February 10, 1995",us,7,Arkansas,1626171,True,2023
+MIL,Bobby Portis,Bobby,Portis,PF,6-10,250,"February 10, 1995",us,8,Arkansas,1626171,True,2024
+IND,Andrew Nembhard,Andrew,Nembhard,SG,6-5,193,"January 16, 2000",ca,R,"Florida, Gonzaga",1629614,True,2023
+IND,Andrew Nembhard,Andrew,Nembhard,PG,6-5,193,"January 16, 2000",ca,1,"Florida, Gonzaga",1629614,True,2024
+TOR,Gary Trent Jr.,Gary,Trent Jr.,SG,6-5,209,"January 18, 1999",us,4,Duke,1629018,True,2023
+TOR,Gary Trent Jr.,Gary,Trent Jr.,SG,6-5,209,"January 18, 1999",us,5,Duke,1629018,True,2024
+TOR,Chris Boucher,Chris,Boucher,PF,6-9,200,"January 11, 1993",lc,5,Oregon,1628449,True,2023
+TOR,Chris Boucher,Chris,Boucher,PF,6-9,200,"January 11, 1993",lc,6,Oregon,1628449,True,2024
+NYK,Josh Hart,Josh,Hart,SF,6-4,215,"March 6, 1995",us,5,Villanova,1628404,True,2023
+POR,Josh Hart,Josh,Hart,SF,6-4,215,"March 6, 1995",us,5,Villanova,1628404,True,2023
+NYK,Josh Hart,Josh,Hart,SF,6-4,215,"March 6, 1995",us,6,Villanova,1628404,True,2024
+TOR,Thaddeus Young,Thaddeus,Young,PF,6-8,235,"June 21, 1988",us,15,Georgia Tech,201152,True,2023
+PHO,Thaddeus Young,Thaddeus,Young,PF,6-8,235,"June 21, 1988",us,16,Georgia Tech,201152,True,2024
+CHO,Gordon Hayward,Gordon,Hayward,SF,6-7,225,"March 23, 1990",us,12,Butler,202330,True,2023
+OKC,Gordon Hayward,Gordon,Hayward,SF,6-7,225,"March 23, 1990",us,13,Butler,202330,True,2024
+MIL,Lindell Wigginton,Lindell,Wigginton,PG,6-2,189,"March 28, 1998",ca,1,Iowa State,1629623,True,2023
+WAS,Daniel Gafford,Daniel,Gafford,C,6-10,234,"October 1, 1998",us,3,Arkansas,1629655,True,2023
+DAL,Daniel Gafford,Daniel,Gafford,PF,6-10,234,"October 1, 1998",us,4,Arkansas,1629655,True,2024
+MIA,Orlando Robinson,Orlando,Robinson,C,7-0,235,"July 10, 2000",us,R,Fresno State,1631115,True,2023
+MIA,Orlando Robinson,Orlando,Robinson,C,7-0,235,"July 10, 2000",us,1,Fresno State,1631115,True,2024
+POR,Greg Brown III,Greg,Brown III,PF,6-7,205,"September 1, 2001",us,1,Texas,1630535,True,2023
+DAL,Greg Brown III,Greg,Brown III,PF,6-7,205,"September 1, 2001",us,2,Texas,1630535,True,2024
+DET,James Wiseman,James,Wiseman,C,7-0,240,"March 31, 2001",us,1,Memphis,1630164,True,2023
+GSW,James Wiseman,James,Wiseman,C,7-0,240,"March 31, 2001",us,1,Memphis,1630164,True,2023
+DET,James Wiseman,James,Wiseman,C,7-0,240,"March 31, 2001",us,2,Memphis,1630164,True,2024
+PHO,Bismack Biyombo,Bismack,Biyombo,C,6-8,255,"August 28, 1992",cd,11,,202687,True,2023
+OKC,Bismack Biyombo,Bismack,Biyombo,C,6-8,255,"August 28, 1992",cd,12,,202687,True,2024
+NYK,Jalen Brunson,Jalen,Brunson,PG,6-2,190,"August 31, 1996",us,4,Villanova,1628973,True,2023
+NYK,Jalen Brunson,Jalen,Brunson,PG,6-2,190,"August 31, 1996",us,5,Villanova,1628973,True,2024
+NOP,"Devonte' Graham","Devonte'",Graham,PG,6-1,195,"February 22, 1995",us,4,Kansas,1628984,True,2023
+SAS,"Devonte' Graham","Devonte'",Graham,PG,6-1,195,"February 22, 1995",us,4,Kansas,1628984,True,2023
+SAS,"Devonte' Graham","Devonte'",Graham,PG,6-1,195,"February 22, 1995",us,5,Kansas,1628984,True,2024
+PHO,Torrey Craig,Torrey,Craig,PF,6-7,221,"December 19, 1990",us,5,USC Upstate,1628470,True,2023
+CHI,Torrey Craig,Torrey,Craig,SF,6-7,221,"December 19, 1990",us,6,USC Upstate,1628470,True,2024
+CHO,Mason Plumlee,Mason,Plumlee,C,6-10,254,"March 5, 1990",us,9,Duke,203486,True,2023
+LAC,Mason Plumlee,Mason,Plumlee,C,6-10,254,"March 5, 1990",us,9,Duke,203486,True,2023
+LAC,Mason Plumlee,Mason,Plumlee,C,6-10,254,"March 5, 1990",us,10,Duke,203486,True,2024
+DET,Cory Joseph,Cory,Joseph,PG,6-2,200,"August 20, 1991",ca,11,Texas,202709,True,2023
+MIA,Victor Oladipo,Victor,Oladipo,SG,6-3,213,"May 4, 1992",us,9,Indiana,203506,True,2023
+GSW,Jerome Robinson,Jerome,Robinson,SG,6-4,190,"February 22, 1997",us,3,Boston College,1629010,True,2024
+HOU,Tari Eason,Tari,Eason,PF,6-8,216,"May 10, 2001",us,R,"Cincinnati, LSU",1631106,True,2023
+HOU,Tari Eason,Tari,Eason,PF,6-8,216,"May 10, 2001",us,1,"Cincinnati, LSU",1631106,True,2024
+HOU,Usman Garuba,Usman,Garuba,C,6-8,220,"March 9, 2002",es,1,,1630586,True,2023
+GSW,Usman Garuba,Usman,Garuba,PF,6-8,220,"March 9, 2002",es,2,,1630586,True,2024
+HOU,Boban Marjanovic,Boban,Marjanovic,C,7-4,290,"August 15, 1988",rs,7,,1626246,True,2023
+HOU,Boban Marjanovic,Boban,Marjanovic,C,7-4,290,"August 15, 1988",rs,8,,1626246,True,2024
+LAL,Colin Castleton,Colin,Castleton,C,6-11,250,"May 25, 2000",us,R,"Michigan, Florida",1630658,True,2024
+MIA,Kyle Lowry,Kyle,Lowry,PG,6-0,196,"March 25, 1986",us,16,Villanova,200768,True,2023
+PHI,Kyle Lowry,Kyle,Lowry,PG,6-0,196,"March 25, 1986",us,17,Villanova,200768,True,2024
+PHI,Saben Lee,Saben,Lee,PG,6-2,183,"June 23, 1999",us,2,Vanderbilt,1630240,True,2023
+PHO,Saben Lee,Saben,Lee,PG,6-2,183,"June 23, 1999",us,2,Vanderbilt,1630240,True,2023
+PHO,Saben Lee,Saben,Lee,PG,6-2,183,"June 23, 1999",us,3,Vanderbilt,1630240,True,2024
+CLE,Sam Merrill,Sam,Merrill,SG,6-4,205,"May 15, 1996",us,2,Utah State University,1630241,True,2023
+CLE,Sam Merrill,Sam,Merrill,SG,6-4,205,"May 15, 1996",us,3,Utah State University,1630241,True,2024
+BRK,Seth Curry,Seth,Curry,SG,6-1,185,"August 23, 1990",us,8,"Liberty, Duke",203552,True,2023
+CHO,Seth Curry,Seth,Curry,SG,6-1,185,"August 23, 1990",us,9,"Liberty, Duke",203552,True,2024
+HOU,Josh Christopher,Josh,Christopher,SG,6-5,215,"December 8, 2001",us,1,Arizona State,1630528,True,2023
+SAC,Domantas Sabonis,Domantas,Sabonis,C,6-10,240,"May 3, 1996",us,6,Gonzaga,1627734,True,2023
+SAC,Domantas Sabonis,Domantas,Sabonis,C,6-10,240,"May 3, 1996",us,7,Gonzaga,1627734,True,2024
+CHO,Theo Maledon,Theo,Maledon,PG,6-4,175,"June 12, 2001",fr,2,,1630177,True,2023
+ORL,Admiral Schofield,Admiral,Schofield,PF,6-5,241,"March 30, 1997",gb,2,Tennessee,1629678,True,2023
+ORL,Admiral Schofield,Admiral,Schofield,PF,6-5,241,"March 30, 1997",gb,3,Tennessee,1629678,True,2024
+WAS,Jay Huff,Jay,Huff,C,7-1,240,"August 25, 1998",us,1,Virginia,1630643,True,2023
+DEN,Jay Huff,Jay,Huff,C,7-1,240,"August 25, 1998",us,2,Virginia,1630643,True,2024
+NYK,RJ Barrett,RJ,Barrett,SG,6-6,214,"June 14, 2000",ca,3,Duke,1629628,True,2023
+TOR,RJ Barrett,RJ,Barrett,SG,6-6,214,"June 14, 2000",ca,4,Duke,1629628,True,2024
+GSW,Donte DiVincenzo,Donte,DiVincenzo,SG,6-4,203,"January 31, 1997",us,4,Villanova,1628978,True,2023
+NYK,Donte DiVincenzo,Donte,DiVincenzo,SG,6-4,203,"January 31, 1997",us,5,Villanova,1628978,True,2024
+CHI,Derrick Jones Jr.,Derrick,Jones Jr.,PF,6-5,210,"February 15, 1997",us,6,UNLV,1627884,True,2023
+DAL,Derrick Jones Jr.,Derrick,Jones Jr.,SF,6-5,210,"February 15, 1997",us,7,UNLV,1627884,True,2024
+CHI,Alex Caruso,Alex,Caruso,PG,6-5,186,"February 28, 1994",us,5,Texas A&M,1627936,True,2023
+CHI,Alex Caruso,Alex,Caruso,SG,6-5,186,"February 28, 1994",us,6,Texas A&M,1627936,True,2024
+OKC,Aaron Wiggins,Aaron,Wiggins,SG,6-6,200,"January 2, 1999",us,1,Maryland,1630598,True,2023
+OKC,Aaron Wiggins,Aaron,Wiggins,SG,6-6,200,"January 2, 1999",us,2,Maryland,1630598,True,2024
+WAS,Delon Wright,Delon,Wright,PG,6-5,185,"April 26, 1992",us,7,Utah,1626153,True,2023
+MIA,Delon Wright,Delon,Wright,PG,6-5,185,"April 26, 1992",us,8,Utah,1626153,True,2024
+CHO,Marques Bolden,Marques,Bolden,C,6-10,249,"April 17, 1998",us,2,Duke,1629716,True,2024
+ORL,Wendell Carter Jr.,Wendell,Carter Jr.,C,6-10,270,"April 16, 1999",us,4,Duke,1628976,True,2023
+ORL,Wendell Carter Jr.,Wendell,Carter Jr.,C,6-10,270,"April 16, 1999",us,5,Duke,1628976,True,2024
+BOS,Luke Kornet,Luke,Kornet,C,7-2,250,"July 15, 1995",us,5,Vanderbilt,1628436,True,2023
+BOS,Luke Kornet,Luke,Kornet,C,7-2,250,"July 15, 1995",us,6,Vanderbilt,1628436,True,2024
+MIN,Mike Conley,Mike,Conley,PG,6-0,175,"October 11, 1987",us,15,Ohio State,201144,True,2023
+UTA,Mike Conley,Mike,Conley,PG,6-0,175,"October 11, 1987",us,15,Ohio State,201144,True,2023
+MIN,Mike Conley,Mike,Conley,PG,6-0,175,"October 11, 1987",us,16,Ohio State,201144,True,2024
+BOS,Al Horford,Al,Horford,C,6-9,240,"June 3, 1986",do,15,Florida,201143,True,2023
+BOS,Al Horford,Al,Horford,C,6-9,240,"June 3, 1986",do,16,Florida,201143,True,2024
+IND,Jalen Smith,Jalen,Smith,C,6-10,215,"March 16, 2000",us,2,Maryland,1630188,True,2023
+IND,Jalen Smith,Jalen,Smith,C,6-10,215,"March 16, 2000",us,3,Maryland,1630188,True,2024
+CHO,P.J. Washington,P.J.,Washington,PF,6-7,230,"August 23, 1998",us,3,Kentucky,1629023,True,2023
+DAL,P.J. Washington,P.J.,Washington,PF,6-7,230,"August 23, 1998",us,4,Kentucky,1629023,True,2024
+SAC,Colby Jones,Colby,Jones,SG,6-6,205,"May 28, 2002",us,R,Xavier,1641732,True,2024
+ORL,Chuma Okeke,Chuma,Okeke,SF,6-6,229,"August 18, 1998",us,2,Auburn,1629643,True,2023
+ORL,Chuma Okeke,Chuma,Okeke,SF,6-6,229,"August 18, 1998",us,3,Auburn,1629643,True,2024
+DET,Cade Cunningham,Cade,Cunningham,PG,6-6,220,"September 25, 2001",us,1,Oklahoma State,1630595,True,2023
+DET,Cade Cunningham,Cade,Cunningham,PG,6-6,220,"September 25, 2001",us,2,Oklahoma State,1630595,True,2024
+LAL,Troy Brown Jr.,Troy,Brown Jr.,SF,6-6,215,"July 28, 1999",us,4,Oregon,1628972,True,2023
+DET,Troy Brown Jr.,Troy,Brown Jr.,SF,6-6,215,"July 28, 1999",us,5,Oregon,1628972,True,2024
+UTA,Talen Horton-Tucker,Talen,Horton-Tucker,SG,6-4,234,"November 25, 2000",us,3,Iowa State,1629659,True,2023
+UTA,Talen Horton-Tucker,Talen,Horton-Tucker,PG,6-4,234,"November 25, 2000",us,4,Iowa State,1629659,True,2024
+DEN,Bones Hyland,Bones,Hyland,PG,6-2,173,"September 14, 2000",us,1,VCU,1630538,True,2023
+LAC,Bones Hyland,Bones,Hyland,PG,6-2,173,"September 14, 2000",us,1,VCU,1630538,True,2023
+LAC,Bones Hyland,Bones,Hyland,PG,6-2,173,"September 14, 2000",us,2,VCU,1630538,True,2024
+MIA,Jamal Cain,Jamal,Cain,PF,6-7,191,"March 20, 1999",us,R,"Marquette, Oakland",1631288,True,2023
+MIA,Jamal Cain,Jamal,Cain,PF,6-7,191,"March 20, 1999",us,1,"Marquette, Oakland",1631288,True,2024
+DEN,Kentavious Caldwell-Pope,Kentavious,Caldwell-Pope,SG,6-5,204,"February 18, 1993",us,9,Georgia,203484,True,2023
+DEN,Kentavious Caldwell-Pope,Kentavious,Caldwell-Pope,SG,6-5,204,"February 18, 1993",us,10,Georgia,203484,True,2024
+CLE,Donovan Mitchell,Donovan,Mitchell,SG,6-3,215,"September 7, 1996",us,5,Louisville,1628378,True,2023
+CLE,Donovan Mitchell,Donovan,Mitchell,SG,6-3,215,"September 7, 1996",us,6,Louisville,1628378,True,2024
+MIA,Caleb Martin,Caleb,Martin,SF,6-5,205,"September 28, 1995",us,3,"NC State, Nevada",1628997,True,2023
+MIA,Caleb Martin,Caleb,Martin,SF,6-5,205,"September 28, 1995",us,4,"NC State, Nevada",1628997,True,2024
+TOR,Christian Koloko,Christian,Koloko,C,7-1,230,"June 20, 2000",cm,R,Arizona,1631132,True,2023
+LAC,Jordan Miller,Jordan,Miller,SF,6-7,195,"January 23, 2000",us,R,"George Mason, Miami (FL)",1641757,True,2024
+BRK,Nic Claxton,Nic,Claxton,C,6-11,215,"April 17, 1999",us,3,Georgia,1629651,True,2023
+BRK,Nic Claxton,Nic,Claxton,C,6-11,215,"April 17, 1999",us,4,Georgia,1629651,True,2024
+DAL,Dwight Powell,Dwight,Powell,C,6-10,240,"July 20, 1991",ca,8,Stanford,203939,True,2023
+DAL,Dwight Powell,Dwight,Powell,C,6-10,240,"July 20, 1991",ca,9,Stanford,203939,True,2024
+CLE,Isaiah Mobley,Isaiah,Mobley,PF,6-8,240,"September 24, 1999",us,R,USC,1630600,True,2023
+CLE,Isaiah Mobley,Isaiah,Mobley,PF,6-8,240,"September 24, 1999",us,1,USC,1630600,True,2024
+NYK,Obi Toppin,Obi,Toppin,PF,6-9,220,"March 4, 1998",us,2,Dayton,1630167,True,2023
+IND,Obi Toppin,Obi,Toppin,PF,6-9,220,"March 4, 1998",us,3,Dayton,1630167,True,2024
+UTA,Simone Fontecchio,Simone,Fontecchio,SF,6-8,209,"December 9, 1995",it,R,,1631323,True,2023
+DET,Simone Fontecchio,Simone,Fontecchio,SF,6-8,209,"December 9, 1995",it,1,,1631323,True,2024
+NOP,Brandon Ingram,Brandon,Ingram,SF,6-8,190,"September 2, 1997",us,6,Duke,1627742,True,2023
+NOP,Brandon Ingram,Brandon,Ingram,SF,6-8,190,"September 2, 1997",us,7,Duke,1627742,True,2024
+NYK,Jericho Sims,Jericho,Sims,C,6-10,245,"October 20, 1998",us,1,Texas,1630579,True,2023
+NYK,Jericho Sims,Jericho,Sims,C,6-10,245,"October 20, 1998",us,2,Texas,1630579,True,2024
+UTA,Kelly Olynyk,Kelly,Olynyk,C,6-11,240,"April 19, 1991",ca,9,Gonzaga,203482,True,2023
+TOR,Kelly Olynyk,Kelly,Olynyk,C,6-11,240,"April 19, 1991",ca,10,Gonzaga,203482,True,2024
+MIL,Giannis Antetokounmpo,Giannis,Antetokounmpo,PF,6-11,242,"December 6, 1994",gr,9,,203507,True,2023
+MIL,Giannis Antetokounmpo,Giannis,Antetokounmpo,PF,6-11,242,"December 6, 1994",gr,10,,203507,True,2024
+OKC,Aleksej Pokusevski,Aleksej,Pokusevski,PF,7-0,190,"December 26, 2001",rs,2,,1630197,True,2023
+CHO,Aleksej Pokusevski,Aleksej,Pokusevski,PF,7-0,190,"December 26, 2001",rs,3,,1630197,True,2024
+MEM,Kenneth Lofton Jr.,Kenneth,Lofton Jr.,PF,6-7,275,"August 14, 2002",us,R,Louisiana Tech,1631254,True,2023
+UTA,Kenneth Lofton Jr.,Kenneth,Lofton Jr.,PF,6-7,275,"August 14, 2002",us,1,Louisiana Tech,1631254,True,2024
+CHI,Coby White,Coby,White,SG,6-5,195,"February 16, 2000",us,3,UNC,1629632,True,2023
+CHI,Coby White,Coby,White,PG,6-5,195,"February 16, 2000",us,4,UNC,1629632,True,2024
+CHO,Amari Bailey,Amari,Bailey,PG,6-5,185,"February 17, 2004",us,R,UCLA,1641735,True,2024
+DET,Isaiah Livers,Isaiah,Livers,PF,6-7,230,"July 28, 1998",us,1,Michigan,1630587,True,2023
+NOP,Jordan Hawkins,Jordan,Hawkins,SG,6-5,195,"April 29, 2002",us,R,UConn,1641722,True,2024
+WAS,Johnny Davis,Johnny,Davis,SG,6-5,196,"February 27, 2002",us,R,Wisconsin,1631098,True,2023
+WAS,Johnny Davis,Johnny,Davis,SG,6-5,196,"February 27, 2002",us,1,Wisconsin,1631098,True,2024
+BRK,Cameron Johnson,Cameron,Johnson,PF,6-8,210,"March 3, 1996",us,3,"Pitt, UNC",1629661,True,2023
+PHO,Cameron Johnson,Cameron,Johnson,PF,6-8,210,"March 3, 1996",us,3,"Pitt, UNC",1629661,True,2023
+BRK,Cameron Johnson,Cameron,Johnson,PF,6-8,210,"March 3, 1996",us,4,"Pitt, UNC",1629661,True,2024
+CLE,Lamar Stevens,Lamar,Stevens,SF,6-6,230,"July 9, 1997",us,2,Penn State,1630205,True,2023
+MEM,Lamar Stevens,Lamar,Stevens,PF,6-6,230,"July 9, 1997",us,3,Penn State,1630205,True,2024
+PHO,Jock Landale,Jock,Landale,C,6-11,256,"October 25, 1995",au,1,"Saint Mary's",1629111,True,2023
+HOU,Jock Landale,Jock,Landale,C,6-11,256,"October 25, 1995",au,2,"Saint Mary's",1629111,True,2024
+UTA,Johnny Juzang,Johnny,Juzang,SG,6-7,215,"March 17, 2001",us,R,"Kentucky, UCLA",1630548,True,2023
+UTA,Johnny Juzang,Johnny,Juzang,SG,6-7,215,"March 17, 2001",us,1,"Kentucky, UCLA",1630548,True,2024
+TOR,Precious Achiuwa,Precious,Achiuwa,C,6-8,225,"September 19, 1999",ng,2,Memphis,1630173,True,2023
+NYK,Precious Achiuwa,Precious,Achiuwa,PF,6-8,225,"September 19, 1999",ng,3,Memphis,1630173,True,2024
+UTA,Ochai Agbaji,Ochai,Agbaji,SG,6-5,215,"April 20, 2000",us,R,Kansas,1630534,True,2023
+TOR,Ochai Agbaji,Ochai,Agbaji,SG,6-5,215,"April 20, 2000",us,1,Kansas,1630534,True,2024
+IND,Aaron Nesmith,Aaron,Nesmith,SF,6-5,215,"October 16, 1999",us,2,Vanderbilt,1630174,True,2023
+IND,Aaron Nesmith,Aaron,Nesmith,SF,6-5,215,"October 16, 1999",us,3,Vanderbilt,1630174,True,2024
+ATL,Onyeka Okongwu,Onyeka,Okongwu,C,6-8,235,"December 11, 2000",us,2,USC,1630168,True,2023
+ATL,Onyeka Okongwu,Onyeka,Okongwu,C,6-8,235,"December 11, 2000",us,3,USC,1630168,True,2024
+CHI,Nikola Vucevic,Nikola,Vucevic,C,6-10,260,"October 24, 1990",ch,11,USC,202696,True,2023
+CHI,Nikola Vucevic,Nikola,Vucevic,C,6-10,260,"October 24, 1990",ch,12,USC,202696,True,2024
+MIN,Jaylen Clark,Jaylen,Clark,SG,6-5,205,"October 13, 2001",us,R,UCLA,1641740,True,2024
+MIA,Omer Yurtseven,Omer,Yurtseven,C,7-0,264,"June 19, 1998",tr,1,"NC State, Georgetown",1630209,True,2023
+UTA,Omer Yurtseven,Omer,Yurtseven,C,7-0,264,"June 19, 1998",tr,2,"NC State, Georgetown",1630209,True,2024
+POR,Keon Johnson,Keon,Johnson,SG,6-5,186,"March 10, 2002",us,1,Tennessee,1630553,True,2023
+BRK,Keon Johnson,Keon,Johnson,SG,6-5,186,"March 10, 2002",us,2,Tennessee,1630553,True,2024
+WAS,Monte Morris,Monte,Morris,PG,6-2,183,"June 27, 1995",us,5,Iowa State,1628420,True,2023
+MIN,Monte Morris,Monte,Morris,PG,6-2,183,"June 27, 1995",us,6,Iowa State,1628420,True,2024
+DAL,Olivier-Maxence Prosper,Olivier-Maxence,Prosper,PF,6-8,230,"July 3, 2002",ca,R,"Clemson, Marquette",1641765,True,2024
+OKC,Jalen Williams,Jalen,Williams,SG,6-5,195,"April 14, 2001",us,R,Santa Clara,1631114,True,2023
+OKC,Jalen Williams,Jalen,Williams,PF,6-5,195,"April 14, 2001",us,1,Santa Clara,1631114,True,2024
+DEN,Jalen Pickett,Jalen,Pickett,SG,6-4,209,"October 22, 1999",us,R,"Siena College, Penn State",1629618,True,2024
+CHO,Mark Williams,Mark,Williams,C,7-0,241,"December 16, 2001",us,R,Duke,1631109,True,2023
+CHO,Mark Williams,Mark,Williams,C,7-0,241,"December 16, 2001",us,1,Duke,1631109,True,2024
+BRK,Yuta Watanabe,Yuta,Watanabe,SF,6-9,215,"October 13, 1994",jp,4,George Washington,1629139,True,2023
+MEM,Yuta Watanabe,Yuta,Watanabe,SF,6-9,215,"October 13, 1994",jp,5,George Washington,1629139,True,2024
+NOP,Garrett Temple,Garrett,Temple,SG,6-5,195,"May 8, 1986",us,12,LSU,202066,True,2023
+TOR,Garrett Temple,Garrett,Temple,SG,6-5,195,"May 8, 1986",us,13,LSU,202066,True,2024
+PHI,Georges Niang,Georges,Niang,PF,6-7,230,"June 17, 1993",us,6,Iowa State,1627777,True,2023
+CLE,Georges Niang,Georges,Niang,PF,6-7,230,"June 17, 1993",us,7,Iowa State,1627777,True,2024
+NOP,Dyson Daniels,Dyson,Daniels,PG,6-8,199,"March 17, 2003",au,R,,1630700,True,2023
+NOP,Dyson Daniels,Dyson,Daniels,PG,6-8,199,"March 17, 2003",au,1,,1630700,True,2024
+MIA,Cody Zeller,Cody,Zeller,C,6-11,240,"October 5, 1992",us,9,Indiana,203469,True,2023
+NOP,Cody Zeller,Cody,Zeller,C,6-11,240,"October 5, 1992",us,10,Indiana,203469,True,2024
+DET,Isaiah Stewart,Isaiah,Stewart,C,6-8,250,"May 22, 2001",us,2,Washington,1630191,True,2023
+DET,Isaiah Stewart,Isaiah,Stewart,PF,6-8,250,"May 22, 2001",us,3,Washington,1630191,True,2024
+NOP,Dereon Seabron,Dereon,Seabron,SG,6-7,180,"May 26, 2000",us,R,NC State,1631220,True,2023
+NOP,Dereon Seabron,Dereon,Seabron,SG,6-7,180,"May 26, 2000",us,1,NC State,1631220,True,2024
+DAL,Luka Doncic,Luka,Doncic,PG,6-7,230,"February 28, 1999",si,4,,1629029,True,2023
+DAL,Luka Doncic,Luka,Doncic,PG,6-7,230,"February 28, 1999",si,5,,1629029,True,2024
+UTA,Lauri Markkanen,Lauri,Markkanen,PF,7-0,240,"May 22, 1997",fi,5,Arizona,1628374,True,2023
+UTA,Lauri Markkanen,Lauri,Markkanen,PF,7-0,240,"May 22, 1997",fi,6,Arizona,1628374,True,2024
+OKC,Dario Saric,Dario,Saric,C,6-10,225,"April 8, 1994",hr,5,,203967,True,2023
+PHO,Dario Saric,Dario,Saric,PF,6-10,225,"April 8, 1994",hr,5,,203967,True,2023
+GSW,Dario Saric,Dario,Saric,C,6-10,225,"April 8, 1994",hr,6,,203967,True,2024
+LAL,Max Christie,Max,Christie,SG,6-6,190,"February 10, 2003",us,R,Michigan State,1631108,True,2023
+LAL,Max Christie,Max,Christie,SG,6-6,190,"February 10, 2003",us,1,Michigan State,1631108,True,2024
+BOS,Derrick White,Derrick,White,SG,6-4,190,"July 2, 1994",us,5,"Colorado-Colorado Springs, Colorado",1628401,True,2023
+BOS,Derrick White,Derrick,White,SG,6-4,190,"July 2, 1994",us,6,"Colorado-Colorado Springs, Colorado",1628401,True,2024
+CLE,Ricky Rubio,Ricky,Rubio,PG,6-2,190,"October 21, 1990",es,11,,201937,True,2023
